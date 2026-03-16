@@ -1,0 +1,2 @@
+# biblia-catolica-json
+⭐ Bíblia Católica Completa em JSON TODOS os 73 livros da Bíblia Católica em pt-BR Usado em produção no Santuário de Fátima - Santo Amaro SP
