@@ -3,7 +3,7 @@
   "abbrev": "lc",
   "capitulo": 12,
   "total_capitulos": 24,
-  "total_versiculos": 62,
+  "total_versiculos": 58,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -52,15 +52,7 @@
     },
     {
       "number": 12,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Lucas"
-    },
-    {
-      "number": 12,
       "text": "Pois nessa hora o Espírito Santo ensinará o que vocês devem dizer.”"
-    },
-    {
-      "number": 13,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 13,
@@ -105,10 +97,6 @@
     {
       "number": 23,
       "text": "Pois a vida vale mais do que a comida, e o corpo mais do que a roupa."
-    },
-    {
-      "number": 24,
-      "text": "Ler Sao Lucas completo"
     },
     {
       "number": 24,
@@ -249,10 +237,6 @@
     {
       "number": 58,
       "text": "Quando, pois, você está para se apresentar com seu adversário diante do magistrado, procure resolver o caso com o adversário enquanto estão a caminho, senão este o levará ao juiz, e o juiz entregará você ao guarda, e o guarda o jogará na cadeia."
-    },
-    {
-      "number": 59,
-      "text": "Eu digo: daí você não sairá, enquanto não pagar o último centavo.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato M"
     }
   ]
 }

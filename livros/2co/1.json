@@ -3,20 +3,12 @@
   "abbrev": "2co",
   "capitulo": 1,
   "total_capitulos": 13,
-  "total_versiculos": 27,
+  "total_versiculos": 23,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
       "number": 1,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico II Coríntios"
-    },
-    {
-      "number": 1,
       "text": "Paulo, apóstolo de Jesus Cristo por vontade e chamado de Deus, e o irmão Sóstenes,"
-    },
-    {
-      "number": 2,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 2,
@@ -64,10 +56,6 @@
     },
     {
       "number": 13,
-      "text": "Ler Ii Corintios completo"
-    },
-    {
-      "number": 13,
       "text": "De fato não há nada em nossas cartas além daquilo que vocês leem e compreendem. E espero que vocês compreendam plenamente,"
     },
     {
@@ -109,10 +97,6 @@
     {
       "number": 23,
       "text": "Quanto a mim, invoco a Deus como testemunha da minha vida: foi para poupar vocês que eu não voltei a Corinto."
-    },
-    {
-      "number": 24,
-      "text": "Não é nossa intenção dominar a fé que vocês têm, mas colaborar para que vocês tenham alegria. Quanto à fé, vocês estão firmes. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB "
     }
   ]
 }

@@ -3,7 +3,7 @@
   "abbrev": "mc",
   "capitulo": 4,
   "total_capitulos": 16,
-  "total_versiculos": 44,
+  "total_versiculos": 40,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -20,15 +20,7 @@
     },
     {
       "number": 4,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Marcos"
-    },
-    {
-      "number": 4,
       "text": "Enquanto semeava, uma parte caiu à beira do caminho; os passarinhos foram e comeram tudo."
-    },
-    {
-      "number": 5,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 5,
@@ -73,10 +65,6 @@
     {
       "number": 15,
       "text": "Os que estão à beira do caminho são aqueles nos quais a Palavra foi semeada; logo que a ouvem, chega Satanás e tira a Palavra que foi semeada neles."
-    },
-    {
-      "number": 16,
-      "text": "Ler Sao Marcos completo"
     },
     {
       "number": 16,
@@ -177,10 +165,6 @@
     {
       "number": 40,
       "text": "Depois Jesus perguntou aos discípulos: “Por que vocês são tão medrosos? Vocês ainda não têm fé?”"
-    },
-    {
-      "number": 41,
-      "text": "Os discípulos ficaram muito cheios de medo e diziam uns aos outros: “Quem é esse homem, a quem até o vento e o mar obedecem?” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB G"
     }
   ]
 }

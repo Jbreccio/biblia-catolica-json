@@ -3,7 +3,7 @@
   "abbrev": "mc",
   "capitulo": 13,
   "total_capitulos": 16,
-  "total_versiculos": 40,
+  "total_versiculos": 36,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -56,15 +56,7 @@
     },
     {
       "number": 13,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Marcos"
-    },
-    {
-      "number": 13,
       "text": "Vocês serão odiados por todos por causa do meu nome. Quem perseverar até o fim será salvo.”"
-    },
-    {
-      "number": 14,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 14,
@@ -73,10 +65,6 @@
     {
       "number": 15,
       "text": "Quem estiver no terraço, não desça para apanhar coisa alguma dentro de casa."
-    },
-    {
-      "number": 16,
-      "text": "Ler Sao Marcos completo"
     },
     {
       "number": 16,
@@ -161,10 +149,6 @@
     {
       "number": 36,
       "text": "Se ele vier de repente, não deve encontrá-los dormindo."
-    },
-    {
-      "number": 37,
-      "text": "O que eu digo a vocês, digo a todos: Fiquem vigiando.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Po"
     }
   ]
 }

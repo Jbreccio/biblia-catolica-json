@@ -3,28 +3,16 @@
   "abbrev": "2pe",
   "capitulo": 1,
   "total_capitulos": 3,
-  "total_versiculos": 24,
+  "total_versiculos": 20,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
-    {
-      "number": 1,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico II São Pedro"
-    },
     {
       "number": 1,
       "text": "Simão Pedro, servo e apóstolo de Jesus Cristo, aos que receberam, pela justiça de nosso Deus e Salvador Jesus Cristo, uma fé preciosa como a nossa."
     },
     {
       "number": 2,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
-    },
-    {
-      "number": 2,
       "text": "Que haja abundância de graça e paz, mediante o conhecimento de Deus e de Jesus Cristo nosso Senhor."
-    },
-    {
-      "number": 3,
-      "text": "Ler Ii Sao Pedro completo"
     },
     {
       "number": 3,
@@ -97,10 +85,6 @@
     {
       "number": 20,
       "text": "Antes de mais nada, saibam disto: nenhuma profecia da Escritura provém de interpretação particular,"
-    },
-    {
-      "number": 21,
-      "text": "pois a profecia jamais veio por vontade humana. Pelo contrário, impelidos pelo Espírito Santo, os homens falaram como porta-vozes de Deus. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Bas"
     }
   ]
 }

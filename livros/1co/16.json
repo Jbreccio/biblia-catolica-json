@@ -3,7 +3,7 @@
   "abbrev": "1co",
   "capitulo": 16,
   "total_capitulos": 16,
-  "total_versiculos": 27,
+  "total_versiculos": 23,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -64,19 +64,7 @@
     },
     {
       "number": 15,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
-    },
-    {
-      "number": 15,
       "text": "Mais uma recomendação, irmãos: vocês conhecem a família de Esté fanas, que é o primeiro fruto da Acaia; eles se dedicaram ao serviço dos irmãos."
-    },
-    {
-      "number": 16,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico I Coríntios"
-    },
-    {
-      "number": 16,
-      "text": "Ler I Corintios completo"
     },
     {
       "number": 16,
@@ -109,10 +97,6 @@
     {
       "number": 23,
       "text": "Que a graça do Senhor Jesus esteja com vocês."
-    },
-    {
-      "number": 24,
-      "text": "Eu amo a todos vocês em Jesus Cristo. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nun"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "abbrev": "mt",
   "capitulo": 11,
   "total_capitulos": 28,
-  "total_versiculos": 33,
+  "total_versiculos": 29,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -48,15 +48,7 @@
     },
     {
       "number": 11,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Mateus"
-    },
-    {
-      "number": 11,
       "text": "Eu garanto a vocês: de todos os homens que já nasceram, nenhum é maior do que João Batista. No entanto, o menor no Reino do Céu é maior do que ele."
-    },
-    {
-      "number": 12,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 12,
@@ -124,19 +116,11 @@
     },
     {
       "number": 28,
-      "text": "Ler Sao Mateus completo"
-    },
-    {
-      "number": 28,
       "text": "Venham para mim todos vocês que estão cansados de carregar o peso do seu fardo, e eu lhes darei descanso."
     },
     {
       "number": 29,
       "text": "Carreguem a minha carga e aprendam de mim, porque sou manso e humilde de coração, e vocês encontrarão descanso para suas vidas."
-    },
-    {
-      "number": 30,
-      "text": "Porque a minha carga é suave e o meu fardo é leve.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppi"
     }
   ]
 }

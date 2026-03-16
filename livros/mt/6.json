@@ -3,7 +3,7 @@
   "abbrev": "mt",
   "capitulo": 6,
   "total_capitulos": 28,
-  "total_versiculos": 37,
+  "total_versiculos": 33,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -28,15 +28,7 @@
     },
     {
       "number": 6,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Mateus"
-    },
-    {
-      "number": 6,
       "text": "Ao contrário, quando você rezar, entre no seu quarto, feche a porta, e reze ao seu Pai ocultamente; e o seu Pai, que vê o escondido, recompensará você.”"
-    },
-    {
-      "number": 7,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 7,
@@ -124,10 +116,6 @@
     },
     {
       "number": 28,
-      "text": "Ler Sao Mateus completo"
-    },
-    {
-      "number": 28,
       "text": "E por que vocês ficam preocupados com a roupa? Olhem como crescem os lírios do campo: eles não trabalham nem fiam."
     },
     {
@@ -149,10 +137,6 @@
     {
       "number": 33,
       "text": "Pelo contrário, em primeiro lugar busquem o Reino de Deus e a sua justiça, e Deus dará a vocês, em acréscimo, todas essas coisas."
-    },
-    {
-      "number": 34,
-      "text": "Portanto, não se preocupem com o dia de amanhã, pois o dia de amanhã terá suas preocupações. Basta a cada dia a própria dificuldade.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskervi"
     }
   ]
 }

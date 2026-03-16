@@ -3,20 +3,12 @@
   "abbrev": "1pe",
   "capitulo": 1,
   "total_capitulos": 5,
-  "total_versiculos": 28,
+  "total_versiculos": 24,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
       "number": 1,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico I São Pedro"
-    },
-    {
-      "number": 1,
       "text": "Pedro, após-tolo de Jesus Cristo, aos que vivem dispersos como estrangeiros no Ponto, Galácia, Capadócia, Ásia e Bitínia. Vocês foram escolhidos"
-    },
-    {
-      "number": 2,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 2,
@@ -29,10 +21,6 @@
     {
       "number": 4,
       "text": "para uma herança que não se corrompe, não se mancha e não murcha. Essa herança está reservada no céu para vocês"
-    },
-    {
-      "number": 5,
-      "text": "Ler I Sao Pedro completo"
     },
     {
       "number": 5,
@@ -113,10 +101,6 @@
     {
       "number": 24,
       "text": "De fato, toda carne é como erva e toda a sua glória é como flor da erva: a erva seca e a flor cai;"
-    },
-    {
-      "number": 25,
-      "text": "mas a palavra do Senhor permanece para sempre. E essa é a palavra que foi anunciada a vocês. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectr"
     }
   ]
 }

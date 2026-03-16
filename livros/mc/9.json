@@ -3,7 +3,7 @@
   "abbrev": "mc",
   "capitulo": 9,
   "total_capitulos": 16,
-  "total_versiculos": 53,
+  "total_versiculos": 49,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -40,15 +40,7 @@
     },
     {
       "number": 9,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Marcos"
-    },
-    {
-      "number": 9,
       "text": "Ao descerem da montanha, Jesus recomendou-lhes que não contassem a ninguém o que tinham visto, até que o Filho do Homem tivesse ressuscitado dos mortos."
-    },
-    {
-      "number": 10,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 10,
@@ -73,10 +65,6 @@
     {
       "number": 15,
       "text": "Logo que a multidão viu Jesus, ficou surpresa e correu para cumprimentá-lo."
-    },
-    {
-      "number": 16,
-      "text": "Ler Sao Marcos completo"
     },
     {
       "number": 16,
@@ -213,10 +201,6 @@
     {
       "number": 49,
       "text": "Com efeito, todos serão salgados com o fogo."
-    },
-    {
-      "number": 50,
-      "text": "O sal é bom. Mas se o sal se tornar insosso, com o que vocês lhe darão sabor? Tenham sal em vocês, e estejam em paz uns com os outros.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Basker"
     }
   ]
 }

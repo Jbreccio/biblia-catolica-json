@@ -3,7 +3,7 @@
   "abbrev": "1co",
   "capitulo": 3,
   "total_capitulos": 16,
-  "total_versiculos": 25,
+  "total_versiculos": 21,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -16,15 +16,7 @@
     },
     {
       "number": 3,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico I Coríntios"
-    },
-    {
-      "number": 3,
       "text": "pois ainda se deixam levar por instintos egoístas. De fato, se entre vocês há invejas e brigas, não será pelo fato de serem guiados por instintos egoístas e por se comportarem como qualquer um?"
-    },
-    {
-      "number": 4,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 4,
@@ -72,10 +64,6 @@
     },
     {
       "number": 16,
-      "text": "Ler I Corintios completo"
-    },
-    {
-      "number": 16,
       "text": "Vocês não sabem que são templo de Deus e que o Espírito de Deus habita em vocês?"
     },
     {
@@ -101,10 +89,6 @@
     {
       "number": 22,
       "text": "Paulo, Apolo, Pedro, o mundo, a vida, a morte, as coisas presentes e as futuras. Tudo é de vocês;"
-    },
-    {
-      "number": 23,
-      "text": "mas vocês são de Cristo e Cristo é de Deus. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Ralew"
     }
   ]
 }

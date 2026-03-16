@@ -3,7 +3,7 @@
   "abbrev": "1pe",
   "capitulo": 2,
   "total_capitulos": 5,
-  "total_versiculos": 28,
+  "total_versiculos": 24,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -12,15 +12,7 @@
     },
     {
       "number": 2,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico I São Pedro"
-    },
-    {
-      "number": 2,
       "text": "Como crianças recém-nascidas, desejem o leite puro da Palavra, a fim de que vocês, com esse leite, cresçam para a salvação,"
-    },
-    {
-      "number": 3,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 3,
@@ -29,10 +21,6 @@
     {
       "number": 4,
       "text": "Aproximem-se do Senhor, a pedra viva rejeitada pelos homens, mas escolhida e preciosa aos olhos de Deus."
-    },
-    {
-      "number": 5,
-      "text": "Ler I Sao Pedro completo"
     },
     {
       "number": 5,
@@ -113,10 +101,6 @@
     {
       "number": 24,
       "text": "Sobre o madeiro levou os nossos pecados em seu próprio corpo, a fim de que nós, mortos para nossos pecados, vivêssemos para a justiça. Através dos ferimentos dele é que vocês foram curados,"
-    },
-    {
-      "number": 25,
-      "text": "pois estavam desgarrados como ovelhas, mas agora retornaram ao seu Pastor e Guardião. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Robo"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "abbrev": "lc",
   "capitulo": 21,
   "total_capitulos": 24,
-  "total_versiculos": 41,
+  "total_versiculos": 37,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -88,15 +88,7 @@
     },
     {
       "number": 21,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Lucas"
-    },
-    {
-      "number": 21,
       "text": "Então, os que estiverem na Judeia, devem fugir para as montanhas; os que estiverem no meio da cidade, devem afastar-se; os que estiverem no campo, não entrem na cidade."
-    },
-    {
-      "number": 22,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 22,
@@ -105,10 +97,6 @@
     {
       "number": 23,
       "text": "Infelizes das mulheres grávidas e daquelas que estiverem amamentando nesses dias, pois haverá uma grande desgraça nessa terra e uma ira contra esse povo."
-    },
-    {
-      "number": 24,
-      "text": "Ler Sao Lucas completo"
     },
     {
       "number": 24,
@@ -165,10 +153,6 @@
     {
       "number": 37,
       "text": "De dia, Jesus ensinava no Templo. ao anoitecer, ele saía e passava a noite no chamado monte das Oliveiras."
-    },
-    {
-      "number": 38,
-      "text": "De manhã cedo, todo o povo ia ao Templo para ouvi-lo. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Pop"
     }
   ]
 }

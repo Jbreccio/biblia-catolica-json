@@ -3,7 +3,7 @@
   "abbrev": "mt",
   "capitulo": 9,
   "total_capitulos": 28,
-  "total_versiculos": 41,
+  "total_versiculos": 37,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -40,15 +40,7 @@
     },
     {
       "number": 9,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Mateus"
-    },
-    {
-      "number": 9,
       "text": "Saindo daí, Jesus viu um homem chamado Mateus, sentado na coletoria de impostos, e lhe disse: “Siga-me!” Ele se levantou e seguiu a Jesus."
-    },
-    {
-      "number": 10,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 10,
@@ -124,10 +116,6 @@
     },
     {
       "number": 28,
-      "text": "Ler Sao Mateus completo"
-    },
-    {
-      "number": 28,
       "text": "Jesus chegou em casa, e os cegos se aproximaram dele. Então Jesus perguntou: “Vocês acreditam que eu posso fazer isso?” Eles responderam: “Sim, Senhor.”"
     },
     {
@@ -165,10 +153,6 @@
     {
       "number": 37,
       "text": "Então Jesus disse a seus discípulos: “A colheita é grande, mas os trabalhadores são poucos!"
-    },
-    {
-      "number": 38,
-      "text": "Por isso, peçam ao dono da colheita que mande trabalhadores para a colheita.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open "
     }
   ]
 }

@@ -3,7 +3,7 @@
   "abbrev": "mt",
   "capitulo": 10,
   "total_capitulos": 28,
-  "total_versiculos": 45,
+  "total_versiculos": 41,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -44,15 +44,7 @@
     },
     {
       "number": 10,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Mateus"
-    },
-    {
-      "number": 10,
       "text": "nem sacola para o caminho, nem duas túnicas, nem calçados, nem bastão, porque o operário tem direito ao seu alimento."
-    },
-    {
-      "number": 11,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 11,
@@ -124,10 +116,6 @@
     },
     {
       "number": 28,
-      "text": "Ler Sao Mateus completo"
-    },
-    {
-      "number": 28,
       "text": "Não tenham medo daqueles que matam o corpo, mas não podem matar a alma. Pelo contrário, tenham medo daquele que pode arruinar a alma e o corpo no inferno!"
     },
     {
@@ -181,10 +169,6 @@
     {
       "number": 41,
       "text": "Quem recebe um profeta, por ser profeta, receberá a recompensa de profeta. E quem recebe um justo, por ser justo, receberá a recompensa de justo."
-    },
-    {
-      "number": 42,
-      "text": "Quem der ainda que seja apenas um copo de água fria a um desses pequeninos, por ser meu discípulo, eu garanto a vocês: não perderá a sua recompensa.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Tex"
     }
   ]
 }

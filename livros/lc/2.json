@@ -3,7 +3,7 @@
   "abbrev": "lc",
   "capitulo": 2,
   "total_capitulos": 24,
-  "total_versiculos": 55,
+  "total_versiculos": 50,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -12,15 +12,7 @@
     },
     {
       "number": 2,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Lucas"
-    },
-    {
-      "number": 2,
       "text": "Esse primeiro recenseamento foi feito quando Quirino era governador da Síria."
-    },
-    {
-      "number": 3,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 3,
@@ -108,10 +100,6 @@
     },
     {
       "number": 24,
-      "text": "Ler Sao Lucas completo"
-    },
-    {
-      "number": 24,
       "text": "Foram também para oferecer em sacrifício um par de rolas ou dois pombinhos, conforme ordena a Lei do Senhor."
     },
     {
@@ -183,10 +171,6 @@
       "text": "Os pais de Jesus iam todos os anos a Jerusalém, para a festa da Páscoa."
     },
     {
-      "number": 42,
-      "text": "Quando o menino completou doze anos, subiram para a festa, como de costume."
-    },
-    {
       "number": 43,
       "text": "Passados os dias da Páscoa, voltaram, mas o menino Jesus ficou em Jerusalém, sem que seus pais o notassem."
     },
@@ -221,10 +205,6 @@
     {
       "number": 51,
       "text": "Jesus desceu então com seus pais para Nazaré, e permaneceu obediente a eles. E sua mãe conservava no coração todas essas coisas."
-    },
-    {
-      "number": 52,
-      "text": "E Jesus crescia em sabedoria, em estatura e graça, diante de Deus e dos homens. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Ope"
     }
   ]
 }

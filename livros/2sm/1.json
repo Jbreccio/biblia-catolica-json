@@ -3,20 +3,12 @@
   "abbrev": "2sm",
   "capitulo": 1,
   "total_capitulos": 24,
-  "total_versiculos": 30,
+  "total_versiculos": 26,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
       "number": 1,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico II Samuel"
-    },
-    {
-      "number": 1,
       "text": "Depois da morte de Saul, Davi voltou da vitória sobre os amalecitas e ficou dois dias em Siceleg."
-    },
-    {
-      "number": 2,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 2,
@@ -108,10 +100,6 @@
     },
     {
       "number": 24,
-      "text": "Ler Ii Samuel completo"
-    },
-    {
-      "number": 24,
       "text": "Moças de Israel, chorem por Saul: ele vestiu vocês com púrpura e linho, e enfeitou de ouro os seus vestidos."
     },
     {
@@ -121,10 +109,6 @@
     {
       "number": 26,
       "text": "Como sofro por você, Jônatas, meu irmão! Como eu lhe queria bem! Para mim, o seu amor era mais caro do que o amor das mulheres!"
-    },
-    {
-      "number": 27,
-      "text": "Como caíram os valentes! Como pereceram as armas de guerra! Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserr"
     }
   ]
 }

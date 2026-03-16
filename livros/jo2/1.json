@@ -3,20 +3,12 @@
   "abbrev": "jo2",
   "capitulo": 1,
   "total_capitulos": 21,
-  "total_versiculos": 54,
+  "total_versiculos": 50,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
       "number": 1,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São João"
-    },
-    {
-      "number": 1,
       "text": "No começo a Palavra já existia: a Palavra estava voltada para Deus, e a Palavra era Deus."
-    },
-    {
-      "number": 2,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 2,
@@ -93,10 +85,6 @@
     {
       "number": 20,
       "text": "João confessou e não negou. Ele confessou: “Eu não sou o Messias.”"
-    },
-    {
-      "number": 21,
-      "text": "Ler Sao Joao completo"
     },
     {
       "number": 21,
@@ -217,10 +205,6 @@
     {
       "number": 50,
       "text": "Jesus disse: “Você está acreditando só porque eu lhe disse: ‘Vi você debaixo da figueira’? No entanto, você verá coisas maiores do que essas.”"
-    },
-    {
-      "number": 51,
-      "text": "E Jesus continuou: “Eu lhes garanto: vocês verão o céu aberto, e os anjos de Deus subindo e descendo sobre o Filho do Homem.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB G"
     }
   ]
 }

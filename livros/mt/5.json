@@ -3,7 +3,7 @@
   "abbrev": "mt",
   "capitulo": 5,
   "total_capitulos": 28,
-  "total_versiculos": 51,
+  "total_versiculos": 47,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -24,15 +24,7 @@
     },
     {
       "number": 5,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Mateus"
-    },
-    {
-      "number": 5,
       "text": "Felizes os mansos, porque possuirão a terra."
-    },
-    {
-      "number": 6,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 6,
@@ -124,10 +116,6 @@
     },
     {
       "number": 28,
-      "text": "Ler Sao Mateus completo"
-    },
-    {
-      "number": 28,
       "text": "Eu, porém, lhes digo: todo aquele que olha para uma mulher e deseja possuí-la, já cometeu adultério com ela no coração."
     },
     {
@@ -205,10 +193,6 @@
     {
       "number": 47,
       "text": "E se vocês cumprimentam somente seus irmãos, o que é que vocês fazem de extraordinário? Os pagãos não fazem a mesma coisa?"
-    },
-    {
-      "number": 48,
-      "text": "Portanto, sejam perfeitos como é perfeito o Pai de vocês que está no céu.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open San"
     }
   ]
 }

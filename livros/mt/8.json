@@ -3,7 +3,7 @@
   "abbrev": "mt",
   "capitulo": 8,
   "total_capitulos": 28,
-  "total_versiculos": 37,
+  "total_versiculos": 33,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -36,15 +36,7 @@
     },
     {
       "number": 8,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Mateus"
-    },
-    {
-      "number": 8,
       "text": "O oficial disse: “Senhor, eu não sou digno de que entres em minha casa. Dize uma só palavra e meu empregado ficará curado."
-    },
-    {
-      "number": 9,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 9,
@@ -124,10 +116,6 @@
     },
     {
       "number": 28,
-      "text": "Ler Sao Mateus completo"
-    },
-    {
-      "number": 28,
       "text": "Quando Jesus chegou à outra margem, à terra dos gadarenos, foram ao encontro dele dois homens possuídos pelo demônio. Saíam do meio dos túmulos e eram muito selvagens, de modo que ninguém podia passar por esse caminho."
     },
     {
@@ -149,10 +137,6 @@
     {
       "number": 33,
       "text": "Os homens que guardavam os porcos saíram correndo, foram à cidade e contaram tudo, inclusive o caso dos possuídos pelo demônio."
-    },
-    {
-      "number": 34,
-      "text": "Então toda a cidade saiu ao encontro de Jesus. Vendo-o, começaram a suplicar que Jesus se retirasse da região deles. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond C"
     }
   ]
 }

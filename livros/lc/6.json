@@ -3,7 +3,7 @@
   "abbrev": "lc",
   "capitulo": 6,
   "total_capitulos": 24,
-  "total_versiculos": 52,
+  "total_versiculos": 48,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -28,15 +28,7 @@
     },
     {
       "number": 6,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Lucas"
-    },
-    {
-      "number": 6,
       "text": "Em outro sábado, Jesus entrou na sinagoga e começou a ensinar. Aí havia um homem com a mão direita seca."
-    },
-    {
-      "number": 7,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 7,
@@ -105,10 +97,6 @@
     {
       "number": 23,
       "text": "Alegrem-se nesse dia, pulem de alegria, pois será grande a recompensa de vocês no céu, porque era assim que os antepassados deles tratavam os profetas."
-    },
-    {
-      "number": 24,
-      "text": "Ler Sao Lucas completo"
     },
     {
       "number": 24,
@@ -209,10 +197,6 @@
     {
       "number": 48,
       "text": "É semelhante a um homem que construiu uma casa: cavou fundo e colocou o alicerce sobre a rocha. Veio a enchente, a enxurrada bateu contra a casa, mas não conseguiu derrubá-la, porque estava bem construída."
-    },
-    {
-      "number": 49,
-      "text": "Aquele que ouve e não põe em prática, é semelhante a um homem que construiu uma casa sobre a terra, sem alicerce. A enxurrada bateu contra a casa, e ela imediatamente desabou; e foi grande a ruína dessa casa.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT "
     }
   ]
 }

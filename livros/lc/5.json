@@ -3,7 +3,7 @@
   "abbrev": "lc",
   "capitulo": 5,
   "total_capitulos": 24,
-  "total_versiculos": 42,
+  "total_versiculos": 38,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -24,15 +24,7 @@
     },
     {
       "number": 5,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Lucas"
-    },
-    {
-      "number": 5,
       "text": "Simão respondeu: “Mestre, tentamos a noite inteira, e não pescamos nada. Mas em atenção à tua palavra, vou lançar as redes.”"
-    },
-    {
-      "number": 6,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 6,
@@ -108,10 +100,6 @@
     },
     {
       "number": 24,
-      "text": "Ler Sao Lucas completo"
-    },
-    {
-      "number": 24,
       "text": "Pois bem: para vocês ficarem sabendo que o Filho do Homem tem poder para perdoar pecados, — disse Jesus ao paralítico — eu ordeno a você: Levante-se, pegue a sua cama e volte para casa.”"
     },
     {
@@ -169,10 +157,6 @@
     {
       "number": 38,
       "text": "Vinho novo deve ser colocado em barris novos."
-    },
-    {
-      "number": 39,
-      "text": "E ninguém, depois de beber vinho velho, deseja vinho novo, porque diz: o velho é melhor.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral "
     }
   ]
 }

@@ -3,20 +3,12 @@
   "abbrev": "tg",
   "capitulo": 1,
   "total_capitulos": 5,
-  "total_versiculos": 30,
+  "total_versiculos": 25,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
       "number": 1,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Tiago"
-    },
-    {
-      "number": 1,
       "text": "Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos espalhadas pelo mundo: saudações!"
-    },
-    {
-      "number": 2,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 2,
@@ -25,14 +17,6 @@
     {
       "number": 3,
       "text": "pois vocês sabem que aprendem a perseverar quando sua fé é posta à prova."
-    },
-    {
-      "number": 4,
-      "text": "Mas é preciso que a perseverança complete a sua obra em vocês, para que sejam homens completos e autênticos, sem nenhuma deficiência."
-    },
-    {
-      "number": 5,
-      "text": "Ler Sao Tiago completo"
     },
     {
       "number": 5,
@@ -121,10 +105,6 @@
     {
       "number": 26,
       "text": "Se alguém pensa que é religioso e não sabe controlar a língua, está enganando a si mesmo, e sua religião não vale nada."
-    },
-    {
-      "number": 27,
-      "text": "Religião pura e sem mancha diante de Deus, nosso Pai, é esta: socorrer os órfãos e as viúvas em aflição, e manter-se livre da corrupção do mundo. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Li"
     }
   ]
 }

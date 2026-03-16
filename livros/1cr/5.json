@@ -3,7 +3,7 @@
   "abbrev": "1cr",
   "capitulo": 5,
   "total_capitulos": 29,
-  "total_versiculos": 44,
+  "total_versiculos": 40,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -24,15 +24,7 @@
     },
     {
       "number": 5,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico I Crônicas"
-    },
-    {
-      "number": 5,
       "text": "Micas, Reaías, Baal"
-    },
-    {
-      "number": 6,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 6,
@@ -128,10 +120,6 @@
     },
     {
       "number": 29,
-      "text": "Ler I Cronicas completo"
-    },
-    {
-      "number": 29,
       "text": "Aarão, Moisés e Maria eram filhos de Amram. Filhos de Aarão: Nadab, Abiú, Eleazar e Itamar."
     },
     {
@@ -177,10 +165,6 @@
     {
       "number": 40,
       "text": "pai de Saraías, pai de Josedec."
-    },
-    {
-      "number": 41,
-      "text": "Josedec foi para o exílio quando Javé, por meio de Nabucodonosor, exilou Judá e Jerusalém. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral"
     }
   ]
 }

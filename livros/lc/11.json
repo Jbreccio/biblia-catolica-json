@@ -3,7 +3,7 @@
   "abbrev": "lc",
   "capitulo": 11,
   "total_capitulos": 24,
-  "total_versiculos": 57,
+  "total_versiculos": 53,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -48,15 +48,7 @@
     },
     {
       "number": 11,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Lucas"
-    },
-    {
-      "number": 11,
       "text": "Será que alguém de vocês que é pai, se o filho lhe pede um peixe, em lugar do peixe lhe dá uma cobra?"
-    },
-    {
-      "number": 12,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 12,
@@ -105,10 +97,6 @@
     {
       "number": 23,
       "text": "Quem não está comigo, está contra mim. E quem não recolhe comigo, dispersa.”"
-    },
-    {
-      "number": 24,
-      "text": "Ler Sao Lucas completo"
     },
     {
       "number": 24,
@@ -229,10 +217,6 @@
     {
       "number": 53,
       "text": "Quando Jesus saiu daí, os doutores da Lei e os fariseus começaram a tratá-lo mal e a provocá-lo sobre muitos pontos."
-    },
-    {
-      "number": 54,
-      "text": "Armavam ciladas, para pegá-lo de surpresa em qualquer coisa que saísse de sua boca. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto"
     }
   ]
 }

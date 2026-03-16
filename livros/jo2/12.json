@@ -3,7 +3,7 @@
   "abbrev": "jo2",
   "capitulo": 12,
   "total_capitulos": 21,
-  "total_versiculos": 53,
+  "total_versiculos": 49,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -52,15 +52,7 @@
     },
     {
       "number": 12,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São João"
-    },
-    {
-      "number": 12,
       "text": "No dia seguinte, a grande multidão que tinha ido para a festa ouviu dizer que Jesus estava chegando a Jerusalém."
-    },
-    {
-      "number": 13,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 13,
@@ -93,10 +85,6 @@
     {
       "number": 20,
       "text": "Entre os que tinham ido à festa para adorar a Deus, havia alguns gregos."
-    },
-    {
-      "number": 21,
-      "text": "Ler Sao Joao completo"
     },
     {
       "number": 21,
@@ -213,10 +201,6 @@
     {
       "number": 49,
       "text": "Porque eu não falei por mim mesmo. O Pai que me enviou, ele é quem me ordenou o que eu devia dizer e falar."
-    },
-    {
-      "number": 50,
-      "text": "E eu sei que o mandamento dele é vida eterna. Portanto, o que digo, eu o digo conforme o Pai me disse.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Gara"
     }
   ]
 }

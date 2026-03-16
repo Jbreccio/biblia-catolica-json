@@ -3,7 +3,7 @@
   "abbrev": "mc",
   "capitulo": 2,
   "total_capitulos": 16,
-  "total_versiculos": 31,
+  "total_versiculos": 27,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -12,15 +12,7 @@
     },
     {
       "number": 2,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Marcos"
-    },
-    {
-      "number": 2,
       "text": "E tanta gente se reuniu aí que já não havia lugar nem na frente da casa. E Jesus anunciava a palavra."
-    },
-    {
-      "number": 3,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 3,
@@ -76,10 +68,6 @@
     },
     {
       "number": 16,
-      "text": "Ler Sao Marcos completo"
-    },
-    {
-      "number": 16,
       "text": "Alguns doutores da Lei, que eram fariseus, viram que Jesus estava comendo com pecadores e cobradores de impostos. Então eles perguntaram aos discípulos: “Por que Jesus come e bebe junto com cobradores de impostos e pecadores?”"
     },
     {
@@ -125,10 +113,6 @@
     {
       "number": 27,
       "text": "E Jesus acrescentou: “O sábado foi feito para servir ao homem, e não o homem para servir ao sábado."
-    },
-    {
-      "number": 28,
-      "text": "Portanto, o Filho do Homem é senhor até mesmo do sábado.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat"
     }
   ]
 }

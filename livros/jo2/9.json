@@ -3,7 +3,7 @@
   "abbrev": "jo2",
   "capitulo": 9,
   "total_capitulos": 21,
-  "total_versiculos": 44,
+  "total_versiculos": 40,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -40,15 +40,7 @@
     },
     {
       "number": 9,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São João"
-    },
-    {
-      "number": 9,
       "text": "Uns diziam: “É ele mesmo.” Outros, porém, diziam: “Não é ele não, mas parece com ele.” Ele, no entanto, dizia: “Sou eu mesmo.”"
-    },
-    {
-      "number": 10,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 10,
@@ -93,10 +85,6 @@
     {
       "number": 20,
       "text": "Os pais disseram: “Sabemos que é o nosso filho e que nasceu cego."
-    },
-    {
-      "number": 21,
-      "text": "Ler Sao Joao completo"
     },
     {
       "number": 21,
@@ -177,10 +165,6 @@
     {
       "number": 40,
       "text": "Alguns fariseus que estavam perto dele ouviram isso e disseram: “Será que também somos cegos?”"
-    },
-    {
-      "number": 41,
-      "text": "Jesus respondeu: “Se vocês fossem cegos, não teriam nenhum pecado. Mas como vocês dizem: ‘Nós vemos’, o pecado de vocês permanece.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskervill"
     }
   ]
 }

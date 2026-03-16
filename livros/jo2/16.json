@@ -3,7 +3,7 @@
   "abbrev": "jo2",
   "capitulo": 16,
   "total_capitulos": 21,
-  "total_versiculos": 36,
+  "total_versiculos": 32,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -68,15 +68,7 @@
     },
     {
       "number": 16,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São João"
-    },
-    {
-      "number": 16,
       "text": "“Daqui a pouco vocês não me verão mais, porém, mais um pouco, e me tornarão a ver.”"
-    },
-    {
-      "number": 17,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 17,
@@ -93,10 +85,6 @@
     {
       "number": 20,
       "text": "Eu lhes garanto: vocês vão gemer e se lamentar, enquanto o mundo vai se alegrar. Vocês ficarão angustiados, mas a angústia de vocês se transformará em alegria."
-    },
-    {
-      "number": 21,
-      "text": "Ler Sao Joao completo"
     },
     {
       "number": 21,
@@ -145,10 +133,6 @@
     {
       "number": 32,
       "text": "Vem a hora, e já chegou, em que vocês se espalharão, cada um para o seu lado, e me deixarão sozinho. Mas eu não estou sozinho, pois o Pai está comigo."
-    },
-    {
-      "number": 33,
-      "text": "Eu disse essas coisas para que vocês tenham a minha paz. Neste mundo vocês terão aflições, mas tenham coragem; eu venci o mundo.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville "
     }
   ]
 }

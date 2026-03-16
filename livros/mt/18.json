@@ -3,7 +3,7 @@
   "abbrev": "mt",
   "capitulo": 18,
   "total_capitulos": 28,
-  "total_versiculos": 38,
+  "total_versiculos": 34,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -76,15 +76,7 @@
     },
     {
       "number": 18,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Mateus"
-    },
-    {
-      "number": 18,
       "text": "Eu lhes garanto: tudo o que vocês ligarem na terra, será ligado no céu, e tudo o que vocês desligarem na terra, será desligado no céu."
-    },
-    {
-      "number": 19,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 19,
@@ -124,10 +116,6 @@
     },
     {
       "number": 28,
-      "text": "Ler Sao Mateus completo"
-    },
-    {
-      "number": 28,
       "text": "Ao sair daí, esse empregado encontrou um de seus companheiros que lhe devia cem moedas de prata. Ele o agarrou e começou a sufocá-lo, dizendo: ‘Pague logo o que me deve’."
     },
     {
@@ -153,10 +141,6 @@
     {
       "number": 34,
       "text": "O patrão indignou-se, e mandou entregar esse empregado aos torturadores, até que pagasse toda a sua dívida."
-    },
-    {
-      "number": 35,
-      "text": "É assim que fará com vocês o meu Pai que está no céu, se cada um não perdoar de coração ao seu irmão.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garam"
     }
   ]
 }

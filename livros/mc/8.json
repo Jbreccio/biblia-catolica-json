@@ -3,7 +3,7 @@
   "abbrev": "mc",
   "capitulo": 8,
   "total_capitulos": 16,
-  "total_versiculos": 41,
+  "total_versiculos": 37,
   "fonte": "Biblia Pastoral — Ed. Paulus",
   "versiculos": [
     {
@@ -36,15 +36,7 @@
     },
     {
       "number": 8,
-      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Marcos"
-    },
-    {
-      "number": 8,
       "text": "Comeram e ficaram satisfeitos, e recolheram sete cestos dos pedaços que sobraram."
-    },
-    {
-      "number": 9,
-      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
     },
     {
       "number": 9,
@@ -73,10 +65,6 @@
     {
       "number": 15,
       "text": "Então Jesus os advertiu: “Prestem atenção e tomem cuidado com o fermento dos fariseus e com o fermento de Herodes.”"
-    },
-    {
-      "number": 16,
-      "text": "Ler Sao Marcos completo"
     },
     {
       "number": 16,
@@ -165,10 +153,6 @@
     {
       "number": 37,
       "text": "Que é que um homem poderia dar em troca da própria vida?"
-    },
-    {
-      "number": 38,
-      "text": "Se alguém se envergonhar de mim e das minhas palavras diante dessa geração adúltera e pecadora, também o Filho do Homem se envergonhará dele, quando vier na glória do seu Pai com seus santos anjos.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambr"
     }
   ]
 }
