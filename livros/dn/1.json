@@ -2,8 +2,105 @@
   "livro": "Daniel",
   "abbrev": "dn",
   "capitulo": 1,
-  "total_capitulos": 12,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_capitulos": 14,
+  "total_versiculos": 24,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Daniel"
+    },
+    {
+      "number": 1,
+      "text": "No terceiro ano do reinado de Joaquim em Judá, Nabucodonosor, rei da Babilônia, foi até Jerusalém e cercou a cidade."
+    },
+    {
+      "number": 2,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 2,
+      "text": "O Senhor entregou nas mãos dele Joaquim, rei de Judá, e parte dos objetos do Templo de Deus. Ele então levou tudo para a terra de Senaar e guardou os objetos na sala do tesouro do templo do seu deus."
+    },
+    {
+      "number": 3,
+      "text": "Depois o rei deu ordem a Asfenez, chefe dos eunucos, para escolher, entre os israelitas da família real ou de outras famílias importantes,"
+    },
+    {
+      "number": 4,
+      "text": "alguns moços sem nenhum defeito físico, de boa aparência, instruídos em toda espécie de sabedoria, práticos em conhecimento, gente de ciência, capazes de servir na corte do rei; deu também ordem para que ensinasse a eles a literatura e a língua dos caldeus."
+    },
+    {
+      "number": 5,
+      "text": "O próprio rei marcou para eles uma ração diária da comida e do vinho da mesa real. Eles deveriam ser preparados durante três anos, e depois passariam a servir ao rei."
+    },
+    {
+      "number": 6,
+      "text": "Entre eles estavam Daniel, Ananias, Misael e Azarias, que eram judeus."
+    },
+    {
+      "number": 7,
+      "text": "O chefe dos eunucos deu-lhes outros nomes: Daniel passou a chamar-se Baltassar; Ananias, Sidrac; Misael, Misac; e Azarias, Abdênago."
+    },
+    {
+      "number": 8,
+      "text": "Daniel resolveu que não iria contaminar-se com as comidas e o vinho da mesa real. Pediu ao chefe dos eunucos permissão para não aceitar essas comidas."
+    },
+    {
+      "number": 9,
+      "text": "O Senhor fez com que Daniel ganhasse a simpatia do chefe dos eunucos."
+    },
+    {
+      "number": 10,
+      "text": "Este lhe disse: “Tenho medo do rei, o meu senhor, que determinou pessoalmente o que vocês devem comer e beber. Se ele perceber que os rostos de vocês estão mais pálidos que dos outros moços da mesma idade, vocês acabarão me fazendo culpado de um crime de morte aos olhos do rei”."
+    },
+    {
+      "number": 11,
+      "text": "Daniel disse ao funcionário, a quem o chefe dos eunucos havia confiado Daniel, Ananias, Misael e Azarias:"
+    },
+    {
+      "number": 12,
+      "text": "“Faça uma experiência conosco: durante dez dias vocês nos darão de comer só vegetais e só água para beber."
+    },
+    {
+      "number": 13,
+      "text": "Depois, você compara a nossa aparência com a dos outros moços que comem da mesa do rei. Então faça conosco o que achar melhor”."
+    },
+    {
+      "number": 14,
+      "text": "Ler Daniel completo"
+    },
+    {
+      "number": 14,
+      "text": "O funcionário aceitou a proposta e fez a experiência por dez dias."
+    },
+    {
+      "number": 15,
+      "text": "No final dos dez dias, estavam com boa aparência e corpo mais saudável que todos os moços que comiam da mesa do rei."
+    },
+    {
+      "number": 16,
+      "text": "Então o funcionário tirou definitivamente a comida e o vinho da mesa dos moços e passou a dar-lhes somente vegetais."
+    },
+    {
+      "number": 17,
+      "text": "Aos quatro rapazes Deus concedeu o conhecimento e a compreensão de toda a literatura e também sabedoria. A Daniel especialmente, deu o dom de interpretar visões e sonhos."
+    },
+    {
+      "number": 18,
+      "text": "Terminado o tempo que o rei havia fixado para os rapazes serem apresentados, o chefe dos eunucos levou-os à presença de Nabucodonosor."
+    },
+    {
+      "number": 19,
+      "text": "O rei conversou com eles e não encontrou ninguém melhor do que Daniel, Ananias, Misael e Azarias. E a partir daí, eles ficaram servindo diretamente ao rei."
+    },
+    {
+      "number": 20,
+      "text": "Por tudo o que procurou saber deles em termos de conhecimento e sabedoria, o rei achou que eram dez vezes mais capazes que todos os magos e adivinhos que havia no seu reino."
+    },
+    {
+      "number": 21,
+      "text": "Daniel ficou aí até o primeiro ano do reinado de Ciro. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

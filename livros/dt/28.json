@@ -3,7 +3,296 @@
   "abbrev": "dt",
   "capitulo": 28,
   "total_capitulos": 34,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 72,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Se você obedecer de fato a Javé seu Deus, cuidando de colocar em prática todos os mandamentos que eu hoje lhe ordeno, Javé seu Deus tornará você supe­rior a todas as nações da terra."
+    },
+    {
+      "number": 2,
+      "text": "São estas as bênçãos que virão sobre você e o acompanharão, se você obedecer a Javé seu Deus:"
+    },
+    {
+      "number": 3,
+      "text": "Você será abençoado na cidade e abençoado também no campo."
+    },
+    {
+      "number": 4,
+      "text": "Será abençoado o fruto do seu ventre, o fruto do seu solo, o fruto de seus animais, a cria de suas vacas e a prole de suas ovelhas."
+    },
+    {
+      "number": 5,
+      "text": "Será abençoado o seu cesto e a sua amassadeira."
+    },
+    {
+      "number": 6,
+      "text": "Será abençoado ao entrar e abençoado ao sair."
+    },
+    {
+      "number": 7,
+      "text": "Javé entregará, já vencidos, os inimigos que se levantarem contra você; eles sairão contra você por um caminho, e por sete caminhos fugirão."
+    },
+    {
+      "number": 8,
+      "text": "Javé mandará que a bênção fique com você em seus celeiros e em tudo o que você fizer. E o abençoará na terra que Javé seu Deus lhe dará."
+    },
+    {
+      "number": 9,
+      "text": "Javé fará de você um povo a ele consagrado, conforme prometeu, se você observar os mandamentos de Javé seu Deus e andar pelos caminhos dele."
+    },
+    {
+      "number": 10,
+      "text": "Todos os povos da terra verão que sobre você foi invocado o nome de Javé, e ficarão com medo de você."
+    },
+    {
+      "number": 11,
+      "text": "Javé lhe concederá abundância de bens, com o fruto do seu ventre, dos seus animais e da sua terra, essa terra que Javé prometeu a seus antepassados que daria a você."
+    },
+    {
+      "number": 12,
+      "text": "Javé abrirá para você o tesouro do céu, dando no tempo certo a chuva para a terra e abençoando todo trabalho que você realizar. Desse modo, você emprestará a muitas nações, e nunca tomará emprestado."
+    },
+    {
+      "number": 13,
+      "text": "Javé fará de você a cabeça e não a cauda; você estará sempre por cima, e não por baixo. Isso, porém, com a condição de que você obedeça aos mandamentos de Javé seu Deus, que hoje eu lhe ordeno observar e colocar em prática."
+    },
+    {
+      "number": 14,
+      "text": "Não se desvie para a direita nem para a esquerda, em tudo o que eu hoje lhes ordeno, indo atrás de outros deuses para servi-los."
+    },
+    {
+      "number": 15,
+      "text": "Contudo, se você não obedecer a Javé seu Deus, não colocando em prática todos os seus mandamentos e estatutos que eu hoje lhe ordeno, virão sobre você todas estas maldições e o atingirão:"
+    },
+    {
+      "number": 16,
+      "text": "Você será maldito na cidade e maldito também no campo."
+    },
+    {
+      "number": 17,
+      "text": "Maldito será o seu cesto e a sua amas­sadeira."
+    },
+    {
+      "number": 18,
+      "text": "Maldito será o fruto do seu ventre, o fruto da sua terra, a cria de suas vacas e a prole de suas ovelhas."
+    },
+    {
+      "number": 19,
+      "text": "Você será maldito ao entrar e maldito também ao sair."
+    },
+    {
+      "number": 20,
+      "text": "Javé mandará contra você a maldição, o pânico e a ameaça em tudo o que você fizer, até que seja exterminado e pereça rapidamente por causa da maldade de suas ações, pelas quais você me abandonou."
+    },
+    {
+      "number": 21,
+      "text": "Javé fará que a peste se apegue a você, até eliminá-lo da terra em que está entrando para dela tomar posse."
+    },
+    {
+      "number": 22,
+      "text": "Javé ferirá você com tísica e febre, inflamação e delírio, secura, ferrugem e mofo, que o perseguirão até que você pereça."
+    },
+    {
+      "number": 23,
+      "text": "O céu sobre a sua cabeça ficará como bronze, e a terra sob seus pés ficará como ferro."
+    },
+    {
+      "number": 24,
+      "text": "Javé transformará a chuva em cinza e pó, que cairão sobre você, até que fique em ruínas."
+    },
+    {
+      "number": 25,
+      "text": "Javé entregará você, já vencido, aos seus inimigos: você sairá ao encontro deles por um caminho, e por sete caminhos fugirá. Você se transformará em objeto de espanto para todos os reinos da terra."
+    },
+    {
+      "number": 26,
+      "text": "Seu cadáver será alimento de todas as aves do céu e animais da terra, e ninguém os espantará."
+    },
+    {
+      "number": 27,
+      "text": "Javé ferirá você com úlceras do Egito, com tumores, crostas e sarnas, que você não poderá curar."
+    },
+    {
+      "number": 28,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Deuteronômio"
+    },
+    {
+      "number": 28,
+      "text": "Javé ferirá você com loucura, ceguei­ra e demência."
+    },
+    {
+      "number": 29,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 29,
+      "text": "Você ficará tateando ao meio-dia, como o cego que tateia na escuridão, e em seus caminhos nada será bem sucedido."
+    },
+    {
+      "number": 30,
+      "text": "você se casará com uma mulher, e outro homem a possuirá; construirá uma casa, e não habitará nela; plantará uma vinha, e não colherá as uvas;"
+    },
+    {
+      "number": 31,
+      "text": "seu boi será morto diante de seus olhos, e dele você não comerá; seu jumento será roubado na sua frente, e não o devolverão; suas ovelhas serão dadas aos inimigos, e não haverá quem o ajude;"
+    },
+    {
+      "number": 32,
+      "text": "seus filhos e suas filhas serão entregues a outro povo: seus olhos verão tudo isso e ficarão consumidos de saudade o dia inteiro, e você nada poderá fazer;"
+    },
+    {
+      "number": 33,
+      "text": "o produto da sua terra e de todo o seu trabalho será comido por um povo que você não conhece, e você será oprimido e maltratado todos os dias;"
+    },
+    {
+      "number": 34,
+      "text": "Ler Deuteronomio completo"
+    },
+    {
+      "number": 34,
+      "text": "você ficará louco com o espetáculo que seus olhos verão."
+    },
+    {
+      "number": 35,
+      "text": "Javé ferirá você com úlcera maligna nos joelhos e nas pernas, da qual você não poderá ficar bom, desde a sola dos pés até o alto da cabeça."
+    },
+    {
+      "number": 36,
+      "text": "Javé levará você, junto com o rei que você tiver constituído, para uma nação que nem você nem seus antepassados conheceram. E aí você servirá a outros deuses, feitos de madeira e pedra."
+    },
+    {
+      "number": 37,
+      "text": "Você se tornará motivo de assombro, piada e caçoada, em meio a todos os outros povos, para onde Javé o tiver conduzido."
+    },
+    {
+      "number": 38,
+      "text": "Você lançará muitas sementes no campo, mas colherá pouco porque o gafanhoto as comerá."
+    },
+    {
+      "number": 39,
+      "text": "Você plantará e cultivará vinhas, mas não beberá vinho nem colherá nada, pois a praga as devorará."
+    },
+    {
+      "number": 40,
+      "text": "Você terá oliveiras em todo o seu território, porém, não se ungirá com o óleo, porque as azeitonas cairão."
+    },
+    {
+      "number": 41,
+      "text": "Você gerará filhos e filhas que não pertencerão a você, pois irão para o exílio."
+    },
+    {
+      "number": 42,
+      "text": "Os insetos se apoderarão de todas as suas árvores frutíferas."
+    },
+    {
+      "number": 43,
+      "text": "O imigrante que vive em seu meio se elevará cada vez mais alto às custas de você, enquanto você descerá cada vez mais baixo."
+    },
+    {
+      "number": 44,
+      "text": "Ele poderá emprestar a você, e você nada lhe poderá emprestar: ele ficará como cabeça, e você como cauda."
+    },
+    {
+      "number": 45,
+      "text": "Todas essas maldições virão sobre você, o perseguirão e o atingirão, até que seja exterminado, porque você não obede­ceu a Javé seu Deus, desobedecendo aos mandamentos e estatutos que ele ordenou."
+    },
+    {
+      "number": 46,
+      "text": "Essas maldições serão para sempre um si­nal e um prodígio contra sua descendência."
+    },
+    {
+      "number": 47,
+      "text": "Uma vez que você não serviu a Javé seu Deus com alegria e generosidade quando estava na abundância,"
+    },
+    {
+      "number": 48,
+      "text": "então você servirá, na fome e na sede, com nudez e privação total, ao inimigo que Javé enviará contra você. O inimigo lhe colocará no pescoço uma canga de ferro, até que você seja exterminado."
+    },
+    {
+      "number": 49,
+      "text": "Javé erguerá contra você uma nação distante, dos confins da terra, como águia veloz, uma nação cuja língua você não entende,"
+    },
+    {
+      "number": 50,
+      "text": "nação de cara dura, que não respeita o ancião e não tem piedade do jovem."
+    },
+    {
+      "number": 51,
+      "text": "Ela comerá o fruto de seus animais e o fruto de sua terra, até que você seja exterminado; não deixará para você nem trigo, nem vinho novo, nem óleo, nem a cria de suas vacas, nem a prole de suas ovelhas, até que você fique destruído."
+    },
+    {
+      "number": 52,
+      "text": "Ela cercará você em todas as suas cidades, até que venham abaixo, por toda a terra, os muros altos e fortificados, nos quais você colocava toda a sua segurança. Essa nação cercará você em todas as suas cidades, por toda a terra que Javé seu Deus tiver dado a você."
+    },
+    {
+      "number": 53,
+      "text": "Então, na angústia do cerco com que o inimigo o apertar, você irá comer o fruto do seu ventre: a carne dos filhos e filhas que Javé seu Deus tiver dado a você."
+    },
+    {
+      "number": 54,
+      "text": "O mais delicado e refinado homem do seu meio olhará com maldade para o seu irmão, para a mulher que ele estreitava em seu peito e para os filhos que lhe restar,"
+    },
+    {
+      "number": 55,
+      "text": "pois terá de repartir com algum deles a carne dos filhos que está para comer, pois nada mais lhe restará na angústia do cerco com que o inimigo vai apertar você em todas as suas cidades."
+    },
+    {
+      "number": 56,
+      "text": "A mais delicada e refinada das mulheres do seu meio, tão delicada e refinada que nunca pôs a sola dos pés no chão, olhará com maldade para o homem que ela estreitava em seu seio e também para seu filho e sua filha,"
+    },
+    {
+      "number": 57,
+      "text": "e para a placenta que lhe sai por entre as pernas, e para o filho que acaba de dar à luz, porque, faltando tudo, ela os comerá às escondidas, por causa da angústia do cerco com que o inimigo vai apertar você em todas as suas cidades."
+    },
+    {
+      "number": 58,
+      "text": "Se você não colocar em prática todas as palavras desta Lei escritas neste livro, temendo o nome glorioso e terrível de Javé seu Deus,"
+    },
+    {
+      "number": 59,
+      "text": "Javé ferirá você e sua descendência com pragas espantosas, pragas tremendas e persistentes, doenças graves e incuráveis."
+    },
+    {
+      "number": 60,
+      "text": "Ele voltará contra você as pragas do Egito que o horrorizavam, e elas grudarão em você."
+    },
+    {
+      "number": 61,
+      "text": "E ainda mais: Javé lançará contra você todas as doenças e pragas que não estão escritas neste livro da Lei, até que você seja exterminado."
+    },
+    {
+      "number": 62,
+      "text": "Restarão de vocês poucos homens, vocês que eram tão numerosos como as estrelas do céu."
+    },
+    {
+      "number": 63,
+      "text": "então do mesmo modo que Javé tinha prazer em lhes fazer o bem e os multiplicar, assim também ele terá prazer em destruí-los e exterminá-los: vocês serão arrancados da terra em que estão entrando para dela tomar posse."
+    },
+    {
+      "number": 64,
+      "text": "Javé espalhará você por entre todos os povos, de um a outro extremo da terra, e aí você servirá a outros deuses, que nem você nem seus pais conheceram, deuses feitos de madeira e pedra."
+    },
+    {
+      "number": 65,
+      "text": "No meio dessas nações, você nunca terá tranquilidade, e a sola do seu pé não encontrará onde descansar. Aí Javé dará a você um coração inquieto, olhos mortiços e respiração fraca."
+    },
+    {
+      "number": 66,
+      "text": "Sua vida penderá à sua frente por um fio. Você ficará apavorado noite e dia e não acreditará mais na vida."
+    },
+    {
+      "number": 67,
+      "text": "Pela manhã, você dirá: ‘Quem me dera já fosse tarde!’ E pela tarde dirá: ‘Quem me dera já fosse manhã!’ Tudo isso por causa do pavor que se apoderará do seu coração e pelo espetáculo que seus olhos contemplarão."
+    },
+    {
+      "number": 68,
+      "text": "Javé fará vocês voltarem de barco ao Egito, ou pelo caminho do qual eu lhes tinha dito: ‘Vocês nunca mais o verão!’ Aí vocês se colocarão à venda como escravos e escravas para seus inimigos, e não haverá comprador”."
+    },
+    {
+      "number": 69,
+      "text": "Palavras conclusivas da aliança que Javé mandou Moisés fazer com os israelitas, na terra de Moab, além da aliança que já havia feito com eles no Horeb. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

@@ -3,7 +3,144 @@
   "abbrev": "is",
   "capitulo": 1,
   "total_capitulos": 66,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 34,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Isaías"
+    },
+    {
+      "number": 1,
+      "text": "Visão de Isaías, filho de Amós, sobre Judá e Jerusalém, no tempo de Ozias, Joatão e Ezequias, reis de Judá."
+    },
+    {
+      "number": 2,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 2,
+      "text": "Escutem, céus; ouça, ó terra! Javé é quem fala: Eu criei e eduquei filhos, mas eles se revoltaram contra mim."
+    },
+    {
+      "number": 3,
+      "text": "O boi conhece o seu proprietário, e o burro a cocheira do seu dono, mas Israel não conhece nada, o meu povo não entende."
+    },
+    {
+      "number": 4,
+      "text": "Ai de vocês, nação pecadora, povo carregado de crimes, raça de perversos, filhos renegados. Vocês abandonaram Javé, desprezaram o Santo de Israel, e voltaram para trás."
+    },
+    {
+      "number": 5,
+      "text": "Se vocês continuam na rebelião, em que parte ainda podem levar pancadas? A cabeça é uma chaga só, o coração está enfermo."
+    },
+    {
+      "number": 6,
+      "text": "Da sola dos pés até o alto da cabeça, nada está sadio: contusões, ferimentos, chagas vivas, não espremidas nem atadas, nem aliviadas com pomada."
+    },
+    {
+      "number": 7,
+      "text": "O país de vocês está devastado, as cidades incendiadas; as terras são devoradas por estrangeiros, bem diante dos olhos de vocês. É a desolação como devastação de estrangeiros."
+    },
+    {
+      "number": 8,
+      "text": "Sião, a capital, ficou isolada como rancho numa vinha, como choça em meio à plantação de pepinos, como cidade cercada pelo inimigo."
+    },
+    {
+      "number": 9,
+      "text": "Se Javé dos exércitos não nos tivesse deixado um resto, seríamos como Sodoma, ficaríamos parecidos com Gomorra."
+    },
+    {
+      "number": 10,
+      "text": "Escutem a palavra de Javé, chefes de Sodoma; preste atenção ao ensinamento do nosso Deus, ó povo de Gomorra:"
+    },
+    {
+      "number": 11,
+      "text": "Que me interessa a quantidade dos seus sacrifícios? — diz Javé. Estou farto dos holocaustos de carneiros e da gordura de novilhos. Não gosto do sangue de bois, carneiros e cabritos."
+    },
+    {
+      "number": 12,
+      "text": "Quando vocês vêm à minha presença e pisam meus átrios, quem exige algo da mão de vocês?"
+    },
+    {
+      "number": 13,
+      "text": "Parem de trazer ofertas inúteis. O incenso é coisa nojenta para mim; luas novas, sábados, assembleias... não suporto injustiça junto com solenidade."
+    },
+    {
+      "number": 14,
+      "text": "Eu detesto suas luas novas e solenidades. Para mim se tornaram um peso que eu não suporto mais."
+    },
+    {
+      "number": 15,
+      "text": "Quando vocês erguem para mim as mãos, eu desvio o meu olhar; ainda que multipliquem as orações, eu não escutarei. As mãos de vocês estão cheias de sangue."
+    },
+    {
+      "number": 16,
+      "text": "Lavem-se, purifiquem-se, tirem da minha vista as maldades que vocês praticam. Parem de fazer o mal,"
+    },
+    {
+      "number": 17,
+      "text": "aprendam a fazer o bem: busquem o direito, socorram o oprimido, façam justiça ao órfão, defendam a causa da viúva."
+    },
+    {
+      "number": 18,
+      "text": "Então venham e discutiremos — diz Javé. Ainda que seus pecados sejam vermelhos como púrpura, ficarão brancos como a neve; ainda que sejam vermelhos como escarlate, ficarão como a lã."
+    },
+    {
+      "number": 19,
+      "text": "Se vocês estiverem dispostos a obedecer, comerão os frutos da terra;"
+    },
+    {
+      "number": 20,
+      "text": "mas se vocês recusam e se revoltam, serão devorados pela espada. Assim fala a boca de Javé."
+    },
+    {
+      "number": 21,
+      "text": "Como se transformou em prostituta a cidade fiel! Antes era cheia de direito, e nela morava a justiça; agora, está cheia de criminosos!"
+    },
+    {
+      "number": 22,
+      "text": "A sua prata se tornou lixo, o seu vinho ficou aguado."
+    },
+    {
+      "number": 23,
+      "text": "Os seus chefes são bandidos, cúmplices de ladrões: todos eles gostam de suborno, correm atrás de presentes; não fazem justiça ao órfão, e a causa da viúva nem chega até eles."
+    },
+    {
+      "number": 24,
+      "text": "Pois bem! Ai de vocês! — oráculo do Senhor Javé dos exércitos, o Poderoso de Israel. Eu me vingarei dos meus inimigos e pedirei satisfação aos meus adversários."
+    },
+    {
+      "number": 25,
+      "text": "Voltarei a minha mão contra você, para limpá-la da sujeira com soda e tirar a impureza."
+    },
+    {
+      "number": 26,
+      "text": "Darei a você juízes como os de antes e conselheiros como os de antigamente. Então você se chamará cidade da justiça, cidade fiel."
+    },
+    {
+      "number": 27,
+      "text": "Sião será resgatada com o direito, e os repatriados com a justiça."
+    },
+    {
+      "number": 28,
+      "text": "A ruína virá tanto para os rebeldes como para os pecadores; os que abandonam Javé perecerão."
+    },
+    {
+      "number": 29,
+      "text": "Vocês se envergonharão por causa das árvores sagradas que tanto apreciavam; terão remorso por causa dos jardins de que vocês tanto gostavam."
+    },
+    {
+      "number": 30,
+      "text": "Vocês ficarão como carvalho de folhas secas, como jardim sem água."
+    },
+    {
+      "number": 31,
+      "text": "O valente se tornará como estopa, e sua obra como faísca: os dois juntos queimarão, e não haverá quem os apague. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 66,
+      "text": "Ler Isaias completo"
+    }
+  ]
 }

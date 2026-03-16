@@ -3,7 +3,256 @@
   "abbrev": "lv",
   "capitulo": 13,
   "total_capitulos": 27,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 62,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Javé falou para Moisés e Aarão:"
+    },
+    {
+      "number": 2,
+      "text": "“Quando alguém tiver na pele uma inflamação, um furúnculo ou qualquer mancha que produza suspeita de lepra, será levado diante do sacerdote Aarão ou de um dos seus filhos sacerdotes."
+    },
+    {
+      "number": 3,
+      "text": "O sacerdote examinará a parte afetada. Se no lugar doente o pelo se tornou branco e a doença ficou mais profunda na pele, é caso de lepra. Depois de examiná-lo, o sacerdote o declarará impuro."
+    },
+    {
+      "number": 4,
+      "text": "Mas se há sobre a pele uma mancha branca, sem depressão visível da pele, e o pelo não se tornou branco, o sacerdote isolará o doente durante sete dias."
+    },
+    {
+      "number": 5,
+      "text": "No sétimo dia examinará de novo o doente: se observar que a doença permanece sem se espalhar pela pele, tornará a isolá-lo por mais sete dias;"
+    },
+    {
+      "number": 6,
+      "text": "no sétimo dia, o examinará de novo. Se então verificar que a mancha não ficou mais branca e não se espalhou pela pele, o sacerdote declarará puro o homem, pois se trata de um furúnculo. A pessoa lavará sua roupa e ficará pura."
+    },
+    {
+      "number": 7,
+      "text": "Mas se o furúnculo se alastrar sobre a pele depois que o enfermo foi examinado pelo sacerdote e declarado puro, ele deverá se apresentar de novo ao sacerdote."
+    },
+    {
+      "number": 8,
+      "text": "O sacerdote o examinará; se observar que o furúnculo se alastrou sobre a pele, o sacerdote o declarará impuro: trata-se de lepra."
+    },
+    {
+      "number": 9,
+      "text": "Quando alguém tiver uma infecção de pele, será levado ao sacerdote."
+    },
+    {
+      "number": 10,
+      "text": "O sacerdote o examinará. Se constatar sobre a pele um tumor esbranquiçado, pelos que se tornam brancos e o aparecimento de uma úlcera,"
+    },
+    {
+      "number": 11,
+      "text": "trata-se de lepra crônica de pele. O sacerdote o declarará impuro e não o isolará, pois é claro que está impuro."
+    },
+    {
+      "number": 12,
+      "text": "Mas se a lepra se alastrar sobre a pele, até cobrir o doente dos pés à cabeça, até onde o sacerdote possa observar,"
+    },
+    {
+      "number": 13,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Levítico"
+    },
+    {
+      "number": 13,
+      "text": "o sacerdote examinará o doente: verificando que a lepra cobre o corpo todo, declarará puro o doente, visto que tudo se tornou branco."
+    },
+    {
+      "number": 14,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 14,
+      "text": "Se aparecer nele a carne viva, ficará impuro."
+    },
+    {
+      "number": 15,
+      "text": "O sacerdote, vendo a carne viva, o declarará impuro, pois a carne viva é impura: trata-se de lepra."
+    },
+    {
+      "number": 16,
+      "text": "Mas se a carne viva se torna branca de novo, a pessoa pro­curará o sacerdote."
+    },
+    {
+      "number": 17,
+      "text": "Este a examinará e, vendo que a doença se tornou branca, declarará pura a pessoa doente: ela de fato está pura."
+    },
+    {
+      "number": 18,
+      "text": "Quando alguém tiver na pele um furúnculo, do qual já esteja curado,"
+    },
+    {
+      "number": 19,
+      "text": "e se formar no lugar do furúnculo uma inflamação esbranquiçada ou mancha vermelha clara, essa pessoa deverá se apresentar ao sacerdote."
+    },
+    {
+      "number": 20,
+      "text": "O sacerdote a examinará: se verificar que a pele afundou e o pelo ficou branco, o sacerdote a declarará impura: é caso de lepra que se manifesta no furúnculo."
+    },
+    {
+      "number": 21,
+      "text": "Mas se o sacerdote, ao exami­ná-la, notar que na mancha não há pelos brancos nem aprofundamento da pele, mas um embranquecimento, então isolará o enfermo durante sete dias."
+    },
+    {
+      "number": 22,
+      "text": "Se a mancha se alastrar sobre a pele, o sacerdote declarará impura a pessoa: é caso de lepra."
+    },
+    {
+      "number": 23,
+      "text": "Mas se a mancha permanecer estacionária, sem se alastrar, é a cicatriz do furúnculo, e o sacerdote declarará pura a pessoa."
+    },
+    {
+      "number": 24,
+      "text": "Quando alguém tiver uma queimadura na pele, e sobre a parte queimada se formar uma mancha esbranquiçada ou vermelha clara,"
+    },
+    {
+      "number": 25,
+      "text": "o sacerdote a examinará. Se constatar que o pelo ficou branco ou que houve aprofundamento da mancha na pele, é caso de lepra que se desenvolveu na queimadura. O sacerdote declarará impuro o homem: é caso de lepra."
+    },
+    {
+      "number": 26,
+      "text": "Mas se o sacerdote, ao examinar, não constatar pelos brancos na mancha nem aprofundamento da pele, e notar que a mancha se tornou esbranquiçada, o sacerdote o isolará por sete dias."
+    },
+    {
+      "number": 27,
+      "text": "Ler Levitico completo"
+    },
+    {
+      "number": 27,
+      "text": "No sétimo dia o examinará de novo. Se a doença se tiver propagado na pele, declarará impuro o homem: é caso de lepra."
+    },
+    {
+      "number": 28,
+      "text": "Se a mancha permaneceu localizada, sem se propagar na pele, mas tornou-se pálida, trata-se de inflamação da queimadura. O sacerdote declarará puro o homem, pois é cicatriz da queimadura."
+    },
+    {
+      "number": 29,
+      "text": "Se um homem ou mulher tiver uma chaga na cabeça, ou na barba,"
+    },
+    {
+      "number": 30,
+      "text": "o sacerdote examinará a chaga. Se observar que há uma depressão na pele e o pelo se tornou amarelado e fino, declarará impuro o enfermo: é caso de sarna, isto é, lepra da cabeça ou da barba."
+    },
+    {
+      "number": 31,
+      "text": "Mas, examinando a sarna, se o sacerdote constatar que não há depressão na pele nem pelo amarelado, então isolará o doente durante sete dias."
+    },
+    {
+      "number": 32,
+      "text": "No sétimo dia examinará a doença; se constatar que a sarna não se desenvolveu e que o pelo não ficou amarelado nem houve depressão na pele,"
+    },
+    {
+      "number": 33,
+      "text": "o doente rapará os pelos, menos na parte que está com sarna. E o sacerdote o isolará por mais sete dias."
+    },
+    {
+      "number": 34,
+      "text": "No sétimo dia examinará a doença; se constatar que não se alastrou sobre a pele e que não há depressão na pele, o sacerdote o declarará puro. O doente lavará sua roupa e ficará puro."
+    },
+    {
+      "number": 35,
+      "text": "Contudo, se depois da purificação a sarna se desenvolveu sobre a pele,"
+    },
+    {
+      "number": 36,
+      "text": "o sacerdote o examinará de novo: se constatar o alastramento da sarna, é porque o doente está impuro, e não precisará verificar se o pelo está amarelado."
+    },
+    {
+      "number": 37,
+      "text": "Mas se a sarna estiver localizada e nela tiver crescido pelo escuro, é porque a doença está curada: o doente está puro e o sacerdote o declarará puro."
+    },
+    {
+      "number": 38,
+      "text": "Se aparecerem manchas sobre a pele de um homem ou mulher, e as manchas forem brancas,"
+    },
+    {
+      "number": 39,
+      "text": "o sacerdote as examinará. Se verificar que as manchas na pele são de um branco embaçado, trata-se de erupção da pele: o enfermo está puro."
+    },
+    {
+      "number": 40,
+      "text": "Se um homem perde os cabelos da cabeça, trata-se de calvície da cabeça, e está puro."
+    },
+    {
+      "number": 41,
+      "text": "Se perde cabelos na parte da frente da cabeça, trata-se de calvície da fronte, e está puro."
+    },
+    {
+      "number": 42,
+      "text": "Mas, se na cabeça ou na parte da frente houver chagas de cor vermelha clara, trata-se de lepra que se desenvolveu na cabeça ou na fronte desse homem."
+    },
+    {
+      "number": 43,
+      "text": "O sacerdote o examinará. Se observar na calvície ou na fronte um tumor vermelho claro, com o mesmo aspecto da lepra da pele,"
+    },
+    {
+      "number": 44,
+      "text": "então o homem está leproso: é impuro. O sacerdote o declarará impuro, pois está com lepra na cabeça."
+    },
+    {
+      "number": 45,
+      "text": "Quem for declarado leproso, deverá andar com as roupas rasgadas e despenteado, com a barba coberta e gritando: “Impuro! Impuro!”"
+    },
+    {
+      "number": 46,
+      "text": "Ficará impuro enquanto durar sua doença. Viverá separado e morará fora do acampamento."
+    },
+    {
+      "number": 47,
+      "text": "Quando houver lepra numa roupa, tanto de lã como de linho,"
+    },
+    {
+      "number": 48,
+      "text": "num tecido ou coberta de lã, de linho, ou de couro, ou numa peça qualquer de couro,"
+    },
+    {
+      "number": 49,
+      "text": "e se a mancha da roupa, do couro, do tecido, da coberta, ou do objeto de couro, for esverdeada ou avermelhada, é caso de lepra e deve ser mostrada ao sacerdote."
+    },
+    {
+      "number": 50,
+      "text": "O sacerdote examinará a mancha e isolará o objeto durante sete dias."
+    },
+    {
+      "number": 51,
+      "text": "No sétimo dia, se observar que a mancha se espalhou sobre a roupa, o tecido, a coberta, o couro ou sobre o objeto feito de couro, trata-se de lepra contagiosa: o objeto está impuro."
+    },
+    {
+      "number": 52,
+      "text": "A roupa, o tecido, a coberta de lã ou de linho, ou o objeto de couro sobre o qual se apresentou a mancha, deverá ser queimado, pois é lepra contagiosa que deve ser destruída pelo fogo."
+    },
+    {
+      "number": 53,
+      "text": "Contudo, se o sacerdote, examinando, verificar que a mancha não se espalhou sobre a roupa, o tecido, a coberta ou o objeto de couro,"
+    },
+    {
+      "number": 54,
+      "text": "então mandará lavar a parte atingida e o isolará outra vez por mais sete dias."
+    },
+    {
+      "number": 55,
+      "text": "Depois da lavagem, examinará a mancha. E se verificar que não mudou de aspecto nem se desenvolveu, é que o objeto está impuro. O sacerdote o queimará, porque está corroído no direito e no avesso."
+    },
+    {
+      "number": 56,
+      "text": "Contudo, se o sacerdote, examinando, verificar que depois da lavagem a mancha ficou embaçada, então arrancará a parte da roupa, do couro, do tecido ou da coberta."
+    },
+    {
+      "number": 57,
+      "text": "Todavia, se a mancha se espalhar sobre a roupa, a coberta ou o objeto de couro, é que o mal continua vivo; então será queimado no fogo aquilo que estiver atacado pela mancha."
+    },
+    {
+      "number": 58,
+      "text": "A roupa, o tecido, a coberta e qualquer objeto de couro, do qual desapareceu a mancha depois da lavagem, ficará puro depois de lavado pela segun­da vez”."
+    },
+    {
+      "number": 59,
+      "text": "Essa é a lei para o caso de lepra na roupa de lã ou de linho, no tecido, na coberta ou no objeto de couro, quando se trata de declará-los puros ou impuros. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

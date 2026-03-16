@@ -3,7 +3,160 @@
   "abbrev": "ez",
   "capitulo": 48,
   "total_capitulos": 48,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 38,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "São estes os nomes das tribos. Dã receberá uma porção no extremo norte, em direção a Hetalon, junto à entrada de Emat e Haser-Enã, limitando com Damasco ao norte, bem junto de Emat, desde o limite oriental até o limite ocidental."
+    },
+    {
+      "number": 2,
+      "text": "Aser receberá uma porção junto ao território de Dã, desde o limite oriental até o limite ocidental."
+    },
+    {
+      "number": 3,
+      "text": "Neftali receberá uma porção junto ao território de Aser, desde o limite oriental até o limite ocidental."
+    },
+    {
+      "number": 4,
+      "text": "Manassés receberá uma porção junto ao território de Neftali, desde o limite oriental até o limite ocidental."
+    },
+    {
+      "number": 5,
+      "text": "Efraim receberá uma porção junto ao território de Manassés, desde o limite oriental até o limite ocidental."
+    },
+    {
+      "number": 6,
+      "text": "Rúben receberá uma porção junto ao território de Efraim, desde o limite oriental até o limite ocidental."
+    },
+    {
+      "number": 7,
+      "text": "Judá receberá uma porção junto ao território de Rúben, desde o limite oriental até o limite ocidental."
+    },
+    {
+      "number": 8,
+      "text": "Junto ao território de Judá, desde o limite oriental até o limite ocidental, ficará a porção que vocês separarão como reserva, tendo doze mil e quinhentos metros de largura e de comprimento, isto é, a mesma dimensão que as outras porções, desde o limite oriental até o limite ocidental. No meio dessa reserva ficará o santuário."
+    },
+    {
+      "number": 9,
+      "text": "A reserva que vocês separarão para Javé terá doze mil e quinhentos metros de comprimento por cinco mil metros de largura."
+    },
+    {
+      "number": 10,
+      "text": "A porção sagrada que pertencerá aos sacerdotes terá doze mil e quinhentos metros de extensão do lado norte, medirá cinco mil metros de largura para o oeste e cinco mil metros de largura para o lado leste; o seu comprimento do lado sul será de doze mil e quinhentos metros. No centro ficará o santuário de Javé."
+    },
+    {
+      "number": 11,
+      "text": "Essa porção pertencerá aos sacerdotes consagrados dentre os filhos de Sadoc, os quais guardaram fielmente o meu ministério, não se desviando com os israelitas, como os levitas fizeram."
+    },
+    {
+      "number": 12,
+      "text": "A eles caberá uma parte da porção mais santa da terra, reservada junto ao território dos levitas."
+    },
+    {
+      "number": 13,
+      "text": "O território dos levitas terá exatamente a mesma medida que o território dos sacerdotes: doze mil e quinhentos metros de comprimento por cinco mil metros de largura; o comprimento total será de doze mil e quinhentos metros, e a largura terá cinco mil metros."
+    },
+    {
+      "number": 14,
+      "text": "Desse território, nada poderá ser vendido ou permutado, nem os primeiros frutos da terra poderão ser transferidos para outros, porque são consagrados para Javé."
+    },
+    {
+      "number": 15,
+      "text": "Quanto à sobra de dois mil e quinhentos metros de largura, que resta dos doze mil e quinhentos metros, será uma porção profana que se destina à cidade, servindo para moradias e pastagens. No centro dessa porção, ficará a cidade."
+    },
+    {
+      "number": 16,
+      "text": "As dimensões da cidade são as seguintes: dois mil e duzentos e cinquenta metros de cada lado, ao norte, sul, leste e oeste."
+    },
+    {
+      "number": 17,
+      "text": "O pasto da cidade terá cento e vinte e cinco metros de cada lado, ao norte, sul, leste e oeste."
+    },
+    {
+      "number": 18,
+      "text": "Ao longo da parte sagrada, restará uma extensão de cinco mil metros para o oriente, e cinco mil metros para o ocidente, e o produto dessa extensão servirá para o sustento dos trabalhadores da cidade."
+    },
+    {
+      "number": 19,
+      "text": "Esse terreno será cultivado pelos trabalhadores da cidade, vindos de todas as tribos de Israel."
+    },
+    {
+      "number": 20,
+      "text": "Ao todo, a parte reservada será um quadrado de doze mil e quinhentos metros. Da parte sagrada, separem um quadrado que pertencerá à cidade."
+    },
+    {
+      "number": 21,
+      "text": "Ao príncipe pertencerá o que restar de um lado e do outro da porção sagrada e da propriedade reservada para a cidade. Terá doze mil e quinhentos metros para o ocidente, até o limite ocidental, e doze mil e quinhentos metros para o oriente, até o limite oriental. Essa parte, paralela às demais, pertencerá ao príncipe. No seu centro, estarão a reserva sagrada e o santuário do Templo."
+    },
+    {
+      "number": 22,
+      "text": "Assim, a porção do príncipe ficará entre a propriedade dos levitas e o terreno da cidade, que ficam no meio da porção pertencente ao príncipe, entre os limites de Judá e Benjamim."
+    },
+    {
+      "number": 23,
+      "text": "Porções das demais tribos, desde o limite oriental até o limite ocidental. Benjamim terá uma porção."
+    },
+    {
+      "number": 24,
+      "text": "Simeão receberá uma porção junto ao território de Benjamim, desde o limite oriental até o limite ocidental."
+    },
+    {
+      "number": 25,
+      "text": "Issacar receberá uma porção junto ao território de Simeão, desde o limite oriental até o limite ocidental."
+    },
+    {
+      "number": 26,
+      "text": "Zabulon receberá uma porção junto ao território de Issacar, desde o limite oriental até o limite ocidental."
+    },
+    {
+      "number": 27,
+      "text": "Gad receberá uma porção junto ao território de Zabulon, desde o limite oriental até o limite ocidental."
+    },
+    {
+      "number": 28,
+      "text": "Junto ao território de Gad, no extremo sul, a fronteira irá de Tamar até as águas de Meriba de Cades, seguindo a torrente até o mar Mediterrâneo."
+    },
+    {
+      "number": 29,
+      "text": "Essa é a terra que vocês repartirão em herança para as tribos de Israel. E essas vão ser as suas porções — oráculo do Senhor Javé”."
+    },
+    {
+      "number": 30,
+      "text": "“As saídas da cidade são as seguintes: Do lado norte, meçam dois mil, duzentos e cinquenta metros."
+    },
+    {
+      "number": 31,
+      "text": "As portas da cidade terão o nome de cada tribo de Israel. Três portas ficarão ao norte: as portas de Rúben, Judá e Levi."
+    },
+    {
+      "number": 32,
+      "text": "Do lado leste, a extensão será de dois mil, duzentos e cinquenta metros, com três portas: de José, Benjamim e Dã."
+    },
+    {
+      "number": 33,
+      "text": "Do lado sul, meçam a extensão de dois mil, duzentos e cinquenta metros, tendo três portas: de Simeão, Issacar e Zabulon."
+    },
+    {
+      "number": 34,
+      "text": "Do lado oeste, a extensão será também de dois mil, duzentos e cinquenta metros, com três portas: de Gad, Aser e Neftali."
+    },
+    {
+      "number": 35,
+      "text": "O contorno todo da cidade medirá, portanto, nove mil metros. A partir desse dia, o nome da cidade será este: Javé está aí”. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 47,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 48,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Ezequiel"
+    },
+    {
+      "number": 48,
+      "text": "Ler Ezequiel completo"
+    }
+  ]
 }

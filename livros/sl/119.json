@@ -3,7 +3,724 @@
   "abbrev": "sl",
   "capitulo": 119,
   "total_capitulos": 150,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 179,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Felizes os íntegros em seu caminho, os que andam conforme a vontade de Javé."
+    },
+    {
+      "number": 2,
+      "text": "Felizes os que guardam os seus testemunhos, procurando-o de todo o coração,"
+    },
+    {
+      "number": 3,
+      "text": "aqueles que andam no caminho dele, sem praticar a injustiça!"
+    },
+    {
+      "number": 4,
+      "text": "Tu promulgaste os teus preceitos para serem observados à risca."
+    },
+    {
+      "number": 5,
+      "text": "Que os meus caminhos sejam firmes, para que eu observe os teus estatutos."
+    },
+    {
+      "number": 6,
+      "text": "Então eu não sentirei vergonha, ao considerar os teus mandamentos todos."
+    },
+    {
+      "number": 7,
+      "text": "Eu te celebrarei de coração reto, aprendendo tuas justas normas."
+    },
+    {
+      "number": 8,
+      "text": "Vou observar os teus estatutos, não me abandones nunca."
+    },
+    {
+      "number": 9,
+      "text": "Como um jovem poderá conservar puro o seu caminho? Observando a tua palavra."
+    },
+    {
+      "number": 10,
+      "text": "Eu te busco de todo o coração, não me deixes afastar dos teus mandamentos."
+    },
+    {
+      "number": 11,
+      "text": "Conservei tuas promessas no meu coração, para não pecar contra ti."
+    },
+    {
+      "number": 12,
+      "text": "Sê bendito, Javé! Ensina-me os teus estatutos."
+    },
+    {
+      "number": 13,
+      "text": "Com meus lábios eu enumero todas as normas de tua boca."
+    },
+    {
+      "number": 14,
+      "text": "Eu me alegro com o caminho dos teus testemunhos, mais do que com todas as riquezas."
+    },
+    {
+      "number": 15,
+      "text": "Vou meditar os teus preceitos e considerar os teus caminhos."
+    },
+    {
+      "number": 16,
+      "text": "Eu me delicio com a tua vontade e não me esqueço da tua palavra."
+    },
+    {
+      "number": 17,
+      "text": "Faze o bem ao teu servo, e eu viverei observando a tua palavra."
+    },
+    {
+      "number": 18,
+      "text": "Abre os meus olhos, para eu contemplar as maravilhas da tua vontade."
+    },
+    {
+      "number": 19,
+      "text": "Eu sou estrangeiro na terra, não escondas de mim os teus mandamentos."
+    },
+    {
+      "number": 20,
+      "text": "Minha alma se consome, desejando tuas normas o tempo todo."
+    },
+    {
+      "number": 21,
+      "text": "Tu ameaças os soberbos, os malditos que se desviam dos teus mandamentos."
+    },
+    {
+      "number": 22,
+      "text": "Retira de mim o ultraje e o desprezo, pois eu guardo os teus testemunhos."
+    },
+    {
+      "number": 23,
+      "text": "Os príncipes podem se reunir e falar contra mim, o teu servo medita os teus estatutos."
+    },
+    {
+      "number": 24,
+      "text": "Teus testemunhos são minhas delícias, teus estatutos são meus conselheiros."
+    },
+    {
+      "number": 25,
+      "text": "Minha garganta está pegada ao pó, dá-me vida, pela tua palavra."
+    },
+    {
+      "number": 26,
+      "text": "Eu enumero meus caminhos, tu me respondes: ensina-me os teus estatutos."
+    },
+    {
+      "number": 27,
+      "text": "Faze-me entender o caminho dos teus preceitos, e eu meditarei sobre as tuas maravilhas."
+    },
+    {
+      "number": 28,
+      "text": "Minha alma se desfaz de tristeza; põe-me de pé, conforme a tua palavra."
+    },
+    {
+      "number": 29,
+      "text": "Afasta-me do caminho da mentira, e dá-me a graça da tua vontade."
+    },
+    {
+      "number": 30,
+      "text": "Eu escolhi o caminho da verdade, e me conformo com as tuas normas."
+    },
+    {
+      "number": 31,
+      "text": "Eu me apego aos teus testemunhos. Javé, não me deixes envergonhado."
+    },
+    {
+      "number": 32,
+      "text": "Correrei pelo caminho dos teus mandamentos, quando alargares o meu coração."
+    },
+    {
+      "number": 33,
+      "text": "Javé, mostra-me o caminho dos teus estatutos, eu quero guardá-los como recompensa."
+    },
+    {
+      "number": 34,
+      "text": "Ensina-me a cumprir a tua vontade, para observá-la de todo o coração."
+    },
+    {
+      "number": 35,
+      "text": "Guia-me pelo caminho dos teus mandamentos, pois nele está o meu prazer."
+    },
+    {
+      "number": 36,
+      "text": "Inclina o meu coração para os teus testemunhos, e não para o interesse."
+    },
+    {
+      "number": 37,
+      "text": "Evita que meus olhos vejam o que é inútil; dá-me vida, pela tua palavra."
+    },
+    {
+      "number": 38,
+      "text": "Confirma para o teu servo a promessa que fizeste aos teus fiéis."
+    },
+    {
+      "number": 39,
+      "text": "Desvia de mim o ultraje que eu temo, pois tuas normas são boas."
+    },
+    {
+      "number": 40,
+      "text": "Eis que eu desejo teus preceitos; dá-me vida, pela tua justiça."
+    },
+    {
+      "number": 41,
+      "text": "Javé, que o teu amor venha até mim, e a tua salvação, conforme a tua promessa!"
+    },
+    {
+      "number": 42,
+      "text": "Aos que me ultrajam, eu responderei que confio na tua palavra."
+    },
+    {
+      "number": 43,
+      "text": "Não me tires da boca a palavra sincera, pois eu espero em tuas normas."
+    },
+    {
+      "number": 44,
+      "text": "Cumprirei a tua vontade sem cessar, para sempre e eternamente."
+    },
+    {
+      "number": 45,
+      "text": "Andarei por caminho largo, procurando os teus preceitos."
+    },
+    {
+      "number": 46,
+      "text": "Vou falar de teus testemunhos diante dos reis, sem ficar envergonhado."
+    },
+    {
+      "number": 47,
+      "text": "Minhas delícias são os teus mandamentos, que eu amo tanto."
+    },
+    {
+      "number": 48,
+      "text": "Levanto para ti as minhas mãos, recitando os teus estatutos."
+    },
+    {
+      "number": 49,
+      "text": "Lembra-te da tua palavra ao teu servo, na qual tu me fazes esperar."
+    },
+    {
+      "number": 50,
+      "text": "Esta é a minha consolação na miséria: tua promessa me traz vida."
+    },
+    {
+      "number": 51,
+      "text": "Os soberbos zombam de mim à vontade, mas eu não me desvio da tua lei."
+    },
+    {
+      "number": 52,
+      "text": "Javé, recordo as tuas normas de outrora, e me consolo."
+    },
+    {
+      "number": 53,
+      "text": "Fiquei enfurecido diante dos injustos que abandonam a tua vontade."
+    },
+    {
+      "number": 54,
+      "text": "Teus estatutos são cânticos para mim, na minha casa de peregrino."
+    },
+    {
+      "number": 55,
+      "text": "Javé, eu me lembro do teu nome durante a noite, e observo a tua lei."
+    },
+    {
+      "number": 56,
+      "text": "Esta é a parte que cabe a mim: observar os teus preceitos."
+    },
+    {
+      "number": 57,
+      "text": "Minha porção, Javé, eu o digo, é observar as tuas palavras."
+    },
+    {
+      "number": 58,
+      "text": "De todo o coração busco acalmar a tua face: tem piedade de mim, conforme a tua promessa!"
+    },
+    {
+      "number": 59,
+      "text": "Reflito em meus caminhos, voltando meus passos para os teus testemunhos."
+    },
+    {
+      "number": 60,
+      "text": "Eu me apresso, e não me atraso, em observar os teus mandamentos."
+    },
+    {
+      "number": 61,
+      "text": "Os laços dos injustos me envolvem, eu não me esqueço da tua vontade."
+    },
+    {
+      "number": 62,
+      "text": "À meia-noite eu me levanto para te agradecer por tuas normas justas."
+    },
+    {
+      "number": 63,
+      "text": "Eu me associo a todos os que temem a ti e observam as tuas normas."
+    },
+    {
+      "number": 64,
+      "text": "A terra, Javé, está cheia do teu amor: ensina-me os teus estatutos."
+    },
+    {
+      "number": 65,
+      "text": "Javé, agiste bem com o teu servo, segundo a tua palavra."
+    },
+    {
+      "number": 66,
+      "text": "Ensina-me o bom senso e o saber, pois eu creio nos teus mandamentos."
+    },
+    {
+      "number": 67,
+      "text": "Antes de sofrer, eu me desviava; agora eu observo a tua promessa."
+    },
+    {
+      "number": 68,
+      "text": "Tu és bom e benfeitor: ensina-me os teus estatutos."
+    },
+    {
+      "number": 69,
+      "text": "Os soberbos lançam calúnias contra mim, mas de todo o coração eu guardo os teus preceitos."
+    },
+    {
+      "number": 70,
+      "text": "O coração deles é espesso como gordura, mas eu me delicio com a tua vontade."
+    },
+    {
+      "number": 71,
+      "text": "Para mim, é bom sofrer, pois aprendo os teus estatutos."
+    },
+    {
+      "number": 72,
+      "text": "A lei da tua boca é um bem para mim, mais que milhões em ouro e prata."
+    },
+    {
+      "number": 73,
+      "text": "Tuas mãos me fizeram e formaram: ensina-me, para que eu aprenda teus mandamentos."
+    },
+    {
+      "number": 74,
+      "text": "Os que temem a ti me olhem com alegria, pois eu espero em tua palavra."
+    },
+    {
+      "number": 75,
+      "text": "Javé, eu sei que as tuas normas são justas, e que por fidelidade me fazes sofrer."
+    },
+    {
+      "number": 76,
+      "text": "Que o teu amor seja a minha consolação, conforme a tua promessa ao teu servo!"
+    },
+    {
+      "number": 77,
+      "text": "Que a tua misericórdia venha até mim, e eu viverei, pois a tua vontade é a minha delícia."
+    },
+    {
+      "number": 78,
+      "text": "Que se envergonhem os soberbos, que lançam calúnias contra mim! Eu medito nos teus preceitos."
+    },
+    {
+      "number": 79,
+      "text": "Voltem-se para mim os que temem a ti, os que conhecem os teus testemunhos."
+    },
+    {
+      "number": 80,
+      "text": "Que o meu coração seja íntegro em teus estatutos, para que eu não fique envergonhado."
+    },
+    {
+      "number": 81,
+      "text": "Eu me consumo pela tua salvação, esperando pela tua palavra."
+    },
+    {
+      "number": 82,
+      "text": "Meus olhos se consomem pela tua promessa: quando me consolarás?"
+    },
+    {
+      "number": 83,
+      "text": "Estou como odre na fumaça; nunca me esqueço dos teus estatutos."
+    },
+    {
+      "number": 84,
+      "text": "Quantos serão os dias do teu servo? Quando me farás justiça contra os meus perseguidores?"
+    },
+    {
+      "number": 85,
+      "text": "Os soberbos abriram covas para mim; eles não andam conforme a tua vontade."
+    },
+    {
+      "number": 86,
+      "text": "Teus mandamentos todos são verdadeiros; eles me perseguem sem razão: ajuda-me!"
+    },
+    {
+      "number": 87,
+      "text": "Por pouco não me derrubavam por terra, mas eu não abandono os teus preceitos."
+    },
+    {
+      "number": 88,
+      "text": "Faze-me viver, por teu amor, e eu observarei o testemunho da tua boca."
+    },
+    {
+      "number": 89,
+      "text": "Javé, tua palavra é para sempre, é mais estável do que o céu."
+    },
+    {
+      "number": 90,
+      "text": "Tua fidelidade continua, de geração em geração, como a terra que fixaste, e ela permanece."
+    },
+    {
+      "number": 91,
+      "text": "Tudo existe até hoje conforme as tuas normas, pois as coisas todas servem a ti."
+    },
+    {
+      "number": 92,
+      "text": "Se tua vontade não fosse o meu prazer, eu já teria perecido na miséria."
+    },
+    {
+      "number": 93,
+      "text": "Jamais vou esquecer os teus preceitos, pois é com eles que tu me fazes viver."
+    },
+    {
+      "number": 94,
+      "text": "Eu pertenço a ti: salva-me, pois eu busco os teus preceitos."
+    },
+    {
+      "number": 95,
+      "text": "Que os injustos esperem a minha ruína: eu sei discernir os teus testemunhos."
+    },
+    {
+      "number": 96,
+      "text": "Eu vi o limite de toda perfeição: o teu mandamento se dilata sem fim."
+    },
+    {
+      "number": 97,
+      "text": "Quanto eu amo a tua vontade! Eu medito nela o dia todo."
+    },
+    {
+      "number": 98,
+      "text": "Teu mandamento me torna mais sábio que os meus inimigos porque ele me pertence para sempre."
+    },
+    {
+      "number": 99,
+      "text": "Sou mais sábio que todos os meus mestres, porque medito em teus testemunhos."
+    },
+    {
+      "number": 100,
+      "text": "Sou mais sagaz que os idosos, porque observo os teus preceitos."
+    },
+    {
+      "number": 101,
+      "text": "Eu desvio os meus pés de qualquer caminho mau, para observar a tua palavra."
+    },
+    {
+      "number": 102,
+      "text": "Jamais me desvio de tuas normas, porque és tu quem me ensina."
+    },
+    {
+      "number": 103,
+      "text": "Como é doce ao meu paladar a tua promessa, é mais do que o mel em minha boca!"
+    },
+    {
+      "number": 104,
+      "text": "Com teus preceitos, sou capaz de discernir e detestar qualquer caminho mau."
+    },
+    {
+      "number": 105,
+      "text": "Tua palavra é lâmpada para os meus pés, e luz para o meu caminho."
+    },
+    {
+      "number": 106,
+      "text": "Eu jurei e sustento: observar as tuas justas normas."
+    },
+    {
+      "number": 107,
+      "text": "Estou por demais humilhado, Javé, faze-me viver, conforme a tua palavra."
+    },
+    {
+      "number": 108,
+      "text": "Javé, aceita os votos que pronuncio, e ensina-me as tuas normas."
+    },
+    {
+      "number": 109,
+      "text": "Minha vida está sempre em perigo, porém não me esqueço da tua vontade."
+    },
+    {
+      "number": 110,
+      "text": "Os injustos estendem um laço para mim, porém não me desvio dos teus preceitos."
+    },
+    {
+      "number": 111,
+      "text": "Teus testemunhos são a minha herança para sempre, a alegria do meu coração."
+    },
+    {
+      "number": 112,
+      "text": "Aplico o meu coração em praticar os teus estatutos; essa é a minha recompensa para sempre."
+    },
+    {
+      "number": 113,
+      "text": "Eu detesto os corações divididos e amo a tua vontade."
+    },
+    {
+      "number": 114,
+      "text": "Tu és o meu refúgio e o meu escudo, eu espero pela tua palavra."
+    },
+    {
+      "number": 115,
+      "text": "Afastem-se de mim, perversos, que eu vou guardar os mandamentos do meu Deus."
+    },
+    {
+      "number": 116,
+      "text": "Sustenta-me, conforme a tua promessa, e eu viverei; não deixes que a minha esperança me envergonhe."
+    },
+    {
+      "number": 117,
+      "text": "Apoia-me, e serei salvo e estarei sempre atento aos teus estatutos."
+    },
+    {
+      "number": 118,
+      "text": "Tu desprezas todos os que se desviam dos teus estatutos, pois o seu cálculo é mentira."
+    },
+    {
+      "number": 119,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Salmos"
+    },
+    {
+      "number": 119,
+      "text": "Tens como escória todos os injustos da terra, por isso eu amo os teus testemunhos."
+    },
+    {
+      "number": 120,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 120,
+      "text": "Minha carne se arrepia com temor de ti, e eu temo, por causa de tuas normas."
+    },
+    {
+      "number": 121,
+      "text": "Pratiquei o direito e a justiça; não me entregues aos meus opressores."
+    },
+    {
+      "number": 122,
+      "text": "Sê fiador do teu servo para o bem, e que os soberbos não me oprimam."
+    },
+    {
+      "number": 123,
+      "text": "Meus olhos se consomem pela tua salvação, e pela promessa da tua justiça."
+    },
+    {
+      "number": 124,
+      "text": "Age com o teu servo conforme o teu amor, e ensina-me os teus estatutos."
+    },
+    {
+      "number": 125,
+      "text": "Eu sou teu servo, faze-me discernir, e compreenderei os teus testemunhos."
+    },
+    {
+      "number": 126,
+      "text": "Javé, é tempo de agir: eles violaram a tua vontade."
+    },
+    {
+      "number": 127,
+      "text": "É por isso que eu amo os teus mandamentos, mais que ao ouro, e ouro refinado."
+    },
+    {
+      "number": 128,
+      "text": "É por isso que aprecio os teus preceitos e odeio o caminho da mentira."
+    },
+    {
+      "number": 129,
+      "text": "Teus testemunhos são maravilhas, por isso eu os guardo."
+    },
+    {
+      "number": 130,
+      "text": "A descoberta das tuas palavras ilumina, e traz discernimento aos simples."
+    },
+    {
+      "number": 131,
+      "text": "Abro a boca e aspiro, ansiando por teus mandamentos."
+    },
+    {
+      "number": 132,
+      "text": "Volta-te para mim, tem piedade de mim: é a justiça para os que amam o teu nome."
+    },
+    {
+      "number": 133,
+      "text": "Firma os meus passos com a tua promessa e não deixes que mal nenhum me domine."
+    },
+    {
+      "number": 134,
+      "text": "Resgata-me da opressão do homem, e observarei os teus preceitos."
+    },
+    {
+      "number": 135,
+      "text": "Ilumina a tua face para o teu servo, e ensina-me os teus estatutos."
+    },
+    {
+      "number": 136,
+      "text": "Torrentes de lágrimas me descem dos olhos, porque não cumprem a tua vontade."
+    },
+    {
+      "number": 137,
+      "text": "Javé, tu és justo, e tuas normas são retas."
+    },
+    {
+      "number": 138,
+      "text": "Como justiça, ordenaste os teus testemunhos, como verdade suprema."
+    },
+    {
+      "number": 139,
+      "text": "O meu zelo me consome, pois os meus adversários esquecem as tuas palavras."
+    },
+    {
+      "number": 140,
+      "text": "Tua promessa é puríssima, e o teu servo a ama."
+    },
+    {
+      "number": 141,
+      "text": "Sou pequeno e desprezado, porém não esqueço os teus preceitos."
+    },
+    {
+      "number": 142,
+      "text": "Tua justiça é justiça para sempre, e tua vontade é verdadeira."
+    },
+    {
+      "number": 143,
+      "text": "Angústia e opressão me atingiram, teus mandamentos são minhas delícias."
+    },
+    {
+      "number": 144,
+      "text": "Teus testemunhos são justiça para sempre, dá-me discernimento, e eu viverei."
+    },
+    {
+      "number": 145,
+      "text": "Eu clamo de todo o coração. Javé, responde para mim! Eu observarei os teus estatutos."
+    },
+    {
+      "number": 146,
+      "text": "Eu grito para ti: salva-me! Eu guardarei os teus testemunhos."
+    },
+    {
+      "number": 147,
+      "text": "Antecipo a aurora e imploro, esperando pelas tuas palavras."
+    },
+    {
+      "number": 148,
+      "text": "Meus olhos antecipam as vigílias, para meditar a tua promessa."
+    },
+    {
+      "number": 149,
+      "text": "Javé, ouve a minha voz, por teu amor, faze-me reviver, conforme as tuas normas."
+    },
+    {
+      "number": 150,
+      "text": "Ler Salmos completo"
+    },
+    {
+      "number": 150,
+      "text": "Perseguidores infames se aproximam, estão longe da tua vontade."
+    },
+    {
+      "number": 151,
+      "text": "Tu estás bem perto, Javé, e os teus mandamentos são todos estáveis."
+    },
+    {
+      "number": 152,
+      "text": "Conheço os teus mandamentos há muito tempo, porque os firmaste para sempre."
+    },
+    {
+      "number": 153,
+      "text": "Olha a minha miséria e liberta-me, pois não me esqueço da tua vontade."
+    },
+    {
+      "number": 154,
+      "text": "Redime a minha causa e defende-me, e pela tua promessa faze-me reviver."
+    },
+    {
+      "number": 155,
+      "text": "A salvação está longe dos injustos, pois eles não procuram os teus estatutos."
+    },
+    {
+      "number": 156,
+      "text": "Javé, tua compaixão é grande: faze-me reviver, conforme as tuas normas."
+    },
+    {
+      "number": 157,
+      "text": "Meus perseguidores e opressores são numerosos, porém não me afastei dos teus testemunhos."
+    },
+    {
+      "number": 158,
+      "text": "Vi os traidores e fiquei desgostoso: eles não observam a tua promessa."
+    },
+    {
+      "number": 159,
+      "text": "Vê como eu amo teus preceitos, Javé, faze-me reviver, conforme o teu amor."
+    },
+    {
+      "number": 160,
+      "text": "O compêndio da tua palavra é a verdade, e as tuas normas são justiça para sempre."
+    },
+    {
+      "number": 161,
+      "text": "Príncipes me perseguem sem motivo, porém o meu coração teme as tuas palavras."
+    },
+    {
+      "number": 162,
+      "text": "Alegro-me com a tua promessa, como quem acha um rico despojo."
+    },
+    {
+      "number": 163,
+      "text": "Detesto e abomino a mentira, e amo a tua vontade."
+    },
+    {
+      "number": 164,
+      "text": "Sete vezes por dia eu te louvo, por causa das tuas justas normas."
+    },
+    {
+      "number": 165,
+      "text": "É grande a paz dos que amam a tua lei: para eles não existe tropeço."
+    },
+    {
+      "number": 166,
+      "text": "Eu aguardo a tua salvação, Javé, e pratico os teus mandamentos."
+    },
+    {
+      "number": 167,
+      "text": "Observo os teus testemunhos: eu os amo intensamente."
+    },
+    {
+      "number": 168,
+      "text": "Observo os teus preceitos e testemunhos, e os meus caminhos estão todos à tua frente."
+    },
+    {
+      "number": 169,
+      "text": "Que o meu clamor chegue à tua presença, Javé! Dá-me discernimento, conforme a tua palavra!"
+    },
+    {
+      "number": 170,
+      "text": "Que a minha súplica chegue à tua presença! Liberta-me, conforme a tua promessa!"
+    },
+    {
+      "number": 171,
+      "text": "Que os meus lábios publiquem o louvor, pois tu me ensinas os teus estatutos."
+    },
+    {
+      "number": 172,
+      "text": "Que minha língua cante a tua promessa, pois os teus mandamentos todos são justos."
+    },
+    {
+      "number": 173,
+      "text": "Que a tua mão venha socorrer-me, porque escolhi os teus preceitos."
+    },
+    {
+      "number": 174,
+      "text": "Eu desejo a tua salvação, Javé, e a tua vontade é a minha delícia."
+    },
+    {
+      "number": 175,
+      "text": "Que eu possa viver para te louvar, e tuas normas me auxiliem."
+    },
+    {
+      "number": 176,
+      "text": "Eu me extraviei como ovelha perdida: vem procurar o teu servo, pois eu não esqueço os teus mandamentos. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

@@ -3,7 +3,228 @@
   "abbrev": "at",
   "capitulo": 13,
   "total_capitulos": 28,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 55,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Havia profetas e mestres na igreja de Antioquia. Eram eles: Barnabé, Simeão, chamado o Negro, Lúcio, da cidade de Cirene, Manaém, companheiro de infância do governador Herodes, e Saulo."
+    },
+    {
+      "number": 2,
+      "text": "Certo dia, eles estavam fazendo uma reunião litúrgica com jejum, e o Espírito Santo disse: “Separem para mim Barnabé e Saulo, a fim de fazerem o trabalho para o qual eu os chamei.”"
+    },
+    {
+      "number": 3,
+      "text": "Então eles jejuaram e rezaram; depois impuseram as mãos sobre Barnabé e Saulo e se despediram deles."
+    },
+    {
+      "number": 4,
+      "text": "Enviados pelo Espírito Santo, Barnabé e Saulo desceram a Selêucia e daí navegaram para Chipre."
+    },
+    {
+      "number": 5,
+      "text": "Quando chegaram a Salamina, começaram a anunciar a Palavra de Deus nas sinagogas dos judeus, tendo João como ajudante."
+    },
+    {
+      "number": 6,
+      "text": "Atravessaram toda a ilha até Pafos e aí encontraram um judeu, mago e falso profeta, que se chamava Bar-Jesus."
+    },
+    {
+      "number": 7,
+      "text": "Este se encontrava na casa do procônsul Sérgio Paulo, homem de bom critério, que mandou chamar Barnabé e Saulo, pois desejava escutar a Palavra de Deus."
+    },
+    {
+      "number": 8,
+      "text": "Porém, o mago Elimas — assim se traduz o seu nome — se opôs, procurando afastar da fé o procônsul."
+    },
+    {
+      "number": 9,
+      "text": "Então Saulo, também chamado Paulo, cheio de Espírito Santo, fixou os olhos em Elimas"
+    },
+    {
+      "number": 10,
+      "text": "e disse: “Filho do diabo, cheio de falsidade e malícia, inimigo de toda justiça, quando é que você vai parar de torcer os caminhos do Senhor, que são retos?"
+    },
+    {
+      "number": 11,
+      "text": "Eis que a mão do Senhor vai cair agora sobre você. Você ficará cego e, por algum tempo, não verá mais o sol.” No mesmo instante escuridão e trevas envolveram Elimas, e ele começou a andar às cegas, procurando alguém que lhe desse a mão."
+    },
+    {
+      "number": 12,
+      "text": "Ao ver o que acontecera, o procônsul abraçou a fé, pois ficara impressionado com a doutrina do Senhor."
+    },
+    {
+      "number": 13,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Atos dos Apóstolos"
+    },
+    {
+      "number": 13,
+      "text": "Paulo e seus companheiros embarcaram em Pafos e chegaram a Perge da Panfília. João, porém, separou-se do grupo e voltou para Jerusalém."
+    },
+    {
+      "number": 14,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 14,
+      "text": "Barnabé e Paulo partiram de Perge e chegaram a Antioquia da Pisídia. No sábado, entraram na sinagoga e sentaram-se."
+    },
+    {
+      "number": 15,
+      "text": "Depois da leitura da Lei e dos Profetas, os chefes da sinagoga mandaram dizer a eles: “Irmãos, se vocês têm alguma palavra de encorajamento para o povo, podem falar.”"
+    },
+    {
+      "number": 16,
+      "text": "Paulo então levantou-se, fez sinal com a mão e disse: “Homens de Israel, e vocês que temem a Deus, escutem!"
+    },
+    {
+      "number": 17,
+      "text": "O Deus deste povo, o Deus de Israel, escolheu nossos antepassados e multiplicou o povo durante seu exílio na terra do Egito. Depois, ele os tirou daí, com braço poderoso."
+    },
+    {
+      "number": 18,
+      "text": "E, durante mais ou menos quarenta anos, cercou-os de cuidados no deserto."
+    },
+    {
+      "number": 19,
+      "text": "Destruiu sete nações na terra de Canaã e deu a eles a posse do território delas,"
+    },
+    {
+      "number": 20,
+      "text": "por quatrocentos e cinquenta anos aproximadamente. Depois disso lhes concedeu juízes, até o profeta Samuel."
+    },
+    {
+      "number": 21,
+      "text": "Em seguida, eles pediram um rei, e Deus concedeu-lhes Saul, filho de Cis, da tribo de Benjamim, que reinou durante quarenta anos."
+    },
+    {
+      "number": 22,
+      "text": "Após depor Saul da realeza, Deus suscitou para eles o rei Davi, do qual prestou o seguinte testemunho: ‘Encontrei Davi, filho de Jessé, homem segundo o meu coração; ele cumprirá todas as minhas vontades’."
+    },
+    {
+      "number": 23,
+      "text": "Conforme havia prometido, Deus fez surgir da descendência de Davi um Salvador para Israel, que é Jesus."
+    },
+    {
+      "number": 24,
+      "text": "E João, o precursor, havia preparado a chegada de Jesus, pregando a todo o povo de Israel um batismo de arrependimento."
+    },
+    {
+      "number": 25,
+      "text": "Estando para terminar a sua missão, João declarou: ‘Não sou aquele que vocês pensam que eu seja! Vejam: depois de mim é que vem aquele do qual não mereço sequer desamarrar as sandálias!"
+    },
+    {
+      "number": 26,
+      "text": "Irmãos, descendentes de Abraão e não-judeus que adoram a Deus, esta mensagem de salvação foi enviada para nós."
+    },
+    {
+      "number": 27,
+      "text": "Porque os habitantes de Jerusalém e seus chefes não reconheceram a Jesus e, ao condená-lo, cumpriram as profecias que são lidas aos sábados."
+    },
+    {
+      "number": 28,
+      "text": "Ler Atos Dos Apostolos completo"
+    },
+    {
+      "number": 28,
+      "text": "Embora não encontrassem nenhum motivo para condenar Jesus à morte, pediram a Pilatos que ele fosse morto."
+    },
+    {
+      "number": 29,
+      "text": "Depois de fazerem tudo o que a Escritura diz a respeito de Jesus, eles o tiraram da cruz e o puseram num túmulo."
+    },
+    {
+      "number": 30,
+      "text": "Mas Deus o ressuscitou dos mortos,"
+    },
+    {
+      "number": 31,
+      "text": "e durante muitos dias ele apareceu àqueles que o acompanharam da Galileia para Jerusalém. Agora eles são testemunhas de Jesus diante do povo."
+    },
+    {
+      "number": 32,
+      "text": "Nós anunciamos a vocês este Evangelho: a promessa que Deus fez aos antepassados,"
+    },
+    {
+      "number": 33,
+      "text": "ele a cumpriu plenamente para nós, seus filhos, quando ressuscitou Jesus, como está escrito no segundo Salmo: ‘Você é o meu filho, eu hoje o gerei’."
+    },
+    {
+      "number": 34,
+      "text": "Deus ressuscitou Jesus dos mortos, para que nunca voltasse à corrupção. Isso ele o disse desta maneira: ‘Cumprirei para vocês a promessa fiel que fiz a Davi’."
+    },
+    {
+      "number": 35,
+      "text": "Por isso diz também em outro lugar: ‘Não permitirás que teu fiel conheça a corrupção’."
+    },
+    {
+      "number": 36,
+      "text": "Ora, tendo cumprido a missão que Deus lhe dera para sua época, Davi morreu, foi para junto de seus pais e conheceu a corrupção."
+    },
+    {
+      "number": 37,
+      "text": "Mas aquele que Deus ressuscitou não conheceu a corrupção."
+    },
+    {
+      "number": 38,
+      "text": "Portanto, fiquem sabendo bem, irmãos, que por meio dele é anunciado a vocês o perdão dos pecados."
+    },
+    {
+      "number": 39,
+      "text": "E, por meio dele, todo aquele que acredita é justificado de todas as coisas de que vocês não puderam ser justificados pela Lei de Moisés."
+    },
+    {
+      "number": 40,
+      "text": "Portanto, tenham cuidado para que não aconteça a vocês o que os profetas disseram:"
+    },
+    {
+      "number": 41,
+      "text": "‘Olhem, desprezadores, se admirem e desapareçam! Porque nos dias de vocês vou realizar uma coisa que vocês não acreditariam se lhes fosse contada’!”"
+    },
+    {
+      "number": 42,
+      "text": "Ao saírem, Paulo e Barnabé foram convidados a continuar falando sobre o mesmo assunto no sábado seguinte."
+    },
+    {
+      "number": 43,
+      "text": "Depois que terminou a reunião, muitos judeus e outras pessoas convertidas ao judaísmo seguiram Paulo e Barnabé. Os dois conversavam com essas pessoas e insistiam para que continuassem fiéis à graça de Deus."
+    },
+    {
+      "number": 44,
+      "text": "No sábado seguinte, quase toda a cidade se reuniu para ouvir a Palavra de Deus."
+    },
+    {
+      "number": 45,
+      "text": "Quando os judeus viram aquela multidão, ficaram cheios de inveja e com blasfêmias se opunham ao que Paulo dizia."
+    },
+    {
+      "number": 46,
+      "text": "Então, com mais coragem ainda, Paulo e Barnabé declararam: “Era preciso anunciar a palavra de Deus, em primeiro lugar para vocês, que são judeus. Porém, como vocês a rejeitam e não se julgam dignos da vida eterna, saibam que nós vamos dedicar-nos aos pagãos."
+    },
+    {
+      "number": 47,
+      "text": "Porque é esta a ordem que o Senhor nos deu: ‘Eu coloquei você como luz para as nações, para que leve a salvação até aos extremos da terra’. ”"
+    },
+    {
+      "number": 48,
+      "text": "Os pagãos ficaram muito contentes quando ouviram isso, e começaram a elogiar a palavra do Senhor. E todos os que estavam destinados à vida eterna abraçaram a fé."
+    },
+    {
+      "number": 49,
+      "text": "Desse modo, a palavra do Senhor se espalhava por toda a região."
+    },
+    {
+      "number": 50,
+      "text": "No entanto, os judeus instigaram algumas senhoras ricas e piedosas, e também os líderes da cidade; e provocaram uma perseguição contra Paulo e Barnabé, e os expulsaram do seu território."
+    },
+    {
+      "number": 51,
+      "text": "Então os apóstolos sacudiram contra eles a poeira dos pés e foram para a cidade de Icônio."
+    },
+    {
+      "number": 52,
+      "text": "Os discípulos, porém, estavam cheios de alegria e do Espírito Santo. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

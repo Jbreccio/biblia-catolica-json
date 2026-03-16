@@ -3,7 +3,156 @@
   "abbrev": "lv",
   "capitulo": 27,
   "total_capitulos": 27,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 37,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Javé falou a Moisés:"
+    },
+    {
+      "number": 2,
+      "text": "“Diga aos filhos de Israel: Quando alguém quiser cumprir um voto a Javé, em relação ao valor de uma pessoa, o valor será o seguinte:"
+    },
+    {
+      "number": 3,
+      "text": "Se for um homem entre vinte e sessenta anos, a taxa será de quinhentos gramas de prata, conforme o peso padrão do santuário."
+    },
+    {
+      "number": 4,
+      "text": "Se for uma mulher, a taxa será de trezentos gramas."
+    },
+    {
+      "number": 5,
+      "text": "Se for um rapaz entre cinco e vinte anos, a taxa será de duzentos gramas. Se for uma jovem, a taxa será de cem gramas."
+    },
+    {
+      "number": 6,
+      "text": "Se for um menino entre um mês e cinco anos, a taxa será de cinquenta gramas. Se for uma menina, a taxa será de trinta gramas."
+    },
+    {
+      "number": 7,
+      "text": "Se for um homem de sessenta anos para cima, a taxa será de cento e cinquenta gramas. Se for uma mulher, será de cem gramas."
+    },
+    {
+      "number": 8,
+      "text": "Se aquele que fez o voto não tiver condições de pagar a taxa estabele­cida, apresentará a pessoa ao sacerdote. Este fará a avaliação de acordo com as possibilidades de quem fez o voto."
+    },
+    {
+      "number": 9,
+      "text": "Tratando-se de animais que podem ser oferecidos a Javé, o animal inteiro oferecido a Javé se torna coisa sagrada."
+    },
+    {
+      "number": 10,
+      "text": "Não poderá ser trocado ou substituído, seja um bom por um mau, seja um mau por um bom. Se o animal for substituído por outro, os dois se tornam coisa sagrada."
+    },
+    {
+      "number": 11,
+      "text": "Se for animal impuro, que não pode ser oferecido a Javé, seja ele qual for, será levado ao sacerdote."
+    },
+    {
+      "number": 12,
+      "text": "Este fará a avaliação do animal, dizendo se é bom ou mau; a avaliação que o sacerdote fizer será considerada válida."
+    },
+    {
+      "number": 13,
+      "text": "Contudo, se a pessoa quiser resgatar o animal, pagará vinte por cento a mais do valor calculado."
+    },
+    {
+      "number": 14,
+      "text": "Quando alguém consagrar a sua casa a Javé, o sacerdote fará a avaliação de acordo com o tipo da casa; e a avaliação que o sacerdote fizer será considerada válida."
+    },
+    {
+      "number": 15,
+      "text": "Contudo, se aquele que fez o voto da casa quiser resgatá-la, pagará vinte por cento a mais do que foi avaliada, e a casa será dele."
+    },
+    {
+      "number": 16,
+      "text": "Quando alguém consagrar a Javé parte das terras de sua propriedade hereditária, a avaliação será feita conforme a semeadura: quinhentos gramas de prata para cada duzentos e vinte litros de cevada."
+    },
+    {
+      "number": 17,
+      "text": "Se a consagração do campo tiver sido feita durante o ano do jubileu, a taxa será integral."
+    },
+    {
+      "number": 18,
+      "text": "Mas se a consagração tiver sido feita depois do jubileu, o sacerdote calculará a taxa conforme os anos que faltarem para o próximo ano do jubileu, fazendo o desconto correspondente."
+    },
+    {
+      "number": 19,
+      "text": "Se a pessoa quiser resgatar o campo, pagará vinte por cento a mais do que foi avaliado, e o campo será seu."
+    },
+    {
+      "number": 20,
+      "text": "Contudo, se a pessoa não resgatar o campo, mas o vender para alguém, tal campo não poderá mais ser resgatado:"
+    },
+    {
+      "number": 21,
+      "text": "no ano do jubileu, quem tiver comprado o campo deverá deixá-lo, e tal campo se tornará coisa consagrada para Javé, como se fosse despojo de guerra. A propriedade hereditária do campo passa a ser do sacerdote."
+    },
+    {
+      "number": 22,
+      "text": "Quando alguém consagrar a Javé um cam­po que tenha adquirido e que não faz parte de sua propriedade hereditária,"
+    },
+    {
+      "number": 23,
+      "text": "o sacerdote avaliará o campo conforme o tempo que ainda faltar para o ano do jubileu. A pessoa que tiver consagrado o campo pagará a importância no mesmo dia, como coisa consagrada para Javé."
+    },
+    {
+      "number": 24,
+      "text": "No ano do jubileu, o campo voltará a ser daquele que o tiver vendido, isto é, daquele que tiver a posse hereditária."
+    },
+    {
+      "number": 25,
+      "text": "As avaliações serão feitas de acordo com o peso padrão do san­tuário, cujo peso equivale a dez gramas."
+    },
+    {
+      "number": 26,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 26,
+      "text": "Ninguém poderá consagrar a primeira cria de um animal, pois esta já pertence a Javé: seja boi, seja ovelha, pertence a Javé."
+    },
+    {
+      "number": 27,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Levítico"
+    },
+    {
+      "number": 27,
+      "text": "Ler Levitico completo"
+    },
+    {
+      "number": 27,
+      "text": "Mas se for animal impuro, poderá ser resgatado pelo preço avaliado, mais vinte por cento; se não for resgatado, será vendido pelo preço avaliado."
+    },
+    {
+      "number": 28,
+      "text": "Aquilo que alguém consagrou a Javé como anátema não pode ser vendido nem resgatado, seja homens, seja animais ou campos de sua propriedade hereditária. O que foi consagrado como anátema é coisa santíssima que pertence a Javé."
+    },
+    {
+      "number": 29,
+      "text": "Uma pessoa consagrada ao anátema não pode ser resgatada: deverá ser morta."
+    },
+    {
+      "number": 30,
+      "text": "Todos os dízimos do campo, seja pro­duto da terra, seja fruto das árvores, pertencem a Javé: é coisa consagrada a Javé."
+    },
+    {
+      "number": 31,
+      "text": "Se alguém quiser resgatar parte do dí­zimo, pagará vinte por cento além do valor."
+    },
+    {
+      "number": 32,
+      "text": "Os dízimos de animais, boi ou ovelha, isto é, a décima parte de tu­do o que passa sob o cajado do pastor, é coisa consagrada a Javé."
+    },
+    {
+      "number": 33,
+      "text": "Não se fará distinção entre os que são bons ou maus, nem serão substituídos; se isso for feito, tanto o animal consagrado como aquele que serviu para substituir serão coisas consagradas, e não poderão ser resgatados”."
+    },
+    {
+      "number": 34,
+      "text": "São esses os mandamentos que Javé deu a Moisés, no monte Sinai, para os filhos de Israel. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

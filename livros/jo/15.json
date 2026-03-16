@@ -3,7 +3,160 @@
   "abbrev": "jo",
   "capitulo": 15,
   "total_capitulos": 42,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 38,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Elifaz de Temã tomou a palavra e disse:"
+    },
+    {
+      "number": 2,
+      "text": "“Por acaso um sábio responde com doutrinas falsas, ou se incha com o vento leste,"
+    },
+    {
+      "number": 3,
+      "text": "argumentando com razões inconsistentes ou palavras sem sentido?"
+    },
+    {
+      "number": 4,
+      "text": "Você está destruindo a religião e eliminando a oração!"
+    },
+    {
+      "number": 5,
+      "text": "Suas culpas inspiram suas palavras, e você usa a linguagem dos astutos."
+    },
+    {
+      "number": 6,
+      "text": "Quem condena você é sua própria boca, e não eu; são suas palavras que testemunham contra você."
+    },
+    {
+      "number": 7,
+      "text": "Por acaso foi você o primeiro homem a nascer? Será que você veio ao mundo antes das colinas?"
+    },
+    {
+      "number": 8,
+      "text": "Por acaso você foi admitido no conselho secreto de Deus e se apropriou da sabedoria?"
+    },
+    {
+      "number": 9,
+      "text": "O que sabe você que nós não sabemos? O que entende você que nós não entendemos?"
+    },
+    {
+      "number": 10,
+      "text": "Entre nós há anciãos de cabelos brancos, e alguns de nós são mais velhos que o seu pai."
+    },
+    {
+      "number": 11,
+      "text": "Não está você fazendo pouco caso das nossas consolações divinas e das palavras equilibradas que dizemos a você?"
+    },
+    {
+      "number": 12,
+      "text": "Como a paixão arrebata você e como seus olhos saltam para fora,"
+    },
+    {
+      "number": 13,
+      "text": "quando você joga o seu rancor contra Deus, soltando protestos com a boca!"
+    },
+    {
+      "number": 14,
+      "text": "Como pode o homem ser puro, como pode ser inocente quem nasceu de mulher?"
+    },
+    {
+      "number": 15,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Jó"
+    },
+    {
+      "number": 15,
+      "text": "Deus não confia nem mesmo em seus anjos, nem o céu é puro aos olhos dele."
+    },
+    {
+      "number": 16,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 16,
+      "text": "Quanto menos o homem detestável e corrompido, que bebe injustiça como água!"
+    },
+    {
+      "number": 17,
+      "text": "Escute-me, que eu vou instruir você. Vou contar-lhe aquilo que vi,"
+    },
+    {
+      "number": 18,
+      "text": "aquilo que os sábios transmitiram, sem nada ocultar, conforme receberam de seus antepassados,"
+    },
+    {
+      "number": 19,
+      "text": "a quem foi dado o país, sem que nenhum estrangeiro se instalasse no meio deles."
+    },
+    {
+      "number": 20,
+      "text": "O injusto vive em contínuo tormento, e poucos são os anos reservados ao tirano."
+    },
+    {
+      "number": 21,
+      "text": "Gritos de terror ressoam nos ouvidos dele e, quando está em paz, é assaltado pelo bandido."
+    },
+    {
+      "number": 22,
+      "text": "Não tem esperança de voltar das trevas, porque está destinado ao fio da espada;"
+    },
+    {
+      "number": 23,
+      "text": "é jogado como pasto dos urubus, e sabe que sua ruína é iminente. O dia tenebroso"
+    },
+    {
+      "number": 24,
+      "text": "o apavora, a angústia e a inquietação o assaltam, como rei pronto para o ataque."
+    },
+    {
+      "number": 25,
+      "text": "Porque ele estendeu a mão contra Deus e desafiou o Todo-poderoso."
+    },
+    {
+      "number": 26,
+      "text": "Investiu contra ele de cabeça abaixada, protegido por escudo blindado,"
+    },
+    {
+      "number": 27,
+      "text": "com o rosto massageado de gordura e os músculos dos rins bem ungidos."
+    },
+    {
+      "number": 28,
+      "text": "Ele habitará cidades abandonadas, casas desabitadas que ameaçam ruir."
+    },
+    {
+      "number": 29,
+      "text": "Não poderá se enriquecer, e sua fortuna não vai durar, nem poderá levar seus bens para o túmulo,"
+    },
+    {
+      "number": 30,
+      "text": "nem escapará das sombras. A chama queimará seus brotos, e o vento arrancará suas flores."
+    },
+    {
+      "number": 31,
+      "text": "Que ele não confie na ilusão que engana, porque a ilusão será a sua recompensa."
+    },
+    {
+      "number": 32,
+      "text": "Antes do tempo, suas folhas murcharão, e seus ramos nunca mais ficarão verdes."
+    },
+    {
+      "number": 33,
+      "text": "Será como videira que deixa cair suas uvas verdes, como oliveira que perde sua florada."
+    },
+    {
+      "number": 34,
+      "text": "A descendência dos injustos é estéril, e o fogo devorará a tenda do homem enganador."
+    },
+    {
+      "number": 35,
+      "text": "Quem concebe a maldade, dá à luz a desgraça, e gera no ventre a desilusão”. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 42,
+      "text": "Ler Jo completo"
+    }
+  ]
 }

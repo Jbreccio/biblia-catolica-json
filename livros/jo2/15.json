@@ -3,7 +3,128 @@
   "abbrev": "jo2",
   "capitulo": 15,
   "total_capitulos": 21,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 30,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "‘‘Eu sou a verdadeira videira, e meu Pai é o agricultor."
+    },
+    {
+      "number": 2,
+      "text": "Todo ramo que não dá fruto em mim, o Pai o corta. Os ramos que dão fruto, ele os poda para que deem mais fruto ainda."
+    },
+    {
+      "number": 3,
+      "text": "Vocês já estão limpos por causa da palavra que eu lhes falei."
+    },
+    {
+      "number": 4,
+      "text": "Fiquem unidos a mim, e eu ficarei unido a vocês. O ramo que não fica unido à videira não pode dar fruto. Vocês também não poderão dar fruto, se não ficarem unidos a mim."
+    },
+    {
+      "number": 5,
+      "text": "Eu sou a videira, e vocês são os ramos. Quem fica unido a mim, e eu a ele, dará muito fruto, porque sem mim vocês não podem fazer nada."
+    },
+    {
+      "number": 6,
+      "text": "Quem não fica unido a mim será jogado fora como um ramo e secará. Esses ramos são ajuntados, jogados no fogo e queimados.”"
+    },
+    {
+      "number": 7,
+      "text": "‘‘Se vocês ficam unidos a mim e minhas palavras permanecem em vocês, peçam o que quiserem e será concedido a vocês."
+    },
+    {
+      "number": 8,
+      "text": "A glória de meu Pai se manifesta quando vocês dão muitos frutos e se tornam meus discípulos."
+    },
+    {
+      "number": 9,
+      "text": "Assim como meu Pai me amou, eu também amei vocês: permaneçam no meu amor."
+    },
+    {
+      "number": 10,
+      "text": "Se vocês obedecem aos meus mandamentos, permanecerão no meu amor, assim como eu obedeci aos mandamentos do meu Pai e permaneço no seu amor."
+    },
+    {
+      "number": 11,
+      "text": "Eu disse isso a vocês para que minha alegria esteja em vocês, e a alegria de vocês seja completa."
+    },
+    {
+      "number": 12,
+      "text": "O meu mandamento é este: amem-se uns aos outros, assim como eu amei vocês."
+    },
+    {
+      "number": 13,
+      "text": "Não existe amor maior do que dar a vida pelos amigos."
+    },
+    {
+      "number": 14,
+      "text": "Vocês são meus amigos, se fizerem o que eu estou mandando."
+    },
+    {
+      "number": 15,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São João"
+    },
+    {
+      "number": 15,
+      "text": "Eu já não chamo vocês de empregados, pois o empregado não sabe o que seu patrão faz; eu chamo vocês de amigos, porque eu comuniquei a vocês tudo o que ouvi de meu Pai."
+    },
+    {
+      "number": 16,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
+    },
+    {
+      "number": 16,
+      "text": "Não foram vocês que me escolheram, mas fui eu que escolhi vocês. Eu os destinei para ir e dar fruto, e para que o fruto de vocês permaneça. O Pai dará a vocês qualquer coisa que vocês pedirem em meu nome."
+    },
+    {
+      "number": 17,
+      "text": "O que eu mando é isto: amem-se uns aos outros.”"
+    },
+    {
+      "number": 18,
+      "text": "‘‘Se o mundo odiar vocês, saibam que odiou primeiro a mim."
+    },
+    {
+      "number": 19,
+      "text": "Se vocês fossem do mundo, o mundo amaria o que é dele. Mas o mundo odiará vocês, porque vocês não são do mundo, pois eu escolhi vocês e os tirei do mundo."
+    },
+    {
+      "number": 20,
+      "text": "Lembrem-se do que eu disse: nenhum servo é maior do que seu senhor. Se perseguiram a mim, vão perseguir vocês também; se guardaram a minha palavra, vão guardar também a palavra de vocês."
+    },
+    {
+      "number": 21,
+      "text": "Ler Sao Joao completo"
+    },
+    {
+      "number": 21,
+      "text": "Farão isso a vocês por causa de meu nome, pois não reconhecem aquele que me enviou."
+    },
+    {
+      "number": 22,
+      "text": "Se eu não tivesse vindo e não tivesse falado para eles, eles não seriam culpados de pecado. Mas agora eles não têm nenhuma desculpa do seu próprio pecado."
+    },
+    {
+      "number": 23,
+      "text": "Quem me odeia, odeia também a meu Pai."
+    },
+    {
+      "number": 24,
+      "text": "Se eu não tivesse feito no meio deles obras como nenhum outro fez, eles não seriam culpados de pecado. Mas eles viram o que eu fiz, e apesar disso odiaram a mim e a meu Pai."
+    },
+    {
+      "number": 25,
+      "text": "Desse modo se realiza o que está escrito na Lei deles: ‘Odiaram-me sem motivo’."
+    },
+    {
+      "number": 26,
+      "text": "O Advogado, que eu mandarei para vocês de junto do Pai, é o Espírito da Verdade que procede do Pai. Quando ele vier, dará testemunho de mim."
+    },
+    {
+      "number": 27,
+      "text": "Vocês também darão testemunho de mim, porque vocês estão comigo desde o começo.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Op"
+    }
+  ]
 }

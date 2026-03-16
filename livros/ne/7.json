@@ -3,7 +3,308 @@
   "abbrev": "ne",
   "capitulo": 7,
   "total_capitulos": 13,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 75,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Quando a muralha ficou pronta e eu coloquei as portas, foram nomeados os porteiros, cantores e levitas."
+    },
+    {
+      "number": 2,
+      "text": "Confiei a administração de Jerusalém ao meu irmão Hanani e a Hananias, chefe da fortaleza, homem fiel e que temia a Deus como poucos."
+    },
+    {
+      "number": 3,
+      "text": "Eu lhes disse: “Não abram as portas de Jerusalém antes que o sol comece a esquentar. À tarde, com o sol ainda alto, fechem e tranquem as portas. Formem também corpos de guarda com os habitantes de Jerusa­lém, uns vigiando em seus postos e outros diante de sua própria casa."
+    },
+    {
+      "number": 4,
+      "text": "A cidade era espaçosa e grande, mas o povo que aí morava era minguado e as casas ainda não estavam reconstruídas."
+    },
+    {
+      "number": 5,
+      "text": "Então Deus me inspirou a reunir as pessoas importantes, os chefes e o povo, a fim de fazer o recenseamento das famílias. Encontrei o registro genealógico dos primeiros que tinham voltado do exílio, e achei escrito o seguinte:"
+    },
+    {
+      "number": 6,
+      "text": "Estes são os cidadãos da província que voltaram do exílio. São aqueles que Nabu­co­donosor, rei da Babilônia, tinha exilado, e que voltaram para Jerusalém e Judá, cada qual para a sua cidade."
+    },
+    {
+      "number": 7,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Neemias"
+    },
+    {
+      "number": 7,
+      "text": "Eles vieram com Zorobabel, Josué, Neemias, Azarias, Raamias, Naamani, Mardoqueu, Belsã, Mesfarat, Beguai, Naum e Baana."
+    },
+    {
+      "number": 8,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 8,
+      "text": "Duas mil, cento e setenta e duas pessoas, da descendência de Faros."
+    },
+    {
+      "number": 9,
+      "text": "Trezentas e setenta e duas pes­soas, da descendência de Safatias."
+    },
+    {
+      "number": 10,
+      "text": "Seiscentas e cinquenta e duas, da descendência de Area."
+    },
+    {
+      "number": 11,
+      "text": "Duas mil, oitocentas e de­zoito, da descendência de Faat-Moab, isto é, da família de Josué e Joab."
+    },
+    {
+      "number": 12,
+      "text": "Mil, duzentas e cinquenta e quatro pessoas, da descendência de Elam."
+    },
+    {
+      "number": 13,
+      "text": "Ler Neemias completo"
+    },
+    {
+      "number": 13,
+      "text": "Oitocentas e quarenta e cinco, da descendência de Zetua."
+    },
+    {
+      "number": 14,
+      "text": "Setecentas e sessenta, da descendência de Zacai."
+    },
+    {
+      "number": 15,
+      "text": "Seiscentas e quarenta e oito, da descendência de Benui."
+    },
+    {
+      "number": 16,
+      "text": "Seiscentas e vinte e oito, da descendência de Bebai."
+    },
+    {
+      "number": 17,
+      "text": "Duas mil, trezentas e vinte e duas pessoas, da descendência de Azgad."
+    },
+    {
+      "number": 18,
+      "text": "Seiscentas e sessenta e sete, da descendência de Adonicam."
+    },
+    {
+      "number": 19,
+      "text": "Duas mil e sessenta e sete, da descendência de Beguai."
+    },
+    {
+      "number": 20,
+      "text": "Seiscentas e cinquenta e cinco, da descendência de Adin."
+    },
+    {
+      "number": 21,
+      "text": "Noventa e oito, da descendência de Ater, ou seja, de Eze­quias."
+    },
+    {
+      "number": 22,
+      "text": "Trezentas e vinte e oito, da descen­dência de Hasum."
+    },
+    {
+      "number": 23,
+      "text": "Trezentas e vinte e quatro, da descendência de Besai."
+    },
+    {
+      "number": 24,
+      "text": "Cento e doze, da descendência de Haref."
+    },
+    {
+      "number": 25,
+      "text": "Noventa e cinco descendentes de Gabaon."
+    },
+    {
+      "number": 26,
+      "text": "Cento e oitenta e oito homens de Belém e de Netofa."
+    },
+    {
+      "number": 27,
+      "text": "Cento e vinte e oito homens de Anatot."
+    },
+    {
+      "number": 28,
+      "text": "Quarenta e duas pessoas originárias de Bet-Azmot."
+    },
+    {
+      "number": 29,
+      "text": "Setecentas e quarenta e três pessoas de Cariat-Iarim, Cafira e Beerot."
+    },
+    {
+      "number": 30,
+      "text": "Seiscentas e vinte e uma, de Ra­má e Gaba."
+    },
+    {
+      "number": 31,
+      "text": "Cento e vinte e duas, de Mac­mas."
+    },
+    {
+      "number": 32,
+      "text": "Cento e vinte e três, de Betel e Hai."
+    },
+    {
+      "number": 33,
+      "text": "Cinquenta e duas pessoas originárias de outro Nebo."
+    },
+    {
+      "number": 34,
+      "text": "Mil, duzentas e cinquenta e quatro, da descendência de outro Elam."
+    },
+    {
+      "number": 35,
+      "text": "Trezentas e vinte, da descendência de Ha­rim."
+    },
+    {
+      "number": 36,
+      "text": "Trezentas e quarenta e cinco descendentes de Jericó."
+    },
+    {
+      "number": 37,
+      "text": "Setecentas e vinte e uma, de Lod, Hadid e Ono."
+    },
+    {
+      "number": 38,
+      "text": "Três mil, no­vecentos e trinta descendentes de Senaá."
+    },
+    {
+      "number": 39,
+      "text": "Sacerdotes: Novecentos e setenta e três, descendentes de Jedaías, ou seja, da família de Josué."
+    },
+    {
+      "number": 40,
+      "text": "Mil e cinquenta e dois descendentes de Emer."
+    },
+    {
+      "number": 41,
+      "text": "Mil, duzentos e quarenta e sete descendentes de Fasur."
+    },
+    {
+      "number": 42,
+      "text": "Mil e dezessete descendentes de Harim."
+    },
+    {
+      "number": 43,
+      "text": "Levitas: Setenta e quatro descendentes de Josué e Cadmiel, filhos de Odovias."
+    },
+    {
+      "number": 44,
+      "text": "Cantores: Cento e quarenta e oito des­cendentes de Asaf."
+    },
+    {
+      "number": 45,
+      "text": "Porteiros: Cento e trinta e oito descendentes de Selum, Ater, Telmon, Acub, Ha­tita e Sobai."
+    },
+    {
+      "number": 46,
+      "text": "Doados: Descendentes de Siaá, Ha­­­su­fa, Tabaot,"
+    },
+    {
+      "number": 47,
+      "text": "Ceros, Sia, Fadon,"
+    },
+    {
+      "number": 48,
+      "text": "Le­ba­na, Hagaba, Selmai,"
+    },
+    {
+      "number": 49,
+      "text": "Hanã, Gidel, Gaar,"
+    },
+    {
+      "number": 50,
+      "text": "Raaías, Rasin, Necoda,"
+    },
+    {
+      "number": 51,
+      "text": "Gazam, Oza, Fa­sea,"
+    },
+    {
+      "number": 52,
+      "text": "Besai, meunitas e nefusitas."
+    },
+    {
+      "number": 53,
+      "text": "Des­cendentes de Bacbuc, Hacufa, Harur,"
+    },
+    {
+      "number": 54,
+      "text": "Baslut, Meida, Harsa,"
+    },
+    {
+      "number": 55,
+      "text": "Bercos, Sísara, Tema,"
+    },
+    {
+      "number": 56,
+      "text": "Nasias e Hatifa."
+    },
+    {
+      "number": 57,
+      "text": "Descendentes dos escravos de Salo­mão: descendentes de Sotai, Soferet, Fe­ruda,"
+    },
+    {
+      "number": 58,
+      "text": "Jaala, Darcon, Gidel,"
+    },
+    {
+      "number": 59,
+      "text": "Safatias, Hatil, Foqueret-Assebaim e Amon."
+    },
+    {
+      "number": 60,
+      "text": "Os doados e os descendentes dos escravos de Salomão eram ao todo trezentas e noventa e duas pessoas."
+    },
+    {
+      "number": 61,
+      "text": "As seguintes pessoas que voltaram de Tel-Mela, Tel Harsa, Querub, Adon e Emer não puderam provar que sua família e sua raça eram de origem israelita:"
+    },
+    {
+      "number": 62,
+      "text": "Seiscentos e quarenta e dois descendentes de Dalaías, Tobias e Necoda,"
+    },
+    {
+      "number": 63,
+      "text": "além do pessoal de família sacerdotal, descendentes de Hobias, Acos e Berzelai. Este se casara com uma filha do galaadita Berzelai, e adotara o nome dele."
+    },
+    {
+      "number": 64,
+      "text": "Todos eles procuraram o registro da sua genealogia, mas não encontraram. Foram afastados do sacerdócio como impuros."
+    },
+    {
+      "number": 65,
+      "text": "Sua Excelência os proibiu de comer os alimentos sagrados, até aparecer um sacerdote que consultasse o Urim e o Tumim ."
+    },
+    {
+      "number": 66,
+      "text": "No total, a comunidade era de quarenta e duas mil, trezentas e sessenta pessoas,"
+    },
+    {
+      "number": 67,
+      "text": "sem contar os sete mil, trezentos e trinta e sete escravos. Entre eles, havia também duzentos e quarenta e cinco cantores e cantoras."
+    },
+    {
+      "number": 68,
+      "text": "Tinham quatrocentos e trinta e cinco camelos, e seis mil, setecentos e vinte jumentos."
+    },
+    {
+      "number": 69,
+      "text": "Alguns chefes de família trouxeram do­nativos para as obras. Sua Excelência depo­sitou no cofre mil dracmas de ouro, cinquenta cálices e trinta túnicas para os sacerdotes."
+    },
+    {
+      "number": 70,
+      "text": "Alguns chefes de família depositaram, no cofre das obras, vinte mil dracmas de ouro e duas mil e duzentas minas de prata."
+    },
+    {
+      "number": 71,
+      "text": "Os donativos feitos pelo restante do povo alcançaram a soma de vinte mil dracmas de ouro, duas mil minas de prata e sessenta e sete túnicas para os sacerdotes."
+    },
+    {
+      "number": 72,
+      "text": "Os sacerdotes, levitas e parte do povo passaram a morar em Jerusalém, enquanto os cantores, porteiros e doados, como todos os israelitas, foram morar cada um na sua cidade. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

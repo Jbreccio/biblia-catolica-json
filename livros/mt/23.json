@@ -3,7 +3,176 @@
   "abbrev": "mt",
   "capitulo": 23,
   "total_capitulos": 28,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 42,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Jesus falou às multidões e aos seus discípulos:"
+    },
+    {
+      "number": 2,
+      "text": "‘‘Os doutores da Lei e os fariseus têm autoridade para interpretar a Lei de Moisés."
+    },
+    {
+      "number": 3,
+      "text": "Por isso, vocês devem fazer e observar tudo o que eles dizem. Mas não imitem suas ações, pois eles falam e não praticam."
+    },
+    {
+      "number": 4,
+      "text": "Amarram pesados fardos e os colocam no ombro dos outros, mas eles mesmos não estão dispostos a movê-los, nem sequer com um dedo."
+    },
+    {
+      "number": 5,
+      "text": "Fazem todas as suas ações só para serem vistos pelos outros. Vejam como eles usam faixas largas na testa e nos braços, e como põem na roupa longas franjas, com trechos da Escritura."
+    },
+    {
+      "number": 6,
+      "text": "Gostam dos lugares de honra nos banquetes e dos primeiros lugares nas sinagogas;"
+    },
+    {
+      "number": 7,
+      "text": "gostam de ser cumprimentados nas praças públicas, e de que as pessoas os chamem mestre."
+    },
+    {
+      "number": 8,
+      "text": "Quanto a vocês, nunca se deixem chamar mestre, pois um só é o Mestre de vocês, e todos vocês são irmãos."
+    },
+    {
+      "number": 9,
+      "text": "Na terra, não chamem a ninguém Pai, pois um só é o Pai de vocês, aquele que está no céu."
+    },
+    {
+      "number": 10,
+      "text": "Não deixem que os outros chamem vocês líderes, pois um só é o Líder de vocês: o Messias."
+    },
+    {
+      "number": 11,
+      "text": "Pelo contrário, o maior de vocês deve ser aquele que serve a vocês."
+    },
+    {
+      "number": 12,
+      "text": "Quem se eleva será humilhado, e quem se humilha será elevado.”"
+    },
+    {
+      "number": 13,
+      "text": "‘‘Ai de vocês, doutores da Lei e fariseus hipócritas! Vocês fecham o Reino do Céu para os homens. Nem vocês entram, nem deixam entrar aqueles que desejam."
+    },
+    {
+      "number": 14,
+      "text": "Ai de vocês, doutores da Lei e fariseus hipócritas! Vocês exploram as viúvas e roubam suas casas e, para disfarçar, fazem longas orações! Por isso, vocês vão receber uma condenação mais severa."
+    },
+    {
+      "number": 15,
+      "text": "Ai de vocês, doutores da Lei e fariseus hipócritas! Vocês percorrem o mar e a terra para converter alguém, e quando conseguem, o tornam merecedor do inferno duas vezes mais do que vocês."
+    },
+    {
+      "number": 16,
+      "text": "Ai de vocês, guias cegos! Vocês dizem: ‘Se alguém jura pelo Templo, não fica obrigado, mas se alguém jura pelo ouro do Templo, fica obrigado’."
+    },
+    {
+      "number": 17,
+      "text": "Irresponsáveis e cegos! O que vale mais: o ouro ou o Templo que santifica o ouro?"
+    },
+    {
+      "number": 18,
+      "text": "Vocês dizem também: ‘Se alguém jura pelo altar, não fica obrigado, mas se alguém jura pela oferta que está sobre o altar, esse fica obrigado’."
+    },
+    {
+      "number": 19,
+      "text": "Cegos! O que vale mais: a oferta ou o altar que santifica a oferta?"
+    },
+    {
+      "number": 20,
+      "text": "De fato, quem jura pelo altar, jura por ele e por tudo o que está sobre ele."
+    },
+    {
+      "number": 21,
+      "text": "E quem jura pelo Templo, jura por ele e por Deus que habita no Templo."
+    },
+    {
+      "number": 22,
+      "text": "E quem jura pelo céu, jura pelo trono de Deus e por aquele que nele está sentado."
+    },
+    {
+      "number": 23,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Mateus"
+    },
+    {
+      "number": 23,
+      "text": "Ai de vocês, doutores da Lei e fariseus hipócritas! Vocês pagam o dízimo da hortelã, da erva-doce e do cominho, e deixam de lado os ensinamentos mais importantes da Lei, como a justiça, a misericórdia e a fidelidade. Vocês deveriam praticar isso, sem deixar aquilo."
+    },
+    {
+      "number": 24,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
+    },
+    {
+      "number": 24,
+      "text": "Guias cegos! Vocês coam um mosquito, mas engolem um camelo."
+    },
+    {
+      "number": 25,
+      "text": "Ai de vocês, doutores da Lei e fariseus hipócritas! Vocês limpam o copo e o prato por fora, mas por dentro vocês estão cheios de desejos de roubo e cobiça."
+    },
+    {
+      "number": 26,
+      "text": "Fariseu cego! Limpe primeiro o copo por dentro, e assim o lado de fora também ficará limpo."
+    },
+    {
+      "number": 27,
+      "text": "Ai de vocês, doutores da Lei e fariseus hipócritas! Vocês são como sepulcros caiados: por fora parecem bonitos, mas por dentro estão cheios de ossos de mortos e podridão!"
+    },
+    {
+      "number": 28,
+      "text": "Ler Sao Mateus completo"
+    },
+    {
+      "number": 28,
+      "text": "Assim também vocês: por fora, parecem justos diante dos outros, mas por dentro estão cheios de hipocrisia e injustiça."
+    },
+    {
+      "number": 29,
+      "text": "Ai de vocês, doutores da Lei e fariseus hipócritas! Vocês constroem sepulcros para os profetas e enfeitam os túmulos dos justos,"
+    },
+    {
+      "number": 30,
+      "text": "e dizem: ‘Se tivéssemos vivido no tempo de nossos pais, não teríamos sido cúmplices na morte dos profetas’."
+    },
+    {
+      "number": 31,
+      "text": "Com isso, vocês confessam que são filhos daqueles que mataram os profetas."
+    },
+    {
+      "number": 32,
+      "text": "Pois bem: acabem de encher a medida dos pais de vocês!"
+    },
+    {
+      "number": 33,
+      "text": "Serpentes, raça de cobras venenosas! Como é que vocês poderiam escapar da condenação do inferno?"
+    },
+    {
+      "number": 34,
+      "text": "É por isso que eu envio a vocês profetas, sábios e doutores: a uns vocês matarão e crucificarão, a outros torturarão nas sinagogas de vocês, e os perseguirão de cidade em cidade."
+    },
+    {
+      "number": 35,
+      "text": "Desse modo, virá sobre vocês todo o sangue inocente derramado sobre a terra, desde o sangue de Abel, o justo, até o sangue de Zacarias, filho de Baraquias, que vocês assassinaram entre o santuário e o altar."
+    },
+    {
+      "number": 36,
+      "text": "Eu garanto a vocês: tudo isso acontecerá a essa geração.”"
+    },
+    {
+      "number": 37,
+      "text": "‘‘Jerusalém, Jerusalém, que mata os profetas e apedreja os que foram enviados a você! Quantas vezes eu quis reunir seus filhos, como a galinha reúne os pintinhos debaixo das asas, mas você não quis!"
+    },
+    {
+      "number": 38,
+      "text": "Vejam! a casa de vocês ficará deserta."
+    },
+    {
+      "number": 39,
+      "text": "De fato, eu lhes digo que, daqui em diante, vocês não me verão mais, até que digam: Bendito seja aquele que vem em nome do Senhor!” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskervill"
+    }
+  ]
 }

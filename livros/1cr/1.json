@@ -3,7 +3,236 @@
   "abbrev": "1cr",
   "capitulo": 1,
   "total_capitulos": 29,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 57,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico I Crônicas"
+    },
+    {
+      "number": 1,
+      "text": "Adão, Set, Enós,"
+    },
+    {
+      "number": 2,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
+    },
+    {
+      "number": 2,
+      "text": "Cainã, Malaleel, Jared,"
+    },
+    {
+      "number": 3,
+      "text": "Henoc, Matusalém, Lamec,"
+    },
+    {
+      "number": 4,
+      "text": "Noé, Sem, Cam e Jafé."
+    },
+    {
+      "number": 5,
+      "text": "Descendentes de Jafé: Gomer, Magog, Madai, Javã, Tu­bal, Mosoc e Tiras."
+    },
+    {
+      "number": 6,
+      "text": "Descendentes de Gomer: Asquenez, Rifat e Togorma."
+    },
+    {
+      "number": 7,
+      "text": "Descendentes de Javã: Elisa, Társis, os Cetim e os Dodanim."
+    },
+    {
+      "number": 8,
+      "text": "Descendentes de Cam: Cuch, Mesraim, Fut e Canaã."
+    },
+    {
+      "number": 9,
+      "text": "Descendentes de Cuch: Seba, Hévila, Sabata, Regma, Sabataca. Descendentes de Regma: Sabá e Dadã."
+    },
+    {
+      "number": 10,
+      "text": "Cuch também foi pai de Nemrod, o primeiro va­lente da terra."
+    },
+    {
+      "number": 11,
+      "text": "Mesraim foi pai destes povos: Lud, Anam, Laab, Naftu,"
+    },
+    {
+      "number": 12,
+      "text": "Patros, Caslu e Cáftor, dos quais se originaram os filisteus."
+    },
+    {
+      "number": 13,
+      "text": "O primeiro filho de Canaã foi Sí­don; depois, ele teve Het"
+    },
+    {
+      "number": 14,
+      "text": "e, em segui­­da, os jebuseus, amorreus, gergeseus,"
+    },
+    {
+      "number": 15,
+      "text": "he­veus, ara­­ceus, sineus,"
+    },
+    {
+      "number": 16,
+      "text": "arádios, sama­reus e emateus."
+    },
+    {
+      "number": 17,
+      "text": "Descendentes de Sem: Elam, Assur, Arfaxad, Lud e Aram. Descendentes de Aram: Hus, Hul, Geter e Mes."
+    },
+    {
+      "number": 18,
+      "text": "Arfaxad foi pai de Salé, o qual foi pai de Héber."
+    },
+    {
+      "number": 19,
+      "text": "Héber teve dois filhos. O primeiro recebeu o nome de Faleg, porque foi na sua época que a terra foi dividida; o outro se chamava Jectã."
+    },
+    {
+      "number": 20,
+      "text": "Jectã foi pai de Elmo­dad, Salef, Asarmot, Jaré,"
+    },
+    {
+      "number": 21,
+      "text": "Aduram, Uzal, De­cla,"
+    },
+    {
+      "number": 22,
+      "text": "Ebal, Abimael, Sabá,"
+    },
+    {
+      "number": 23,
+      "text": "Ofir, Hé­vila e Jobab. Todos esses filhos de Jectã."
+    },
+    {
+      "number": 24,
+      "text": "Sem, Arfaxad, Salé,"
+    },
+    {
+      "number": 25,
+      "text": "Héber, Faleg, Reú,"
+    },
+    {
+      "number": 26,
+      "text": "Sa­rug, Nacor, Taré,"
+    },
+    {
+      "number": 27,
+      "text": "Abrão, ou melhor, Abraão."
+    },
+    {
+      "number": 28,
+      "text": "Filhos de Abraão: Isaac e Ismael."
+    },
+    {
+      "number": 29,
+      "text": "Ler I Cronicas completo"
+    },
+    {
+      "number": 29,
+      "text": "Os descendentes desses dois foram: Nabaiot, o primeiro filho de Ismael; depois, vieram Cedar, Adbeel, Mabsam,"
+    },
+    {
+      "number": 30,
+      "text": "Masma, Duma, Massa, Hadad, Tema,"
+    },
+    {
+      "number": 31,
+      "text": "Je­tur, Nafis e Cedma. São os descendentes de Ismael."
+    },
+    {
+      "number": 32,
+      "text": "Filhos que nasceram de Cetura, con­cubina de Abraão: ela lhe deu Zamrã, Jec­sã, Madã, Madiã, Jesboc e Sué. Descenden­tes de Jecsã: Sabá e Dadã."
+    },
+    {
+      "number": 33,
+      "text": "Descendentes de Madiã: Efa, Ofer, Henoc, Abida e Eldaá. São esses os filhos de Cetura."
+    },
+    {
+      "number": 34,
+      "text": "Depois Abraão teve Isaac. Filhos de Isaac: Esaú e Israel."
+    },
+    {
+      "number": 35,
+      "text": "Descendentes de Esaú: Elifaz, Reuel, Jeús, Jalam e Coré."
+    },
+    {
+      "number": 36,
+      "text": "Des­cendentes de Elifaz: Temã, Omar, Se­fo, Gatam, Cenez, Tamna e Amalec."
+    },
+    {
+      "number": 37,
+      "text": "Descendentes de Reuel: Naat, Zara, Sama e Meza."
+    },
+    {
+      "number": 38,
+      "text": "Descendentes de Seir: Lotã, Sobal, Sebeon, Ana, Dison, Eser e Disã."
+    },
+    {
+      "number": 39,
+      "text": "Descendentes de Lotã: Hori e Emam. Tamna era irmã de Lotã."
+    },
+    {
+      "number": 40,
+      "text": "Descendentes de Sobal: Aliã, Manaat, Ebal, Sefo e Onam. Descendentes de Sebeon: Aía e Ana."
+    },
+    {
+      "number": 41,
+      "text": "Descendente de Ana: Dison. Descendentes de Dison: Hamrã, Esebã, Jetrã e Carã."
+    },
+    {
+      "number": 42,
+      "text": "Descendentes de Eser: Balaã, Zavã e Jacã. Descendentes de Disã: Hus e Arã."
+    },
+    {
+      "number": 43,
+      "text": "Os reis que governaram o país de Edom, antes que passasse para o domínio do rei israelita, foram os seguintes: Bela, filho de Beor. A sua capital era Danaba."
+    },
+    {
+      "number": 44,
+      "text": "Com a morte de Bela, reinou Jobab, filho de Zara, da cidade de Bosra."
+    },
+    {
+      "number": 45,
+      "text": "Ao morrer, Jobab foi substituído por Husam, da região dos temanitas."
+    },
+    {
+      "number": 46,
+      "text": "Quando Husam morreu, reinou Adad, filho de Badad, vencedor dos madianitas nos campos de Moab. Sua capital chamava-se Avit."
+    },
+    {
+      "number": 47,
+      "text": "Com a morte de Adad, Semla de Masreca tornou-se rei no lugar dele."
+    },
+    {
+      "number": 48,
+      "text": "O sucessor de Semla foi Saul, de Reobot Naar."
+    },
+    {
+      "number": 49,
+      "text": "Com a morte de Saul, o governo passou para as mãos de Baalanã, filho de Acobor."
+    },
+    {
+      "number": 50,
+      "text": "Quando Baa­­lanã morreu, o trono passou para Adad, da cidade de Fau, casado com Meetabel, filha de Matred e neta de Mezaab."
+    },
+    {
+      "number": 51,
+      "text": "Quando Adad morreu, apareceram che­fes em Edom: Tamna, Alva, Jetet,"
+    },
+    {
+      "number": 52,
+      "text": "Ooli­bama, Ela, Finon,"
+    },
+    {
+      "number": 53,
+      "text": "Cenez, Temã, Mabsar,"
+    },
+    {
+      "number": 54,
+      "text": "Magdiel e Iram. Esses foram os chefes de Edom. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Ra"
+    }
+  ]
 }

@@ -3,7 +3,136 @@
   "abbrev": "dt",
   "capitulo": 14,
   "total_capitulos": 34,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 32,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Vocês são filhos de Javé seu Deus. Por isso, nunca se marcarão com nenhum corte nem raparão a cabeça por um morto."
+    },
+    {
+      "number": 2,
+      "text": "Você é um povo consagrado a Javé seu Deus: foi a você que Javé escolheu, para que pertença a ele como povo próprio, entre todos os povos da terra."
+    },
+    {
+      "number": 3,
+      "text": "Não coma nada que seja abominável."
+    },
+    {
+      "number": 4,
+      "text": "São estes os animais que vocês poderão comer: boi, carneiro, cabra,"
+    },
+    {
+      "number": 5,
+      "text": "cervo, gazela, gamo, cabrito montês, antílope, órix e cabra selvagem."
+    },
+    {
+      "number": 6,
+      "text": "Poderão comer também qualquer animal que tenha o casco fendido e que rumine."
+    },
+    {
+      "number": 7,
+      "text": "Porém, há ruminantes e animais com casco fendido que vocês não pode­rão comer: o camelo, a lebre e o texugo, que ruminam, mas não têm casco fendido. Esses serão impuros para vocês."
+    },
+    {
+      "number": 8,
+      "text": "Quanto ao porco, que tem casco fendido mas não rumina, vocês o considerarão impuro: não comam sua carne, nem toquem no seu cadáver."
+    },
+    {
+      "number": 9,
+      "text": "De tudo o que vive na água, vocês poderão comer todos os que têm barbatanas e escamas."
+    },
+    {
+      "number": 10,
+      "text": "Não comam, porém, os que não tiverem barbatanas e escamas: serão impuros para vocês."
+    },
+    {
+      "number": 11,
+      "text": "Vocês podem comer todas as aves puras,"
+    },
+    {
+      "number": 12,
+      "text": "mas não podem comer o abutre, o giapeto, o xofrango,"
+    },
+    {
+      "number": 13,
+      "text": "o milhafre negro, as diversas espécies de milhafre vermelho,"
+    },
+    {
+      "number": 14,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Deuteronômio"
+    },
+    {
+      "number": 14,
+      "text": "todas as espécies de corvo,"
+    },
+    {
+      "number": 15,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 15,
+      "text": "o avestruz, a coruja, a gaivota e as diversas espécies de gavião,"
+    },
+    {
+      "number": 16,
+      "text": "o mocho, o íbis, o grão-duque,"
+    },
+    {
+      "number": 17,
+      "text": "o pelicano, o abutre branco, o alca­traz,"
+    },
+    {
+      "number": 18,
+      "text": "a cegonha, as diversas espécies de garça, a poupa e o morcego."
+    },
+    {
+      "number": 19,
+      "text": "Considerem impuros todos os bichos que voam: não comam deles."
+    },
+    {
+      "number": 20,
+      "text": "Podem comer todas as aves puras."
+    },
+    {
+      "number": 21,
+      "text": "Não comam nenhum animal que tenha morrido por si. Você o dará ao imigrante que vive em sua cidade, para que ele o coma, ou venderá a um estrangeiro. Porque você é um povo consagrado a Javé seu Deus. Não cozinhe o cabritinho no leite da mãe dele."
+    },
+    {
+      "number": 22,
+      "text": "Todos os anos você separará o dí­­­zi­mo de qualquer produto de seus cam­pos"
+    },
+    {
+      "number": 23,
+      "text": "e o comerá diante de Javé seu Deus, no lugar que ele tiver escolhido para aí fa­zer habitar o nome dele; nesse lugar você comerá o dízimo do trigo, do vinho novo e do óleo, e também os primo­gê­nitos das vacas e das ovelhas, para que você aprenda continuamente a temer Ja­vé seu Deus."
+    },
+    {
+      "number": 24,
+      "text": "Se o caminho for longo demais e você não puder levar o dízimo, porque fica muito longe o lugar escolhido por Javé seu Deus para aí colocar o nome dele, e Javé seu Deus tiver abençoado você,"
+    },
+    {
+      "number": 25,
+      "text": "então venda, pegue o dinheiro e vá ao lugar que Javé seu Deus tiver escolhido."
+    },
+    {
+      "number": 26,
+      "text": "Aí você trocará o seu dinheiro por aquelas coisas que desejar: vacas, ovelhas, vinho, bebida embriagante, tudo o que você quiser. Você comerá aí, diante de Javé seu Deus, e festejará com a família."
+    },
+    {
+      "number": 27,
+      "text": "Mas não abandone o levita que mora em suas cida­des, pois ele não tem parte nem herança com você."
+    },
+    {
+      "number": 28,
+      "text": "A cada três anos você pegará o dízimo da colheita do ano e o colocará nas portas da cidade."
+    },
+    {
+      "number": 29,
+      "text": "Então virá o levita que não recebeu uma parte na herança de vocês, o imigrante, o órfão e a viúva que vivem nas suas cidades, e comerão até ficarem saciados. Desse modo, Javé seu Deus aben­çoa­rá você em todo trabalho que vo­cê realizar. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 34,
+      "text": "Ler Deuteronomio completo"
+    }
+  ]
 }

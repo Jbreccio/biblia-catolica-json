@@ -3,7 +3,180 @@
   "abbrev": "sl",
   "capitulo": 37,
   "total_capitulos": 150,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 43,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "De Davi. Não se irrite por causa dos maus, nem tenha inveja dos injustos."
+    },
+    {
+      "number": 2,
+      "text": "Eles são como erva: secam depressa, murcham logo como a relva."
+    },
+    {
+      "number": 3,
+      "text": "Confie em Javé e pratique o bem, habite na terra e viva tranquilo."
+    },
+    {
+      "number": 4,
+      "text": "Coloque em Javé o seu prazer, e ele dará o que seu coração deseja."
+    },
+    {
+      "number": 5,
+      "text": "Entregue seu caminho a Javé, nele confie, e ele agirá."
+    },
+    {
+      "number": 6,
+      "text": "Ele manifestará a justiça de você como o amanhecer e seu direito como o meio-dia."
+    },
+    {
+      "number": 7,
+      "text": "Descanse em Javé e nele espere, não se irrite com os que triunfam, com o homem que usa de intrigas."
+    },
+    {
+      "number": 8,
+      "text": "Deixe a ira, abandone o furor, não se irrite: você só faria o mal."
+    },
+    {
+      "number": 9,
+      "text": "Porque os maus vão ser excluídos, e os que esperam em Javé possuirão a terra."
+    },
+    {
+      "number": 10,
+      "text": "Mais um pouco, e não haverá mais injusto; você buscará o lugar deles, e não existirá."
+    },
+    {
+      "number": 11,
+      "text": "Mas os pobres vão possuir a terra e deleitar-se com paz abundante."
+    },
+    {
+      "number": 12,
+      "text": "O injusto faz intrigas contra o justo, e contra ele range os dentes."
+    },
+    {
+      "number": 13,
+      "text": "Mas o Senhor ri à custa do injusto, pois vê que o dia dele vem chegando."
+    },
+    {
+      "number": 14,
+      "text": "Os injustos desembainham a espada e retesam o arco para matar o pobre e o indigente, para assassinar o homem reto;"
+    },
+    {
+      "number": 15,
+      "text": "mas a espada lhes atravessará o coração, e seus arcos se quebrarão."
+    },
+    {
+      "number": 16,
+      "text": "Vale mais o pouco do justo que a riqueza de muitos injustos,"
+    },
+    {
+      "number": 17,
+      "text": "porque os braços do injusto serão quebrados, mas o apoio dos justos é Javé."
+    },
+    {
+      "number": 18,
+      "text": "Javé conhece os dias dos íntegros, e a herança deles permanece para sempre;"
+    },
+    {
+      "number": 19,
+      "text": "não se envergonharão nos dias da seca, e nos dias da fome ficarão saciados."
+    },
+    {
+      "number": 20,
+      "text": "Sim, os injustos vão perecer, os inimigos de Javé vão murchar como a beleza dos prados, vão desfazer-se como fumaça."
+    },
+    {
+      "number": 21,
+      "text": "O injusto toma emprestado e não devolve, mas o justo se compadece e dá."
+    },
+    {
+      "number": 22,
+      "text": "Os que ele abençoar possuirão a terra, e os que ele amaldiçoar serão excluídos."
+    },
+    {
+      "number": 23,
+      "text": "Javé garante os passos do homem, e se compraz com o caminho dele."
+    },
+    {
+      "number": 24,
+      "text": "Quando tropeça, não chega a cair, porque Javé o sustenta pela mão."
+    },
+    {
+      "number": 25,
+      "text": "Fui jovem e já estou velho, mas nunca vi um justo abandonado, nem sua descendência mendigando pão."
+    },
+    {
+      "number": 26,
+      "text": "O dia todo ele se compadece e empresta, e sua descendência é uma bênção."
+    },
+    {
+      "number": 27,
+      "text": "Evite o mal e pratique o bem, e você terá uma casa para sempre,"
+    },
+    {
+      "number": 28,
+      "text": "porque Javé ama o direito e jamais abandona seus fiéis. Os malfeitores serão para sempre destruídos, e a descendência dos injustos será eliminada."
+    },
+    {
+      "number": 29,
+      "text": "Os justos vão possuir a terra, e nela habitarão para sempre."
+    },
+    {
+      "number": 30,
+      "text": "A boca do justo fala com sabedoria, e sua língua explica o direito,"
+    },
+    {
+      "number": 31,
+      "text": "pois ele tem no coração a lei do seu Deus, e seus passos nunca vacilam."
+    },
+    {
+      "number": 32,
+      "text": "O injusto espreita o justo e procura levá-lo à morte."
+    },
+    {
+      "number": 33,
+      "text": "Javé, porém, não o entrega nas mãos do injusto e no julgamento não deixa que o condene."
+    },
+    {
+      "number": 34,
+      "text": "Espere em Javé e observe o seu caminho; ele exaltará você, para que possua a terra, e você verá os injustos eliminados."
+    },
+    {
+      "number": 35,
+      "text": "Eu vi um injusto cheio de poder, que prosperava como cedro frondoso."
+    },
+    {
+      "number": 36,
+      "text": "Voltei a passar, e não existia mais; procurei-o, e não foi encontrado."
+    },
+    {
+      "number": 37,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Salmos"
+    },
+    {
+      "number": 37,
+      "text": "Observe o íntegro, veja o homem direito: existe uma posteridade para o homem pacífico."
+    },
+    {
+      "number": 38,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 38,
+      "text": "Mas os transgressores serão todos destruídos, e a descendência dos injustos será cortada."
+    },
+    {
+      "number": 39,
+      "text": "A salvação dos justos vem de Javé, que é fortaleza para eles no tempo da angústia."
+    },
+    {
+      "number": 40,
+      "text": "Javé os ajuda e liberta; vai livrá-los dos injustos e salvá-los, porque os justos nele se abrigam. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 150,
+      "text": "Ler Salmos completo"
+    }
+  ]
 }

@@ -3,7 +3,200 @@
   "abbrev": "sl",
   "capitulo": 105,
   "total_capitulos": 150,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 48,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Celebrem a Javé, invoquem o seu nome, anunciem entre os povos as suas façanhas!"
+    },
+    {
+      "number": 2,
+      "text": "Cantem para ele, ao som de instrumentos, recitem suas maravilhas todas!"
+    },
+    {
+      "number": 3,
+      "text": "Gloriem-se do seu nome santo, alegre-se o coração dos que buscam Javé!"
+    },
+    {
+      "number": 4,
+      "text": "Procurem Javé e sua força, busquem sempre a sua face."
+    },
+    {
+      "number": 5,
+      "text": "Recordem as maravilhas que ele fez, os prodígios e as sentenças de sua boca."
+    },
+    {
+      "number": 6,
+      "text": "Descendência de Abraão, seu servo, filhos de Jacó, seu escolhido!"
+    },
+    {
+      "number": 7,
+      "text": "O nosso Deus é Javé, ele governa a terra inteira."
+    },
+    {
+      "number": 8,
+      "text": "Ele se lembra para sempre da sua aliança, da palavra empenhada por mil gerações."
+    },
+    {
+      "number": 9,
+      "text": "Da aliança que selou com Abraão, do juramento feito a Isaac,"
+    },
+    {
+      "number": 10,
+      "text": "confirmado como lei para Jacó, como aliança eterna para Israel:"
+    },
+    {
+      "number": 11,
+      "text": "“Eu lhe darei a terra de Canaã, como sua parte na herança”."
+    },
+    {
+      "number": 12,
+      "text": "Quando era possível contá-los, eram pouco numerosos, estrangeiros na terra:"
+    },
+    {
+      "number": 13,
+      "text": "iam e vinham, de nação em nação, de um reino para um povo diferente."
+    },
+    {
+      "number": 14,
+      "text": "Ele não deixou que ninguém os oprimisse, e por causa deles, até reis castigou:"
+    },
+    {
+      "number": 15,
+      "text": "“Não toquem nos meus ungidos, não maltratem os meus profetas!”"
+    },
+    {
+      "number": 16,
+      "text": "Ele chamou a fome sobre a terra e cortou o sustento de pão."
+    },
+    {
+      "number": 17,
+      "text": "Tinha mandado um homem à sua frente: José, vendido como escravo."
+    },
+    {
+      "number": 18,
+      "text": "Com grilhões lhe afligiram os pés e lhe puseram ferros no pescoço,"
+    },
+    {
+      "number": 19,
+      "text": "até que se cumpriu sua predição, e a palavra de Javé lhe deu crédito."
+    },
+    {
+      "number": 20,
+      "text": "O rei mandou soltá-lo, o senhor dos povos o livrou."
+    },
+    {
+      "number": 21,
+      "text": "E o constituiu senhor da sua casa, administrador de todos os seus bens,"
+    },
+    {
+      "number": 22,
+      "text": "para instruir a seu gosto os príncipes, e ensinar sabedoria aos anciãos."
+    },
+    {
+      "number": 23,
+      "text": "Então Israel entrou no Egito, e Jacó residiu na terra de Cam."
+    },
+    {
+      "number": 24,
+      "text": "Deus fez seu povo crescer muito, e o tornou mais poderoso que seus opressores."
+    },
+    {
+      "number": 25,
+      "text": "A esses ele mudou o coração, para que odiassem o povo dele, e com os servos dele usassem de astúcia."
+    },
+    {
+      "number": 26,
+      "text": "Então ele enviou Moisés, seu servo, e Aarão, a quem escolhera."
+    },
+    {
+      "number": 27,
+      "text": "Contra aqueles fizeram seus sinais, prodígios na terra de Cam."
+    },
+    {
+      "number": 28,
+      "text": "Ele mandou-lhes a treva e tudo escureceu, mas eles afrontaram suas ordens."
+    },
+    {
+      "number": 29,
+      "text": "Transformou suas águas em sangue, fazendo perecer os seus peixes."
+    },
+    {
+      "number": 30,
+      "text": "Sua terra pululou de rãs, até nos aposentos reais."
+    },
+    {
+      "number": 31,
+      "text": "Ordenou que viessem insetos, mosquitos sobre todo o território."
+    },
+    {
+      "number": 32,
+      "text": "Em lugar de chuvas, deu-lhes granizo, chamas de fogo em sua terra."
+    },
+    {
+      "number": 33,
+      "text": "Feriu suas vinhas e figueiras, e quebrou as árvores do território deles."
+    },
+    {
+      "number": 34,
+      "text": "Ordenou e vieram os gafanhotos, inumeráveis saltadores,"
+    },
+    {
+      "number": 35,
+      "text": "que comeram toda a erva de sua terra, e devoraram o fruto do seu campo."
+    },
+    {
+      "number": 36,
+      "text": "Feriu todos os primogênitos de sua terra, os primeiros frutos de sua raça."
+    },
+    {
+      "number": 37,
+      "text": "Tirou o seu povo carregado de ouro e prata, e entre suas tribos ninguém tropeçava."
+    },
+    {
+      "number": 38,
+      "text": "O Egito se alegrou quando saíram, porque sobre ele haviam infundido seu terror."
+    },
+    {
+      "number": 39,
+      "text": "Ele estendeu uma nuvem para cobri-los, e um fogo para iluminar a noite."
+    },
+    {
+      "number": 40,
+      "text": "Pediram, e ele fez vir codornizes, e os saciou com o pão do céu."
+    },
+    {
+      "number": 41,
+      "text": "Fendeu a rocha e brotaram águas, correndo no deserto como um rio."
+    },
+    {
+      "number": 42,
+      "text": "Porque se lembrou de sua palavra sagrada, que dera ao seu servo Abraão:"
+    },
+    {
+      "number": 43,
+      "text": "fez seu povo sair com alegria, e seus eleitos com gritos jubilosos."
+    },
+    {
+      "number": 44,
+      "text": "Deu a eles as terras das nações, e se apossaram do trabalho dos povos:"
+    },
+    {
+      "number": 45,
+      "text": "para que guardassem os seus estatutos e observassem as suas leis. Aleluia! Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 105,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Salmos"
+    },
+    {
+      "number": 106,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 150,
+      "text": "Ler Salmos completo"
+    }
+  ]
 }

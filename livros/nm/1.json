@@ -3,7 +3,236 @@
   "abbrev": "nm",
   "capitulo": 1,
   "total_capitulos": 36,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 57,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Números"
+    },
+    {
+      "number": 1,
+      "text": "No primeiro dia do segundo mês do segundo ano da saída do Egito, Javé falou a Moisés na tenda da reunião, no deserto do Sinai:"
+    },
+    {
+      "number": 2,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 2,
+      "text": "“Façam um recenseamento completo da comunidade dos filhos de Israel: todos os homens, um a um, conforme os clãs e famílias, registrando seus nomes."
+    },
+    {
+      "number": 3,
+      "text": "Você e Aarão registrarão, por esquadrões, todos os homens maiores de vinte anos e capacitados para a guerra."
+    },
+    {
+      "number": 4,
+      "text": "Com vocês estará um homem de cada tribo, chefes de famílias."
+    },
+    {
+      "number": 5,
+      "text": "São estes os nomes daqueles que ajuda­rão vocês: De Rúben, Elisur, filho de Se­deur."
+    },
+    {
+      "number": 6,
+      "text": "De Simeão, Salamiel, filho de Suri­sadai."
+    },
+    {
+      "number": 7,
+      "text": "De Judá, Naasson, filho de Amina­dab."
+    },
+    {
+      "number": 8,
+      "text": "De Issacar, Natanael, filho de Suar."
+    },
+    {
+      "number": 9,
+      "text": "De Zabu­lon, Eliab, filho de Helon."
+    },
+    {
+      "number": 10,
+      "text": "Dos filhos de José: de Efraim, Elisama, filho de Amiud; de Manassés, Gamaliel, filho de Fadassur."
+    },
+    {
+      "number": 11,
+      "text": "De Benjamim, Abidã, filho de Gedeão."
+    },
+    {
+      "number": 12,
+      "text": "De Dã, Aiezer, filho de Amisadai."
+    },
+    {
+      "number": 13,
+      "text": "De Aser, Fegiel, filho de Ocrã."
+    },
+    {
+      "number": 14,
+      "text": "De Gad, Elia­saf, filho de Reuel."
+    },
+    {
+      "number": 15,
+      "text": "De Neftali, Aíra, filho de Enã”."
+    },
+    {
+      "number": 16,
+      "text": "Foram esses os homens escolhidos na comunidade; eram chefes da tribo do seu antepassado e chefes dos clãs de Israel."
+    },
+    {
+      "number": 17,
+      "text": "Moisés e Aarão tomaram esses homens que haviam sido escolhidos pelo nome,"
+    },
+    {
+      "number": 18,
+      "text": "e convocaram toda a comunidade no primeiro dia do segundo mês. Todos os que tinham mais de vinte anos se inscreveram, um por um, conforme os clãs e famílias, registrando seus nomes."
+    },
+    {
+      "number": 19,
+      "text": "O recenseamento no deserto do Sinai foi feito conforme Javé havia mandado a Moisés."
+    },
+    {
+      "number": 20,
+      "text": "Foram recenseados os filhos e descendentes de Rúben, primogênito de Israel, conforme os clãs e famílias, registrando os nomes, um por um, dos homens com mais de vinte anos e capacitados para a guerra."
+    },
+    {
+      "number": 21,
+      "text": "Total da tribo de Rúben: quarenta e seis mil e quinhentos."
+    },
+    {
+      "number": 22,
+      "text": "Foram recenseados os filhos e descendentes de Simeão, conforme os clãs e famílias, registrando os nomes, um por um, dos homens com mais de vinte anos e capacitados para a guerra."
+    },
+    {
+      "number": 23,
+      "text": "Total da tribo de Simeão: cinquenta e nove mil e trezentos."
+    },
+    {
+      "number": 24,
+      "text": "Foram recenseados os filhos e descendentes de Gad, conforme os clãs e famí­lias, registrando os nomes, um por um, dos homens com mais de vinte anos e capacitados para a guerra."
+    },
+    {
+      "number": 25,
+      "text": "Total da tribo de Gad: quarenta e cinco mil e seiscentos e cinquenta."
+    },
+    {
+      "number": 26,
+      "text": "Foram recenseados os filhos e descendentes de Judá, conforme os clãs e famí­lias, registrando os nomes, um por um, dos homens com mais de vinte anos e capacitados para a guerra."
+    },
+    {
+      "number": 27,
+      "text": "Total da tribo de Ju­dá: setenta e quatro mil e seiscentos."
+    },
+    {
+      "number": 28,
+      "text": "Foram recenseados os filhos e descendentes de Issacar, conforme os clãs e famílias, registrando os nomes, um por um, dos homens com mais de vinte anos e capacitados para a guerra."
+    },
+    {
+      "number": 29,
+      "text": "Total da tribo de Issacar: cinquenta e quatro mil e quatrocentos."
+    },
+    {
+      "number": 30,
+      "text": "Foram recenseados os filhos e descendentes de Zabulon, conforme os clãs e famílias, registrando os nomes, um por um, dos homens com mais de vinte anos e capa­citados para a guerra."
+    },
+    {
+      "number": 31,
+      "text": "Total da tribo de Za­bulon: cinquenta e sete mil e quatrocentos."
+    },
+    {
+      "number": 32,
+      "text": "Foram recenseados os filhos e descendentes de Efraim, filho de José, conforme os clãs e famílias, registrando os nomes, um por um, dos homens com mais de vinte anos e capacitados para a guerra."
+    },
+    {
+      "number": 33,
+      "text": "Total da tribo de Efraim: quarenta mil e quinhentos."
+    },
+    {
+      "number": 34,
+      "text": "Foram recenseados os filhos e descen­dentes de Manassés, filho de José, conforme os clãs e famílias, registrando os nomes, um por um, dos homens com mais de vinte anos e capacitados para a guerra."
+    },
+    {
+      "number": 35,
+      "text": "Total da tribo de Manassés: trinta e dois mil e duzentos."
+    },
+    {
+      "number": 36,
+      "text": "Ler Numeros completo"
+    },
+    {
+      "number": 36,
+      "text": "Foram recenseados os filhos e descen­dentes de Benjamim, conforme os clãs e fa­mílias, registrando os nomes, um por um, dos homens com mais de vinte anos e capa­citados para a guerra."
+    },
+    {
+      "number": 37,
+      "text": "Total da tribo de Ben­jamim: trinta e cinco mil e quatrocentos."
+    },
+    {
+      "number": 38,
+      "text": "Foram recenseados os filhos e descendentes de Dã, conforme os clãs e famílias, registrando os nomes, um por um, dos homens com mais de vinte anos e capacitados para a guerra."
+    },
+    {
+      "number": 39,
+      "text": "Total da tribo de Dã: sessenta e dois mil e setecentos."
+    },
+    {
+      "number": 40,
+      "text": "Foram recenseados os filhos e descendentes de Aser, conforme os clãs e famí­lias, registrando os nomes, um por um, dos homens com mais de vinte anos e capa­citados para a guerra."
+    },
+    {
+      "number": 41,
+      "text": "Total da tribo de Aser: quarenta e um mil e quinhentos."
+    },
+    {
+      "number": 42,
+      "text": "Foram recenseados os filhos e descendentes de Neftali, conforme os clãs e famí­lias, registrando os nomes, um por um, dos homens com mais de vinte anos e capacitados para a guerra."
+    },
+    {
+      "number": 43,
+      "text": "Total da tribo de Nef­tali: cinquenta e três mil e quatrocentos."
+    },
+    {
+      "number": 44,
+      "text": "Esse foi o recenseamento que Moisés fez com Aarão, ajudado pelos doze chefes de Israel: um de cada família."
+    },
+    {
+      "number": 45,
+      "text": "O total dos filhos de Israel, com mais de vinte anos e capacitados para a guerra,"
+    },
+    {
+      "number": 46,
+      "text": "foi de seiscentos e três mil, quinhentos e cinquenta."
+    },
+    {
+      "number": 47,
+      "text": "Os levitas não foram recenseados com os outros, conforme as famílias,"
+    },
+    {
+      "number": 48,
+      "text": "porque Javé tinha dito a Moisés:"
+    },
+    {
+      "number": 49,
+      "text": "“Não inclua os levitas no recenseamento e nos registros dos filhos de Israel."
+    },
+    {
+      "number": 50,
+      "text": "Encarregue-os da tenda da aliança, de seus utensílios e de tudo o que pertence a ela. Eles transportarão a tenda com todos os utensílios, estarão a seu serviço e acamparão ao redor dela."
+    },
+    {
+      "number": 51,
+      "text": "Quando a tenda tiver que ser deslo­cada, os levitas a desmontarão; ao acampar, os levitas a montarão. Qualquer estranho que se aproximar dela será condenado à morte."
+    },
+    {
+      "number": 52,
+      "text": "Os filhos de Israel acamparão por esquadrões, cada um em seu acampamento, junto à sua bandeira."
+    },
+    {
+      "number": 53,
+      "text": "Os levitas, porém, acamparão ao redor da tenda da aliança, para que a Ira não se acenda contra a comunidade dos filhos de Israel. Os levitas cuidarão da tenda da aliança”."
+    },
+    {
+      "number": 54,
+      "text": "Os filhos de Israel acataram tudo o que Javé havia ordenado a Moisés, e assim fizeram. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

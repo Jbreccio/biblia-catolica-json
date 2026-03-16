@@ -3,7 +3,124 @@
   "abbrev": "rm",
   "capitulo": 16,
   "total_capitulos": 16,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 29,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Recomendo a vocês nossa irmã Febe, diaconisa da igreja de Cencreia."
+    },
+    {
+      "number": 2,
+      "text": "Recebam-na no Senhor, como convém a cristãos. Deem a ela toda a ajuda que precisar, pois ela tem ajudado muita gente e a mim também."
+    },
+    {
+      "number": 3,
+      "text": "Saudações a Prisca e Áquila, meus colaboradores em Jesus Cristo,"
+    },
+    {
+      "number": 4,
+      "text": "que arriscaram a própria cabeça para salvar a minha vida. A eles não somente eu sou grato, mas também todas as igrejas dos pagãos."
+    },
+    {
+      "number": 5,
+      "text": "Saúdem também a igreja que se reúne na casa deles. Saudações ao meu caro Epêneto, o primeiro fruto da Ásia para Cristo."
+    },
+    {
+      "number": 6,
+      "text": "Saudações a Maria, que trabalhou muito por vocês."
+    },
+    {
+      "number": 7,
+      "text": "Saúdem Andrônico e Júnia, meus parentes e companheiros de prisão; eles são apóstolos importantes e se converteram a Cristo antes de mim."
+    },
+    {
+      "number": 8,
+      "text": "Saúdem Amplíato, meu caro amigo no Senhor."
+    },
+    {
+      "number": 9,
+      "text": "Saúdem Urbano, nosso colaborador em Cristo, e também o meu caro Estáquis."
+    },
+    {
+      "number": 10,
+      "text": "Saúdem Apeles, que provou ser bom cristão. Saúdem os familiares de Aristóbulo."
+    },
+    {
+      "number": 11,
+      "text": "Saúdem Herodião, meu parente. Saúdem os cristãos da família de Narciso."
+    },
+    {
+      "number": 12,
+      "text": "Saúdem Trifena e Trifosa, que trabalharam pelo Senhor. Saúdem a querida Pérside, que trabalhou muito pelo Senhor."
+    },
+    {
+      "number": 13,
+      "text": "Saúdem Rufo, o eleito do Senhor, e sua mãe, que é minha também."
+    },
+    {
+      "number": 14,
+      "text": "Saúdem Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e os irmãos que vivem com eles."
+    },
+    {
+      "number": 15,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 15,
+      "text": "Saúdem Filólogo e Júlia, Nereu e sua irmã, Olimpas e todos os cristãos que vivem com eles."
+    },
+    {
+      "number": 16,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Romanos"
+    },
+    {
+      "number": 16,
+      "text": "Ler Romanos completo"
+    },
+    {
+      "number": 16,
+      "text": "Saúdem-se uns aos outros com o beijo santo. Todas as igrejas de Cristo saúdam vocês."
+    },
+    {
+      "number": 17,
+      "text": "Irmãos, peço que vocês tomem cuidado com aqueles que provocam divisões e obstáculos contra a doutrina que vocês aprenderam."
+    },
+    {
+      "number": 18,
+      "text": "Fiquem longe deles, porque não servem a Cristo nosso Senhor, mas ao próprio estômago; com palavras doces e bajuladoras, eles enganam o coração das pessoas simples."
+    },
+    {
+      "number": 19,
+      "text": "A obediência de vocês é conhecida de todos. Vocês, para mim, são um motivo de alegria, mas desejo que sejam sábios para o bem e sem compromissos com o mal."
+    },
+    {
+      "number": 20,
+      "text": "O Deus da paz não tardará em esmagar Satanás debaixo dos pés de vocês. Que a graça de nosso Senhor Jesus Cristo esteja com vocês."
+    },
+    {
+      "number": 21,
+      "text": "Meu colaborador Timóteo e os meus parentes Lúcio, Jasão e Sosípatro mandam saudações."
+    },
+    {
+      "number": 22,
+      "text": "Eu, Tércio, que escrevi esta carta, mando saudações no Senhor."
+    },
+    {
+      "number": 23,
+      "text": "Saudações de Gaio, que está hospedando a mim e a toda a comunidade. Erasto, que é o administrador da cidade, e o irmão Quarto também mandam saudações./"
+    },
+    {
+      "number": 25,
+      "text": "Seja dada glória a Deus, que tem o poder de conservar vocês firmes, de acordo com o meu Evangelho e a mensagem de Jesus Cristo. Essa é a revelação de um mistério que estava envolvido no silêncio desde os tempos eternos."
+    },
+    {
+      "number": 26,
+      "text": "Agora, esse mistério foi manifestado pelos escritos proféticos e por disposição do Deus eterno, e foi anunciado a todos os pagãos, para conduzi-los à obediência da fé."
+    },
+    {
+      "number": 27,
+      "text": "A Deus, o único sábio, por meio de Jesus Cristo, seja dada a glória para sempre. Amém! Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

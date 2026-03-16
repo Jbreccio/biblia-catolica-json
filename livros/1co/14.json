@@ -3,7 +3,180 @@
   "abbrev": "1co",
   "capitulo": 14,
   "total_capitulos": 16,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 43,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Procurem o amor. Entretanto, aspirem aos dons do Espírito, principalmente à profecia."
+    },
+    {
+      "number": 2,
+      "text": "Pois aquele que fala em línguas não fala aos homens, mas a Deus. Ninguém o entende, pois ele, em espírito, diz coisas incompreensíveis."
+    },
+    {
+      "number": 3,
+      "text": "Mas aquele que profetiza fala aos homens: edifica, exorta, consola."
+    },
+    {
+      "number": 4,
+      "text": "Aquele que fala em línguas edifica a si mesmo, ao passo que aquele que profetiza edifica a assembleia."
+    },
+    {
+      "number": 5,
+      "text": "Eu desejo que vocês todos falem em línguas, mas prefiro que profetizem. Aquele que profetiza é maior do que aquele que fala em línguas, a menos que este mesmo as interprete, para que a assembleia seja edificada."
+    },
+    {
+      "number": 6,
+      "text": "Suponham, irmãos, que eu vá encontrá-los falando em línguas: como serei útil, se minha palavra não levar para vocês nem revelação, nem ciência, nem profecia, nem ensinamento?"
+    },
+    {
+      "number": 7,
+      "text": "O mesmo acontece com os instrumentos musicais, como a flauta ou a cítara: se não produzirem sons distintos, como reconhecer quem toca a flauta ou quem toca a cítara?"
+    },
+    {
+      "number": 8,
+      "text": "E se a trombeta produzir um som confuso, quem se preparará para a guerra?"
+    },
+    {
+      "number": 9,
+      "text": "Assim também vocês: se a sua linguagem não se exprime em palavras inteligíveis, como se poderá compreender o que vocês dizem? Estarão falando ao vento."
+    },
+    {
+      "number": 10,
+      "text": "No mundo existem não sei quantas espécies de linguagem, e não existe nada sem linguagem."
+    },
+    {
+      "number": 11,
+      "text": "Ora, se eu não conheço a força da linguagem, serei como estrangeiro para aquele que fala, e aquele que fala será um estrangeiro para mim."
+    },
+    {
+      "number": 12,
+      "text": "Assim também vocês: já que aspiram aos dons do Espírito, procurem tê-los em abundância para edificarem a lgreja."
+    },
+    {
+      "number": 13,
+      "text": "Por isso, aquele que fala em línguas deve rezar para que ele mesmo possa interpretá-las."
+    },
+    {
+      "number": 14,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico I Coríntios"
+    },
+    {
+      "number": 14,
+      "text": "Se rezo em línguas, o meu espírito está em oração, mas a minha inteligência não colhe fruto nenhum."
+    },
+    {
+      "number": 15,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
+    },
+    {
+      "number": 15,
+      "text": "O que fazer então? Rezarei com meu espírito, mas rezarei também com a minha inteligência; cantarei com o meu espírito, mas cantarei também com a minha inteligência."
+    },
+    {
+      "number": 16,
+      "text": "Ler I Corintios completo"
+    },
+    {
+      "number": 16,
+      "text": "De fato, se é apenas com o seu espírito que você bendiz, como poderá o ouvinte não iniciado dizer “Amém” ao agradecimento que você faz, uma vez que ele não sabe o que você está dizendo?"
+    },
+    {
+      "number": 17,
+      "text": "A ação de graças que você faz é sem dúvida valiosa, mas o outro não se edifica."
+    },
+    {
+      "number": 18,
+      "text": "Agradeço a Deus por falar em línguas mais do que todos vocês."
+    },
+    {
+      "number": 19,
+      "text": "Numa assembleia, porém, prefiro dizer cinco palavras com a minha inteligência para instruir também os outros, a dizer dez mil palavras em línguas."
+    },
+    {
+      "number": 20,
+      "text": "Irmãos, não sejam como crianças no modo de julgar; sejam crianças quanto à malícia, mas quanto ao modo de julgar sejam adultos."
+    },
+    {
+      "number": 21,
+      "text": "Está escrito na Lei: “Falarei a este povo por meio de homens de outra língua e por meio de lábios estrangeiros, e mesmo assim eles não me escutarão, diz o Senhor.”"
+    },
+    {
+      "number": 22,
+      "text": "Portanto, as línguas são um sinal, não para os que acreditam, mas para os que não acreditam. A profecia, ao contrário, não é para os incrédulos, mas para os que acreditam."
+    },
+    {
+      "number": 23,
+      "text": "Por exemplo: se a igreja se reunir e todos falarem em línguas, será que os simples ouvintes e os incrédulos que entrarem não vão dizer que vocês estão loucos?"
+    },
+    {
+      "number": 24,
+      "text": "Ao contrário, se todos profetizarem, o incrédulo ou o simples ouvinte que entrar se sentirá persuadido de seu erro por todos, julgado por todos;"
+    },
+    {
+      "number": 25,
+      "text": "e os segredos de seu coração serão desvendados; ele se prostrará com o rosto por terra, adorará a Deus e proclamará que Deus está realmente no meio de vocês."
+    },
+    {
+      "number": 26,
+      "text": "Que fazer, então, irmãos? Quando vocês estão reunidos, cada um pode entoar um canto, dar um ensinamento ou revelação, falar em línguas ou interpretá-las. Mas que tudo seja para edificação!"
+    },
+    {
+      "number": 27,
+      "text": "Se existe alguém que fale em línguas, falem dois ou no máximo três, um após o outro. E que alguém as interprete."
+    },
+    {
+      "number": 28,
+      "text": "Se não há intérprete, que o irmão se cale na assembleia; fale a si mesmo e a Deus."
+    },
+    {
+      "number": 29,
+      "text": "Quanto aos profetas, que dois ou três falem, e os outros profetas deem o seu parecer."
+    },
+    {
+      "number": 30,
+      "text": "Se alguém que está sentado recebe uma revelação, cale-se aquele que está falando."
+    },
+    {
+      "number": 31,
+      "text": "Vocês todos podem profetizar, mas um por vez, para que todos sejam instruídos e encorajados."
+    },
+    {
+      "number": 32,
+      "text": "Os espíritos dos profetas estão submissos aos profetas."
+    },
+    {
+      "number": 33,
+      "text": "Pois Deus não é um Deus de desordem, mas de paz."
+    },
+    {
+      "number": 34,
+      "text": "Que as mulheres fiquem caladas nas assembleias, como se faz em todas as igrejas dos cristãos, pois não lhes é permitido tomar a palavra. Devem ficar submissas, como diz também a Lei."
+    },
+    {
+      "number": 35,
+      "text": "Se desejam instruir-se sobre algum ponto, perguntem aos maridos em casa; não é conveniente que a mulher fale nas assembleias."
+    },
+    {
+      "number": 36,
+      "text": "Por acaso, a palavra de Deus tem seu ponto de partida em vocês? Ou foram vocês os únicos que a receberam?"
+    },
+    {
+      "number": 37,
+      "text": "Se alguém julga ser profeta ou inspirado pelo Espírito, reconheça um mandamento do Senhor nas coisas que estou escrevendo para vocês."
+    },
+    {
+      "number": 38,
+      "text": "Todavia, se alguém não reconhecer isso, é que também Deus não é reconhecido."
+    },
+    {
+      "number": 39,
+      "text": "Portanto, irmãos, aspirem ao dom da profecia e não impeçam que alguém fale em línguas."
+    },
+    {
+      "number": 40,
+      "text": "Mas que tudo seja feito de modo conveniente e com ordem. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat "
+    }
+  ]
 }

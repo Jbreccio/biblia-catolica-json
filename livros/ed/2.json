@@ -3,7 +3,300 @@
   "abbrev": "ed",
   "capitulo": 2,
   "total_capitulos": 10,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 73,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Lista dos que pertenciam à província de Judá e que tinham sido exilados para a Babilônia, por Nabucodonosor, rei da Babilônia. Eles vol­taram para Jerusalém e Judá, cada um para a sua cidade."
+    },
+    {
+      "number": 2,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Esdras"
+    },
+    {
+      "number": 2,
+      "text": "Regressaram com Zoroba­bel, Josué, Neemias, Saraías, Raelaías, Naa­mani, Mardoqueu, Belsã, Mesfar, Beguai, Reum e Baana."
+    },
+    {
+      "number": 3,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 3,
+      "text": "Dois mil, cento e setenta e dois, da descendência de Faros."
+    },
+    {
+      "number": 4,
+      "text": "Trezentos e setenta e dois, da descendência de Safatias."
+    },
+    {
+      "number": 5,
+      "text": "Setecentos e setenta e cinco, da descendência de Area."
+    },
+    {
+      "number": 6,
+      "text": "Dois mil, oitocentos e doze, da descendência de Faat-Moab, ou seja, de Jo­sué e de Joab."
+    },
+    {
+      "number": 7,
+      "text": "Mil, duzentos e cinquenta e quatro, da descendência de Elam."
+    },
+    {
+      "number": 8,
+      "text": "Novecentos e quarenta e cinco, da descendência de Zetua."
+    },
+    {
+      "number": 9,
+      "text": "Setecentos e sessenta, da descendência de Zacai."
+    },
+    {
+      "number": 10,
+      "text": "Ler Esdras completo"
+    },
+    {
+      "number": 10,
+      "text": "Seiscentos e quarenta e dois, da descendência de Bani."
+    },
+    {
+      "number": 11,
+      "text": "Seiscentos e vinte e três, da descendência de Bebai."
+    },
+    {
+      "number": 12,
+      "text": "Mil, duzentos e vinte e dois, da descendência de Azgad."
+    },
+    {
+      "number": 13,
+      "text": "Seiscentos e sessenta e seis, da des­cen­dên­cia de Ado­ni­cam."
+    },
+    {
+      "number": 14,
+      "text": "Dois mil e cinquenta e seis, da des­cendência de Beguai."
+    },
+    {
+      "number": 15,
+      "text": "Quatrocentos e cinquenta e quatro, da descen­dência de Adin."
+    },
+    {
+      "number": 16,
+      "text": "Noventa e oi­to, da descendência de Ater, isto é, de Ezequias."
+    },
+    {
+      "number": 17,
+      "text": "Tre­zentos e vin­te e três, da descendência de Besai."
+    },
+    {
+      "number": 18,
+      "text": "Cento e doze, da descendência de Jora."
+    },
+    {
+      "number": 19,
+      "text": "Duzentos e vinte e três, da descendência de Hasum."
+    },
+    {
+      "number": 20,
+      "text": "Noventa e cinco, da descendência de Gebar."
+    },
+    {
+      "number": 21,
+      "text": "Cento e vinte e três, da descendência de Belém."
+    },
+    {
+      "number": 22,
+      "text": "Cinquenta e seis ho­mens, de Netofa."
+    },
+    {
+      "number": 23,
+      "text": "Cento e vinte e oito ho­mens, de Anatot."
+    },
+    {
+      "number": 24,
+      "text": "Quarenta e dois, da des­cen­dência de Azmot."
+    },
+    {
+      "number": 25,
+      "text": "Setecentos e quarenta e três, da descendência de Ca­riat-Iarim, Cafira e Berot."
+    },
+    {
+      "number": 26,
+      "text": "Seiscentos e vinte e um, da descendência de Ramá e Gaba."
+    },
+    {
+      "number": 27,
+      "text": "Cento e vinte e dois homens, de Macmas."
+    },
+    {
+      "number": 28,
+      "text": "Duzentos e vinte e três, de Betel e Hai."
+    },
+    {
+      "number": 29,
+      "text": "Cinquenta e dois, da descendência de Nebo."
+    },
+    {
+      "number": 30,
+      "text": "Cento e cinquenta e seis, da descendência de Meg­bis."
+    },
+    {
+      "number": 31,
+      "text": "Mil, duzentos e cin­­quenta e quatro, da descendência de outro Elam."
+    },
+    {
+      "number": 32,
+      "text": "Trezentos e vinte, da descendência de Harim."
+    },
+    {
+      "number": 33,
+      "text": "Setecentos e vinte e cinco, da descendência de Lod, Hadid e Ono."
+    },
+    {
+      "number": 34,
+      "text": "Trezentos e quarenta e cinco, da des­cen­dência de Jericó."
+    },
+    {
+      "number": 35,
+      "text": "E três mil, seiscentos e trinta, da descendência de Sanaá."
+    },
+    {
+      "number": 36,
+      "text": "Regressaram os seguintes sacerdotes: novecentos e setenta e três, da descendência de Jedaías, da família de Josué."
+    },
+    {
+      "number": 37,
+      "text": "Mil e cinquenta e dois, da descendência de Emer."
+    },
+    {
+      "number": 38,
+      "text": "Mil, duzentos e quarenta e sete, da descendência de Fasur."
+    },
+    {
+      "number": 39,
+      "text": "E mil e dezessete, da descendência de Harim."
+    },
+    {
+      "number": 40,
+      "text": "Regressaram setenta e quatro levitas, da descendência de Josué e Cadmiel, filhos de Odovias."
+    },
+    {
+      "number": 41,
+      "text": "Cantores, descendentes de Asaf: cento e vinte e oito."
+    },
+    {
+      "number": 42,
+      "text": "Da descendência de Selum, de Ater, de Telmon, de Acub, de Hatita e de Sobai, famílias de porteiros: Cento e trinta e nove."
+    },
+    {
+      "number": 43,
+      "text": "Regressaram também doados, das seguintes descendências: Sia, Hasufa, Ta­baot,"
+    },
+    {
+      "number": 44,
+      "text": "Ceros, Siá, Fadon,"
+    },
+    {
+      "number": 45,
+      "text": "Lebana, Haga­ba, Acub,"
+    },
+    {
+      "number": 46,
+      "text": "Hagab, Semlai, Hanã,"
+    },
+    {
+      "number": 47,
+      "text": "Cidel, Gaer, Raaías,"
+    },
+    {
+      "number": 48,
+      "text": "Rasin, Necoda, Gazam,"
+    },
+    {
+      "number": 49,
+      "text": "Uza, Fa­sea, Besai,"
+    },
+    {
+      "number": 50,
+      "text": "Asena, meunitas, nefusitas,"
+    },
+    {
+      "number": 51,
+      "text": "Bac­­buc, Hacufa, Harur,"
+    },
+    {
+      "number": 52,
+      "text": "Bas­lut, Maida, Harsa,"
+    },
+    {
+      "number": 53,
+      "text": "Bercos, Sísara, Tema,"
+    },
+    {
+      "number": 54,
+      "text": "Nasias e Hatifa."
+    },
+    {
+      "number": 55,
+      "text": "Regressaram ainda descendentes dos escravos de Salomão, das seguintes famí­lias: Sotai, Soferet, Feruda,"
+    },
+    {
+      "number": 56,
+      "text": "Jaala, Dar­con, Gidel,"
+    },
+    {
+      "number": 57,
+      "text": "Safatias, Hatil, Foqueret-Asse­baim e Ami."
+    },
+    {
+      "number": 58,
+      "text": "Os doados e os descendentes dos escravos de Salomão perfaziam um total de trezentas e noventa e duas pessoas."
+    },
+    {
+      "number": 59,
+      "text": "Os que regressaram de Tel-Mela, Tel-Harsa, Querub, Adon e Emer, e não puderam provar que sua família era de origem israe­lita, são os seguintes:"
+    },
+    {
+      "number": 60,
+      "text": "Seiscentos e cinquenta e dois, da descendência de Da­laías, de Tobias e de Necoda,"
+    },
+    {
+      "number": 61,
+      "text": "além do pes­soal das famílias de sacerdotes, descendentes de Habias, de Acos e de Berzelai. Este último se casara com uma filha do ga­laadita Berzelai, do qual adotou o nome."
+    },
+    {
+      "number": 62,
+      "text": "Todos esses procuraram o registro da sua genea­logia, mas não encontraram. Foram, assim, excluídos do sacerdócio como impuros."
+    },
+    {
+      "number": 63,
+      "text": "O governador deu ordem para eles não comerem dos alimentos sagrados, até aparecer um sacerdote que consultasse o Urim e o Tumim."
+    },
+    {
+      "number": 64,
+      "text": "O grupo todo que se reuniu era de quarenta e duas mil, trezentas e sessenta pes­soas,"
+    },
+    {
+      "number": 65,
+      "text": "sem contar os sete mil, trezentos e trinta e sete escravos e escravas. Entre eles havia duzentos cantores e cantoras."
+    },
+    {
+      "number": 66,
+      "text": "Tinham setecentos e trinta e seis cavalos, duzentos e quarenta e cinco mulas,"
+    },
+    {
+      "number": 67,
+      "text": "quatrocentos e trinta e cinco camelos e seis mil, setecentos e vinte jumentos."
+    },
+    {
+      "number": 68,
+      "text": "Vários chefes de família, ao chegarem ao Templo de Javé, que está em Jerusalém, fizeram suas ofertas espontâneas, para que o Templo fosse reconstruído no mesmo lugar."
+    },
+    {
+      "number": 69,
+      "text": "Conforme cada um podia, deram para o tesouro do culto sessenta e uma mil dracmas de ouro, cinco mil minas de prata e cem túnicas sacerdotais."
+    },
+    {
+      "number": 70,
+      "text": "Os sacerdotes, os levitas e parte do po­vo passaram a morar em Jerusalém, enquanto os cantores, porteiros e doados, com todos os israelitas, foram morar cada um na sua cidade. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

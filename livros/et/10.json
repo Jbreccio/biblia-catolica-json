@@ -3,7 +3,32 @@
   "abbrev": "et",
   "capitulo": 10,
   "total_capitulos": 10,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 6,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "O rei Assuero impôs tributo aos habitantes do continente e das ilhas."
+    },
+    {
+      "number": 2,
+      "text": "Para suas vitórias militares e o relato em pormenores da dignidade a que o rei elevou Mardoqueu, podem ser consultados os Anais do reino da Média e da Pérsia:"
+    },
+    {
+      "number": 3,
+      "text": "O judeu Mardoqueu era o primeiro depois do rei Assuero. Foi um homem considerado pelos judeus e amado por seus muitos compatriotas, porque buscava o bem do seu povo e se preocupava com a prosperidade de sua nação. Mardoqueu comentou: “Essas coisas aconteceram por obra de Deus."
+    },
+    {
+      "number": 9,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 10,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Ester"
+    },
+    {
+      "number": 10,
+      "text": "Ler Ester completo"
+    }
+  ]
 }

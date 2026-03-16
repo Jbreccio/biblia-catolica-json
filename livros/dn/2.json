@@ -2,8 +2,217 @@
   "livro": "Daniel",
   "abbrev": "dn",
   "capitulo": 2,
-  "total_capitulos": 12,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_capitulos": 14,
+  "total_versiculos": 52,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "No segundo ano do seu reinado, Nabucodonosor teve um sonho e ficou tão assustado que chegou a perder o sono."
+    },
+    {
+      "number": 2,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Daniel"
+    },
+    {
+      "number": 2,
+      "text": "Mandou chamar os magos, astrólogos, agoureiros e adivinhos para interpretarem o sonho. Chegaram e foram colocados na sua presença."
+    },
+    {
+      "number": 3,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 3,
+      "text": "Então o rei lhes disse: “Tive um sonho que me assustou e quero saber o que ele significa”."
+    },
+    {
+      "number": 4,
+      "text": "Os adivinhos disseram ao rei: “Viva o rei para sempre! Conte o sonho para nós, e lhe daremos a explicação”."
+    },
+    {
+      "number": 5,
+      "text": "O rei respondeu aos adivinhos: “Esta é a minha decisão: se não me contarem o sonho que eu tive, nem me derem a interpretação dele, vocês serão feitos em pedaços e suas casas serão transformadas em ruínas."
+    },
+    {
+      "number": 6,
+      "text": "Porém, se me contarem qual foi o meu sonho e qual é a sua interpretação, vocês receberão de mim donativos, presentes e muitas homenagens. Digam qual foi o meu sonho e qual é a sua interpretação”."
+    },
+    {
+      "number": 7,
+      "text": "Os adivinhos disseram: “Majestade, conte o sonho para nós, e daremos a interpretação”."
+    },
+    {
+      "number": 8,
+      "text": "O rei respondeu: “Estou percebendo claramente que vocês querem ganhar tempo. Vocês sabem que dei uma ordem,"
+    },
+    {
+      "number": 9,
+      "text": "e se não me contarem o meu sonho, terão todos a mesma sentença. Vocês combinaram falar mentira e tapear, esperando que a situação mude. Basta dizerem qual foi o meu sonho, e eu terei certeza de que serão capazes de interpretá-lo”."
+    },
+    {
+      "number": 10,
+      "text": "Os adivinhos disseram ao rei: “Não há ninguém no mundo que possa fazer o que o rei está pedindo. Nenhum rei, governador ou chefe jamais pediu uma coisa dessas a qualquer mago, astrólogo ou adivinho."
+    },
+    {
+      "number": 11,
+      "text": "O que o rei exige é sobre-humano; somente os deuses, que não habitam com os mortais, podem dizer isso ao rei”."
+    },
+    {
+      "number": 12,
+      "text": "Por causa disso, o rei ficou furioso e mandou matar todos os sábios da Babilônia."
+    },
+    {
+      "number": 13,
+      "text": "Quando foi publicado o decreto que condenava à morte todos os sábios, procuraram Daniel e seus companheiros, a fim de executá-los também."
+    },
+    {
+      "number": 14,
+      "text": "Ler Daniel completo"
+    },
+    {
+      "number": 14,
+      "text": "Então Daniel falou com inteligência e bons modos a Arioc, o carrasco-chefe do rei, encarregado de matar todos os sábios da Babilônia."
+    },
+    {
+      "number": 15,
+      "text": "E lhe disse: “Por que um decreto tão rigoroso do rei?” Então Arioc contou o caso a Daniel."
+    },
+    {
+      "number": 16,
+      "text": "E Daniel mandou pedir ao rei que lhe fosse dado um prazo, a fim de que pudesse dar a interpretação do sonho."
+    },
+    {
+      "number": 17,
+      "text": "Daniel voltou para casa e contou o fato aos companheiros Ananias, Misael e Azarias."
+    },
+    {
+      "number": 18,
+      "text": "Disse para pedirem ao Senhor do céu a graça de desvendar o segredo, para não serem mortos com os outros sábios da Babilônia."
+    },
+    {
+      "number": 19,
+      "text": "Então o mistério foi revelado a Daniel numa visão noturna. E ele glorificou ao Deus do céu:"
+    },
+    {
+      "number": 20,
+      "text": "“Que o nome do Senhor seja louvado, desde agora e para sempre, pois a ele pertencem a sabedoria e o poder,"
+    },
+    {
+      "number": 21,
+      "text": "Ele modifica os tempos e estações, depõe e entroniza os reis, dá sabedoria aos sábios e ciência aos inteligentes."
+    },
+    {
+      "number": 22,
+      "text": "Ele revela os segredos mais profundos e sabe o que as trevas escondem, pois a luz mora com ele."
+    },
+    {
+      "number": 23,
+      "text": "A ti, ó Deus de meus pais, eu louvo e celebro, porque me deste sabedoria e poder. Tu me revelaste o que eu te pedi e me revelaste o caso do rei”."
+    },
+    {
+      "number": 24,
+      "text": "Depois disso Daniel procurou Arioc, a quem o rei tinha encarregado de matar os sábios da Babilônia. Chegando a ele, disse-lhe: “Não precisa matar os sábios. Leve-me até o rei, e eu interpretarei o sonho que ele teve”."
+    },
+    {
+      "number": 25,
+      "text": "Mais que depressa, Arioc levou Daniel até a presença do rei, dizendo-lhe: “Encontrei este moço entre os judeus aqui exilados e que é capaz de interpretar o sonho do rei”."
+    },
+    {
+      "number": 26,
+      "text": "O rei perguntou a Daniel, cujo nome era Baltassar: “Você é mesmo capaz de me contar e interpretar o sonho que tive?”"
+    },
+    {
+      "number": 27,
+      "text": "Daniel respondeu ao rei: “Os sábios, astrólogos, magos e adivinhos não são capazes de desvendar o segredo que Vossa Majestade lhes propôs."
+    },
+    {
+      "number": 28,
+      "text": "Mas há no céu um Deus que revela os segredos. Ele contou ao rei Nabucodonosor o que acontecerá nos últimos dias. Este é o sonho de Vossa Majestade, que viu quando estava deitado:"
+    },
+    {
+      "number": 29,
+      "text": "Vossa Majestade estava em sua cama e pensava naquilo que ia acontecer no futuro. Então, Aquele que revela os segredos lhe contou o que acontecerá."
+    },
+    {
+      "number": 30,
+      "text": "Não é porque tenho maior sabedoria que outros homens que desvendo essa questão; é apenas para que eu possa dar a Vossa Majestade a explicação e interpretação das imagens que lhe povoaram a mente."
+    },
+    {
+      "number": 31,
+      "text": "Vossa Majestade teve uma visão: Era uma grande estátua, alta e muito brilhante. Ela estava bem à frente de Vossa Majestade e tinha aparência impressionante."
+    },
+    {
+      "number": 32,
+      "text": "A cabeça da estátua era de ouro maciço, o peito e os braços eram de prata, a barriga e as coxas eram de bronze,"
+    },
+    {
+      "number": 33,
+      "text": "as canelas de ferro e os pés eram parte de ferro, parte de barro."
+    },
+    {
+      "number": 34,
+      "text": "Vossa Majestade estava contemplando a estátua, quando, sem ninguém jogar, caiu uma pedra que veio bater exatamente nos pés de ferro e barro da estátua, quebrando-os."
+    },
+    {
+      "number": 35,
+      "text": "Ao mesmo tempo quebrou-se tudo o que era de ferro, de barro, de bronze, de prata e de ouro. Ficou tudo como se fosse palha no terreiro em final de colheita, palha que o vento carrega sem deixar sinal. Depois, a pedra que tinha atingido a estátua se transformou numa enorme montanha que cobriu o mundo inteiro."
+    },
+    {
+      "number": 36,
+      "text": "O sonho foi esse. Agora vamos dar à Vossa Majestade a interpretação."
+    },
+    {
+      "number": 37,
+      "text": "Vossa Majestade é o rei dos reis, a quem o Deus do céu concedeu o reino e o poder, o domínio e a glória."
+    },
+    {
+      "number": 38,
+      "text": "Em todo o mundo habitado ele lhe entregou os seres humanos, as feras e as aves do céu, para que Vossa Majestade domine sobre tudo isso. Assim, Vossa Majestade é a cabeça de ouro."
+    },
+    {
+      "number": 39,
+      "text": "Depois de Vossa Majestade, vai aparecer outro reino, menor que o seu; depois, um terceiro reino, o de bronze, que dominará sobre toda a terra."
+    },
+    {
+      "number": 40,
+      "text": "O quarto reino será duro como o ferro, pois assim como o ferro esmaga e esmigalha tudo, assim também ele quebrará e esmigalhará todos os outros."
+    },
+    {
+      "number": 41,
+      "text": "Os pés e os dedos que Vossa Majestade viu, parte de ferro e parte de barro, significam um reino dividido. Ele tem a dureza do ferro, pois Vossa Majestade viu ferro misturado com uma parte feita de barro."
+    },
+    {
+      "number": 42,
+      "text": "Os dedos dos pés, metade de ferro e metade de barro, significam um reino firme por um lado, mas fraco por outro."
+    },
+    {
+      "number": 43,
+      "text": "O ferro que Vossa Majestade viu misturado com barro significa que as pessoas se juntarão por casamentos, mas não se ligarão umas com as outras, assim como o ferro não faz liga com o barro."
+    },
+    {
+      "number": 44,
+      "text": "Durante este último reinado, o Deus do céu fará aparecer um reino que nunca será destruído. Será um reino que não passará para as mãos de outro povo, mas, ao contrário, humilhará e liquidará todos os outros reinos, enquanto ele mesmo continuará firme para sempre."
+    },
+    {
+      "number": 45,
+      "text": "Esse reino é a pedra que rolou do monte sem ninguém tocá-la e esmigalhou o que era de barro, ferro, bronze, prata e ouro. O grande Deus mostrou ao rei o que acontecerá daqui para frente. O sonho tem sentido e a sua interpretação é digna de fé”."
+    },
+    {
+      "number": 46,
+      "text": "Então o rei Nabucodonosor deitou-se com o rosto por terra na frente de Daniel, mandando oferecer-lhe sacrifícios e queimar-lhe incenso."
+    },
+    {
+      "number": 47,
+      "text": "E o rei falou a Daniel: “De fato, o Deus de vocês é o Deus dos deuses, o Senhor dos reis; ele revela os mistérios, pois só você foi capaz de desvendar esse segredo”."
+    },
+    {
+      "number": 48,
+      "text": "Em seguida, o rei promoveu Daniel: deu-lhe uma quantidade enorme de presentes e quis fazer dele o governador de todas as províncias da Babilônia e o chefe geral de todos os sábios do país."
+    },
+    {
+      "number": 49,
+      "text": "Daniel, porém, pediu ao rei que nomeasse Sidrac, Misac e Abdênago para a administração das províncias, enquanto Daniel ficaria servindo na ante-sala do rei. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

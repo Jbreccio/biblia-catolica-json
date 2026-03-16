@@ -3,7 +3,116 @@
   "abbrev": "ez",
   "capitulo": 46,
   "total_capitulos": 48,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 27,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "“Assim diz o Senhor Javé: O pórtico do pátio interno, que dá para o oriente, permanecerá fechado nos seis dias de trabalho, mas ficará aberto no sábado e no dia da lua nova."
+    },
+    {
+      "number": 2,
+      "text": "Nesses dias, o príncipe entrará pelo vestíbulo do pórtico externo e ficará junto à soleira, enquanto os sacerdotes estiverem oferecendo o holocausto e os sacrifícios de comunhão. Depois ele se prostrará na soleira do pórtico e sairá. Contudo, o pórtico permanecerá aberto até à tarde."
+    },
+    {
+      "number": 3,
+      "text": "Também o povo da terra se prostrará à entrada desse pórtico, diante de Javé, tanto nos sábados como nos dias de lua nova."
+    },
+    {
+      "number": 4,
+      "text": "O holocausto que o príncipe deve oferecer no dia de sábado consistirá em seis cordeiros e um carneiro, todos perfeitos."
+    },
+    {
+      "number": 5,
+      "text": "Oferecerá também uma oblação de quarenta e cinco litros de farinha por carneiro; uma oblação pelos cordeiros, de acordo com suas possibilidades; e sete litros e meio de óleo a cada quarenta e cinco litros de farinha."
+    },
+    {
+      "number": 6,
+      "text": "No dia da lua nova, as ofertas deverão ser: um novilho perfeito, seis cordeiros e um carneiro, todos perfeitos."
+    },
+    {
+      "number": 7,
+      "text": "Como oblação, oferecerá quarenta e cinco litros de farinha pelo novilho e quarenta e cinco litros pelo carneiro. Quanto aos cordeiros, oferecerá o que for possível. A oblação do óleo será sete litros e meio a cada quarenta e cinco litros."
+    },
+    {
+      "number": 8,
+      "text": "O príncipe deverá entrar pelo vestíbulo do pórtico, e por ele deverá sair."
+    },
+    {
+      "number": 9,
+      "text": "O povo da terra entrará para comparecer na presença de Javé por ocasião das assembleias solenes. Aqueles que entraram pelo pórtico do norte para se prostrarem, sairão pelo pórtico do sul; aqueles que entraram pelo pórtico do sul sairão pelo pórtico do norte. Ninguém sairá pelo mesmo pórtico por onde tiver entrado; deverá sair pelo lado oposto."
+    },
+    {
+      "number": 10,
+      "text": "O príncipe estará no meio deles: entrará com eles, e com eles sairá."
+    },
+    {
+      "number": 11,
+      "text": "Nos dias de festa e nas assembleias solenes, a oblação será de quarenta e cinco litros de farinha por novilho e quarenta e cinco litros por carneiro; a oblação pelos cordeiros será feita na medida do possível. Quanto ao óleo, será sete litros e meio a cada quarenta e cinco litros de farinha."
+    },
+    {
+      "number": 12,
+      "text": "Sempre que o príncipe oferecer a Javé um holocausto voluntário ou um sacrifício de comunhão, será aberta para ele a porta que dá para o oriente, e ele oferecerá aí o seu holocausto e o seu sacrifício de comunhão, conforme costuma fazer no dia de sábado. Em seguida sairá, e o pórtico será fechado."
+    },
+    {
+      "number": 13,
+      "text": "Diariamente, isto é, a cada manhã, oferecerá em holocausto um cordeiro perfeito de um ano."
+    },
+    {
+      "number": 14,
+      "text": "Juntamente com o cordeiro, oferecerá em oblação sete litros e meio de farinha e dois litros e meio de óleo, para umedecer a farinha. Será uma oblação para Javé, de acordo com estatuto perpétuo, estatuto que durará para sempre."
+    },
+    {
+      "number": 15,
+      "text": "O cordeiro, a oblação e o óleo serão oferecidos cada manhã, para sempre."
+    },
+    {
+      "number": 16,
+      "text": "Assim diz o Senhor Javé: Se o príncipe der um presente tirado de sua herança para um dos meus filhos, o presente será propriedade do filho como herança."
+    },
+    {
+      "number": 17,
+      "text": "Mas se o príncipe der um presente a um dos seus servos, o presente pertencerá ao servo até o ano de sua alforria, voltando para o príncipe nessa data. De fato, sua herança pertencerá unicamente a seus filhos."
+    },
+    {
+      "number": 18,
+      "text": "O príncipe não poderá pegar nada da herança do povo, tirando-lhe a posse do que lhe pertence; ele só poderá dar como herança a seus filhos daquilo que é propriedade sua, para que o meu povo não seja desapropriado daquilo que lhe pertence”."
+    },
+    {
+      "number": 19,
+      "text": "Depois o homem levou-me, pela entrada que fica junto ao pórtico, para as câmaras do Lugar Santo que pertencem aos sacerdotes e que dão para o norte. Atrás dessas câmaras havia um lugar que dava para o ocidente."
+    },
+    {
+      "number": 20,
+      "text": "Ele me disse: “Este é o lugar em que os sacerdotes cozinharão as vítimas destinadas ao sacrifício de expiação e ao sacrifício pelo pecado. Aí, eles devem assar a oblação, sem que tenham de levá-la para o pátio externo, expondo o povo à contaminação do sagrado”."
+    },
+    {
+      "number": 21,
+      "text": "Em seguida, o homem levou-me para fora, para o pátio externo, fazendo-me passar pelos quatro cantos do pátio, onde havia outros pátios em cada canto,"
+    },
+    {
+      "number": 22,
+      "text": "isto é, quatro pátios menores nos quatro cantos do pátio principal. Esses pátios eram iguais e tinham vinte metros de comprimento por quinze metros de largura."
+    },
+    {
+      "number": 23,
+      "text": "Eram cercados por um muro de pedra, com fornos construídos ao pé do muro."
+    },
+    {
+      "number": 24,
+      "text": "Ele me explicou: “Esses são os fornos onde os servidores do Templo cozinham os sacrifícios do povo”. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 46,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Ezequiel"
+    },
+    {
+      "number": 47,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 48,
+      "text": "Ler Ezequiel completo"
+    }
+  ]
 }

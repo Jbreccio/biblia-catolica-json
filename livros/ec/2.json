@@ -3,7 +3,124 @@
   "abbrev": "ec",
   "capitulo": 2,
   "total_capitulos": 12,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 29,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Então pensei: “Vamos! Vou fazer você experimentar a alegria e conhecer o prazer!” Mas concluí que também isso é fugaz."
+    },
+    {
+      "number": 2,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Eclesiastes"
+    },
+    {
+      "number": 2,
+      "text": "Do riso, eu disse: “Tolice!” E da alegria: “Para que serve?”"
+    },
+    {
+      "number": 3,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 3,
+      "text": "Então decidi entregar-me à bebida, nessa minha busca da sabedoria, e entregar-me à insensatez, para descobrir o que convém ao homem fazer debaixo do céu, no curto tempo da vida."
+    },
+    {
+      "number": 4,
+      "text": "Realizei grandes obras: construí palácios para mim, plantei vinhas,"
+    },
+    {
+      "number": 5,
+      "text": "fiz jardins e pomares com todo tipo de árvores,"
+    },
+    {
+      "number": 6,
+      "text": "e construí reservatórios de água para regar as árvores do pomar."
+    },
+    {
+      "number": 7,
+      "text": "Comprei escravos e escravas, e tive muitos criados nascidos na minha casa. Possuí muitos rebanhos de vacas e ovelhas, mais do que todos os que reinaram em Jerusalém antes de mim."
+    },
+    {
+      "number": 8,
+      "text": "Acumulei prata e ouro, e tesouros de reis e províncias. Arranjei cantores e cantoras e — delícia dos homens — princesas em grande número."
+    },
+    {
+      "number": 9,
+      "text": "Dessa forma, fiquei maior e mais poderoso do que todos os que reinaram em Jerusalém antes de mim, sempre conservando a minha sabedoria."
+    },
+    {
+      "number": 10,
+      "text": "Não recusei nada do que os meus olhos pediam, e nunca privei o meu coração de nenhum prazer. Sabia desfrutar de todo o meu trabalho, e em todo o meu trabalho foi esta a minha porção."
+    },
+    {
+      "number": 11,
+      "text": "Então examinei todas as obras que havia feito e o trabalho que elas tinham custado para mim. E concluí que tudo é fugaz e uma corrida atrás do vento, e que não há nada de permanente debaixo do sol."
+    },
+    {
+      "number": 12,
+      "text": "Ler Eclesiastes completo"
+    },
+    {
+      "number": 12,
+      "text": "Depois examinei a sabedoria, a tolice e a insensatez, pensando: “O que fará o rei que virá depois de mim?” Fará o que já foi feito."
+    },
+    {
+      "number": 13,
+      "text": "Então percebi que a vantagem da sabedoria sobre a insensatez é a vantagem da luz sobre as trevas."
+    },
+    {
+      "number": 14,
+      "text": "O sábio tem os olhos abertos, e o insensato caminha na escuridão. Mas logo notei que ambos têm o mesmo destino."
+    },
+    {
+      "number": 15,
+      "text": "Então pensei: “Vou ter o mesmo destino que o insensato! Para que me tornei sábio?” E concluí que também isso é fugaz."
+    },
+    {
+      "number": 16,
+      "text": "De fato, a lembrança do sábio desaparece para sempre, como a do insensato. Bem logo tudo ficará esquecido: o sábio morre da mesma forma que o insensato."
+    },
+    {
+      "number": 17,
+      "text": "Fiquei com ódio da vida, porque tudo o que se faz debaixo do sol me desagradou. Tudo é fugaz, uma corrida atrás do vento."
+    },
+    {
+      "number": 18,
+      "text": "Detesto todo o trabalho com que me afadigo debaixo do sol, porque devo deixar tudo para o homem que virá depois de mim."
+    },
+    {
+      "number": 19,
+      "text": "E quem sabe se ele será sábio ou insensato? De qualquer modo, ele será dono de tudo o que eu fiz debaixo do sol com a minha fadiga e sabedoria. Também isso é fugaz."
+    },
+    {
+      "number": 20,
+      "text": "Então fiquei com o coração desesperado por causa de todo o trabalho com que me afadiguei debaixo do sol."
+    },
+    {
+      "number": 21,
+      "text": "De fato, há quem trabalhe com sabedoria, conhecimento e sucesso. E depois tem que deixar seus bens para outro que com nada se afadigou. Também isso é coisa fugaz e grande mal."
+    },
+    {
+      "number": 22,
+      "text": "Então, que proveito resta para o homem de todo o trabalho e esforço mental com que se afadigou debaixo do sol?"
+    },
+    {
+      "number": 23,
+      "text": "Sim, os seus dias todos são dolorosos, a sua tarefa é penosa, e até de noite ele não pode repousar. Também isso é fugaz!"
+    },
+    {
+      "number": 24,
+      "text": "Vejam: a felicidade do homem está em comer e beber, desfrutando o produto do seu trabalho. Contudo, percebo que também isso vem das mãos de Deus."
+    },
+    {
+      "number": 25,
+      "text": "De fato, quem pode comer e beber, sem que isso lhe venha de Deus?"
+    },
+    {
+      "number": 26,
+      "text": "A quem lhe agrada, Deus concede sabedoria, conhecimento e alegria. Mas ao pecador Deus impõe a pena de ajuntar e acumular para quem agrada a Deus. Mas também isso é fugaz e uma corrida atrás do vento. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

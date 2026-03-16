@@ -2,8 +2,129 @@
   "livro": "Daniel",
   "abbrev": "dn",
   "capitulo": 9,
-  "total_capitulos": 12,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_capitulos": 14,
+  "total_versiculos": 30,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "No primeiro ano do reinado de Dario, filho de Xerxes, que era da linhagem dos medos e tinha sido colocado como rei dos caldeus,"
+    },
+    {
+      "number": 2,
+      "text": "no primeiro ano do seu reinado, eu, Daniel, lia atentamente no livro das profecias de Jeremias o número dos anos que Jerusalém devia permanecer em ruínas: eram setenta anos."
+    },
+    {
+      "number": 3,
+      "text": "Voltei o meu olhar para o Senhor Deus, procurando fazer preces e súplicas com jejum, vestido de pano de saco e coberto de cinza."
+    },
+    {
+      "number": 4,
+      "text": "Então, fiz uma oração ao Senhor Deus, confessando e dizendo: “Ah! Senhor, Deus imenso e terrível, cumpridor da aliança e do amor para com os que te amam e observam os teus mandamentos!"
+    },
+    {
+      "number": 5,
+      "text": "Pecamos, praticamos crimes e impiedades, fomos rebeldes e nos desviamos dos teus mandamentos e das tuas sentenças."
+    },
+    {
+      "number": 6,
+      "text": "Não quisemos escutar os profetas, teus servos, que em teu nome falavam aos nossos reis e autoridades, aos nossos pais e a todos os cidadãos."
+    },
+    {
+      "number": 7,
+      "text": "Senhor, do teu lado está a justiça, e para nós fica a vergonha que hoje estamos passando, tanto o cidadão de Judá como o habitante de Jerusalém, e todo o Israel: tanto os que estão perto, quanto os que estão longe, por todos os países por onde tu os espalhaste, por causa dos crimes que praticaram contra ti."
+    },
+    {
+      "number": 8,
+      "text": "Sim, ó Javé, para nós, para nossos reis, nossas autoridades e nossos pais, só fica a vergonha que estamos passando, pois pecamos contra ti."
+    },
+    {
+      "number": 9,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Daniel"
+    },
+    {
+      "number": 9,
+      "text": "Com o Senhor nosso Deus está a misericórdia e o perdão, porque nos revoltamos contra ele."
+    },
+    {
+      "number": 10,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 10,
+      "text": "Não obedecemos a Javé nosso Deus, para andarmos de acordo com as leis que ele nos deu por meio dos profetas, seus servos."
+    },
+    {
+      "number": 11,
+      "text": "Todo o Israel desrespeitou a tua lei e se afastou para não te obedecer. Então caíram sobre nós as maldições e ameaças que estão escritas na lei de Moisés, servo de Deus, pois pecamos contra o Senhor."
+    },
+    {
+      "number": 12,
+      "text": "Ele cumpriu as ameaças que tinha feito contra nós e nossos governantes, mandando sobre Jerusalém uma calamidade como jamais aconteceu debaixo do céu."
+    },
+    {
+      "number": 13,
+      "text": "Toda essa desgraça nos veio tal qual está escrita na lei de Moisés, mas nós não procuramos agradar a Javé nosso Deus, arrependendo-nos de nossos pecados e levando a sério a sua fidelidade."
+    },
+    {
+      "number": 14,
+      "text": "Ler Daniel completo"
+    },
+    {
+      "number": 14,
+      "text": "Javé se encarregou dessa desgraça e fez que ela chegasse até nós, pois Javé nosso Deus nos trata com justiça, porque não lhe obedecemos."
+    },
+    {
+      "number": 15,
+      "text": "Agora, Senhor nosso Deus, tu que tiraste o teu povo da terra do Egito com mão forte, criando para ti essa fama que dura até hoje, nós pecamos e praticamos a impiedade."
+    },
+    {
+      "number": 16,
+      "text": "Senhor, conforme a tua justiça, afasta de Jerusalém, a tua cidade, e do teu santo monte, a ira e a cólera. Por causa dos nossos erros, por causa dos pecados de nossos antepassados, Jerusalém e o teu povo são desprezados pelos povos vizinhos."
+    },
+    {
+      "number": 17,
+      "text": "Agora, Deus nosso, ouve a oração e as súplicas do teu servo e, por causa da tua honra, faze brilhar a tua face sobre o teu Templo destruído."
+    },
+    {
+      "number": 18,
+      "text": "Meu Deus, inclina teu ouvido e escuta-me; abre os olhos e vê a desolação e olha para a cidade sobre a qual foi invocado o teu nome, porque não é confiando em nossa justiça que te pedimos misericórdia, mas sim na tua imensa compaixão."
+    },
+    {
+      "number": 19,
+      "text": "Ouve, Senhor! Perdoa, Senhor! Atende, Senhor! E começa a agir sem demora, por causa da tua honra, meu Deus, pois o teu nome foi invocado sobre esta cidade e sobre o teu povo”."
+    },
+    {
+      "number": 20,
+      "text": "Eu ainda falava, fazendo a minha prece, confessando o meu pecado e do meu povo Israel; eu estava apresentando minha súplica a Javé meu Deus em favor do seu monte santo;"
+    },
+    {
+      "number": 21,
+      "text": "eu ainda estava fazendo a minha súplica, quando Gabriel, o homem que eu tinha visto no começo da visão, veio voando rápido para perto de mim. Era a hora em que se faz a oferta da tarde."
+    },
+    {
+      "number": 22,
+      "text": "Ele chegou e falou comigo: “Daniel, eu vim dar-lhe uma explicação."
+    },
+    {
+      "number": 23,
+      "text": "Quando você começou a sua súplica, foi pronunciada uma sentença e eu vim lhe contar, porque você é querido. Preste atenção na mensagem e compreenda a visão:"
+    },
+    {
+      "number": 24,
+      "text": "setenta semanas foram determinadas para o seu povo e sua cidade santa, para fazer cessar a transgressão, selar o pecado, expiar o crime, para trazer uma justiça perene, até se realizarem a visão e a profecia e ser ungido o lugar santíssimo."
+    },
+    {
+      "number": 25,
+      "text": "Fique sabendo: desde que foi decretada a volta e a reconstrução de Jerusalém, até o príncipe ungido, sete semanas se passarão. Em sessenta e duas semanas, praças e muralhas serão reconstruídas, mas em tempos difíceis."
+    },
+    {
+      "number": 26,
+      "text": "Depois das sessenta e duas semanas, o ungido inocente será eliminado, e a cidade e o Templo serão destruídos por um príncipe que virá. Seu fim será no cataclismo e, até o fim, estão decretadas guerra e destruição."
+    },
+    {
+      "number": 27,
+      "text": "Com muitos ele fará uma aliança que durará uma semana e, durante meia semana, fará cessar ofertas e sacrifícios. Colocará sobre a nave do Templo o ídolo abominável, até que chegue para o destruidor o fim decretado”. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

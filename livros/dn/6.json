@@ -2,8 +2,137 @@
   "livro": "Daniel",
   "abbrev": "dn",
   "capitulo": 6,
-  "total_capitulos": 12,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_capitulos": 14,
+  "total_versiculos": 32,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "E Dario, o medo, lhe sucedeu no trono, com a idade de sessenta e dois anos."
+    },
+    {
+      "number": 2,
+      "text": "Dario decidiu nomear, em todo o reino, cento e vinte sátrapas com autoridade."
+    },
+    {
+      "number": 3,
+      "text": "Acima deles havia três ministros, aos quais os governadores deviam prestar contas, para que o rei não fosse fraudado. Um dos três era Daniel."
+    },
+    {
+      "number": 4,
+      "text": "Contudo, Daniel estava tão acima dos outros ministros e governadores por causa do seu talento extraordinário, que o rei decidiu dar-lhe autoridade sobre todo o império."
+    },
+    {
+      "number": 5,
+      "text": "Então os ministros e governadores procuraram uma oportunidade para pegar Daniel em algum deslize nas coisas de interesse do império. Mas nada conseguiram encontrar de errado, pois ele era muito honesto, e nada conseguiram achar de incorreto."
+    },
+    {
+      "number": 6,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Daniel"
+    },
+    {
+      "number": 6,
+      "text": "Reconheceram, então: “Não encontraremos coisa alguma em que pegar Daniel, a não ser em assunto da sua religião”."
+    },
+    {
+      "number": 7,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 7,
+      "text": "Então os ministros e governadores foram correndo dizer ao rei: “Viva o rei Dario para sempre!"
+    },
+    {
+      "number": 8,
+      "text": "Todos os ministros, prefeitos, governadores, autoridades das províncias e conselheiros estão de acordo que Vossa Majestade determine e faça um decreto, segundo o qual toda pessoa que, no prazo de trinta dias, fizer alguma prece a outro deus ou homem que não seja Vossa Majestade, tal pessoa seja jogada na cova dos leões."
+    },
+    {
+      "number": 9,
+      "text": "Majestade, sancione essa lei, assinando este documento, para que ela não possa mais ser alterada ou revogada, de acordo com a legislação dos medos e dos persas”."
+    },
+    {
+      "number": 10,
+      "text": "E o rei Dario assinou o documento, sancionando a lei."
+    },
+    {
+      "number": 11,
+      "text": "Ao saber que o rei tinha assinado o documento, Daniel foi para casa. No andar de cima havia uma janela que dava para o lado de Jerusalém. Três vezes por dia ele se ajoelhava ali para rezar e louvar o seu Deus, e assim fazia sempre."
+    },
+    {
+      "number": 12,
+      "text": "Aqueles homens correram até lá e pegaram Daniel rezando e fazendo preces ao seu Deus."
+    },
+    {
+      "number": 13,
+      "text": "Depois foram dizer ao rei: “Vossa Majestade não assinou um decreto, segundo o qual toda pessoa que, no prazo de trinta dias, fizer alguma prece a outro deus ou homem que não seja Vossa Majestade, tal pessoa será jogada na cova dos leões?” O rei respondeu: “A decisão é definitiva e não pode ser revogada, em conformidade com a legislação dos medos e dos persas”."
+    },
+    {
+      "number": 14,
+      "text": "Ler Daniel completo"
+    },
+    {
+      "number": 14,
+      "text": "Eles disseram ao rei: “Daniel, um dos exilados da Judeia, não deu importância ao decreto de Vossa Majestade, à lei que Vossa Majestade assinou, e continua fazendo suas orações três vezes ao dia”."
+    },
+    {
+      "number": 15,
+      "text": "Ao ouvir essa notícia, o rei sentiu-se mal e ficou preocupado com Daniel, querendo salvá-lo. Até o pôr do sol, ficou tentando livrá-lo."
+    },
+    {
+      "number": 16,
+      "text": "Aqueles homens foram procurar o rei e disseram: “Vossa Majestade sabe que é lei entre os medos e persas que um decreto sancionado pelo rei não pode ser modificado”."
+    },
+    {
+      "number": 17,
+      "text": "Então o rei mandou trazer Daniel e jogá-lo na cova dos leões. E o rei disse a Daniel: “O seu Deus, a quem você adora, vai livrá-lo”."
+    },
+    {
+      "number": 18,
+      "text": "Levaram uma pedra para tampar a entrada da cova. Em seguida, o rei lacrou a pedra com a sua marca e a marca dos seus secretários, para que ninguém pudesse alterar nada em favor de Daniel."
+    },
+    {
+      "number": 19,
+      "text": "O rei voltou para o seu palácio e ficou em jejum aquela noite; não lhe levaram as mulheres e ele perdeu o sono."
+    },
+    {
+      "number": 20,
+      "text": "No dia seguinte, ele se levantou bem cedo e foi depressa à cova dos leões."
+    },
+    {
+      "number": 21,
+      "text": "Ao chegar à cova onde estava Daniel, o rei, aflito, gritou: “Daniel, servo do Deus vivo, o seu Deus, a quem você sempre adora, foi capaz de livrá-lo dos leões?”"
+    },
+    {
+      "number": 22,
+      "text": "Daniel disse ao rei: “Viva o rei para sempre!"
+    },
+    {
+      "number": 23,
+      "text": "O meu Deus mandou o seu anjo para fechar a boca dos leões, e eles não me incomodaram, pois fui considerado inocente diante dele, como também nada fiz de errado contra Vossa Majestade”."
+    },
+    {
+      "number": 24,
+      "text": "O rei ficou contentíssimo e mandou que tirassem Daniel da cova. Quando o tiraram, não encontraram nele nenhum arranhão, pois ele confiou no seu Deus."
+    },
+    {
+      "number": 25,
+      "text": "Então o rei mandou trazer aqueles homens que tinham caluniado Daniel e mandou jogá-los na cova dos leões junto com os filhos e mulheres deles. Antes que chegassem ao fundo, os leões já os tinham agarrado e despedaçado."
+    },
+    {
+      "number": 26,
+      "text": "Então o rei Dario escreveu a todos os povos, nações e línguas da terra: “Paz e prosperidade!"
+    },
+    {
+      "number": 27,
+      "text": "Estou promulgando o seguinte decreto: Por toda parte onde chega o poder da minha autoridade de rei, todos estão obrigados a temer e respeitar o Deus de Daniel, pois ele é o Deus vivo, que permanece para sempre; seu reino nunca será destruído e seu domínio não conhecerá fim."
+    },
+    {
+      "number": 28,
+      "text": "Ele salva e liberta, faz sinais e prodígios no céu e na terra. Ele salvou Daniel das garras dos leões”."
+    },
+    {
+      "number": 29,
+      "text": "Daniel teve muito sucesso, tanto no reinado de Dario, quanto no de Ciro, rei dos persas. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

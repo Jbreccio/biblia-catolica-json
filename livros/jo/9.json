@@ -3,7 +3,160 @@
   "abbrev": "jo",
   "capitulo": 9,
   "total_capitulos": 42,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 38,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Então Jó respondeu:"
+    },
+    {
+      "number": 2,
+      "text": "“Eu sei muito bem que é assim. Como pode um homem ter razão diante de Deus?"
+    },
+    {
+      "number": 3,
+      "text": "Se alguém quisesse disputar com Deus, este não lhe responderia uma só vez entre mil."
+    },
+    {
+      "number": 4,
+      "text": "Qual o sábio ou forte que se opôs a ele e saiu ileso?"
+    },
+    {
+      "number": 5,
+      "text": "Ele desloca as montanhas sem que elas percebam e, na sua ira, as arranca do lugar."
+    },
+    {
+      "number": 6,
+      "text": "Ele abala os alicerces da terra, e as colunas dela estremecem."
+    },
+    {
+      "number": 7,
+      "text": "Ele manda que o sol não se levante, e esconde as estrelas."
+    },
+    {
+      "number": 8,
+      "text": "Ele sozinho estende o céu, e caminha sobre as ondas do mar."
+    },
+    {
+      "number": 9,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Jó"
+    },
+    {
+      "number": 9,
+      "text": "Ele criou a Ursa e o Órion, as Plêiades e constelações do Sul."
+    },
+    {
+      "number": 10,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 10,
+      "text": "Ele faz prodígios insondáveis e maravilhas sem conta."
+    },
+    {
+      "number": 11,
+      "text": "Ele passa junto a mim, e eu não o vejo. Roça em mim, e eu nem sinto."
+    },
+    {
+      "number": 12,
+      "text": "Se apanha uma presa, quem a tirará dele? Quem poderá dizer-lhe: ‘O que estás fazendo?’"
+    },
+    {
+      "number": 13,
+      "text": "Deus não reprime a sua própria ira, e debaixo dele se curvam as legiões de Raab."
+    },
+    {
+      "number": 14,
+      "text": "Muito menos eu lhe poderei responder, ou escolher argumentos contra ele."
+    },
+    {
+      "number": 15,
+      "text": "Mesmo que eu tivesse razão, não receberia resposta, e teria que implorar misericórdia ao meu juiz."
+    },
+    {
+      "number": 16,
+      "text": "Mesmo que eu o convocasse e ele me respondesse, não creio que me daria atenção."
+    },
+    {
+      "number": 17,
+      "text": "Pelo contrário: ele me esmagaria no furacão, e sem motivo multiplicaria as minhas feridas;"
+    },
+    {
+      "number": 18,
+      "text": "não me deixaria nem ao menos tomar fôlego, e me encheria de amargura."
+    },
+    {
+      "number": 19,
+      "text": "Recorrer à força? Ele é o mais forte! Recorrer ao tribunal? Quem o convocará?"
+    },
+    {
+      "number": 20,
+      "text": "Mesmo que eu fosse inocente, sua boca me condenaria; mesmo que eu fosse inocente, ele me declararia culpado."
+    },
+    {
+      "number": 21,
+      "text": "Será que sou inocente? Já nem sei mais! Desprezo a vida."
+    },
+    {
+      "number": 22,
+      "text": "Garanto a vocês que tudo é a mesma coisa: ele extermina tanto o inocente como o injusto."
+    },
+    {
+      "number": 23,
+      "text": "Se uma catástrofe semeia morte repentina, ele zomba da desgraça do inocente."
+    },
+    {
+      "number": 24,
+      "text": "Ele entrega o país na mão do injusto e fecha os olhos de seus juízes: se não for ele, quem é que faz isso?"
+    },
+    {
+      "number": 25,
+      "text": "Meus dias correm mais depressa que um atleta, e fogem sem ter provado a felicidade;"
+    },
+    {
+      "number": 26,
+      "text": "deslizam como barcas de papiro, como águia que cai em cima da presa."
+    },
+    {
+      "number": 27,
+      "text": "Se penso: ‘Vou esquecer o meu sofrimento e ficar de rosto alegre’,"
+    },
+    {
+      "number": 28,
+      "text": "fico com medo de todo tipo de desgraça, pois eu sei que ele não me absolverá."
+    },
+    {
+      "number": 29,
+      "text": "E se por acaso sou culpado, por que me cansar à toa?"
+    },
+    {
+      "number": 30,
+      "text": "Ainda que eu me esfregasse com sabão, e lavasse minhas mãos com soda,"
+    },
+    {
+      "number": 31,
+      "text": "tu me atirarias na lama, e minhas roupas teriam nojo de mim."
+    },
+    {
+      "number": 32,
+      "text": "É que Deus não é um homem como eu, para que eu possa dizer-lhe: ‘Vamos comparecer juntos no tribunal’."
+    },
+    {
+      "number": 33,
+      "text": "Se houvesse entre nós um árbitro, que pusesse as mãos sobre nós dois!"
+    },
+    {
+      "number": 34,
+      "text": "Ele afastaria de mim a vara de Deus, para que eu não enlouquecesse com seu terror."
+    },
+    {
+      "number": 35,
+      "text": "Então eu poderia falar sem medo; do contrário, não sou dono de mim mesmo. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 42,
+      "text": "Ler Jo completo"
+    }
+  ]
 }

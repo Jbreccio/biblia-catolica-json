@@ -3,7 +3,152 @@
   "abbrev": "pv",
   "capitulo": 1,
   "total_capitulos": 31,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 36,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Provérbios"
+    },
+    {
+      "number": 1,
+      "text": "Provérbios de Salomão, filho de Davi e rei de Israel,"
+    },
+    {
+      "number": 2,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 2,
+      "text": "para conhecer a sabedoria e a disciplina; para entender as sentenças profundas;"
+    },
+    {
+      "number": 3,
+      "text": "para adquirir disciplina e sensatez, justiça, direito e retidão;"
+    },
+    {
+      "number": 4,
+      "text": "para ensinar sagacidade aos ingênuos, conhecimento e reflexão aos jovens."
+    },
+    {
+      "number": 5,
+      "text": "Que o sábio escute e assim aumentará o seu saber, e o homem prudente adquirirá habilidade"
+    },
+    {
+      "number": 6,
+      "text": "para entender provérbios e metáforas, as sentenças dos sábios e seus enigmas."
+    },
+    {
+      "number": 7,
+      "text": "O temor de Javé é o princípio do saber, porém os idiotas desprezam a sabedoria e a disciplina."
+    },
+    {
+      "number": 8,
+      "text": "Meu filho, escute a disciplina de seu pai, e não despreze o ensinamento de sua mãe,"
+    },
+    {
+      "number": 9,
+      "text": "porque serão para você uma coroa formosa na cabeça e um colar no pescoço."
+    },
+    {
+      "number": 10,
+      "text": "Meu filho, se os pecadores quiserem enganar você, não se deixe arrastar."
+    },
+    {
+      "number": 11,
+      "text": "Eles costumam dizer: “Venha conosco, vamos fazer emboscadas para matar, vamos cercar impunemente o inocente;"
+    },
+    {
+      "number": 12,
+      "text": "nós os engoliremos vivos como faz a morte, inteiros, como aqueles que baixam à cova."
+    },
+    {
+      "number": 13,
+      "text": "Conseguiremos todo tipo de riquezas e encheremos nossa casa com as coisas roubadas."
+    },
+    {
+      "number": 14,
+      "text": "Participe do nosso grupo e faremos uma caixa comum”."
+    },
+    {
+      "number": 15,
+      "text": "Meu filho, não ande com gente desse tipo, nem ponha os pés no caminho deles,"
+    },
+    {
+      "number": 16,
+      "text": "porque os pés deles correm para o mal, e eles se apressam para derramar sangue."
+    },
+    {
+      "number": 17,
+      "text": "Não adianta armar o alçapão, quando o passarinho está olhando."
+    },
+    {
+      "number": 18,
+      "text": "No fundo, suas armadilhas serão mortais para eles próprios que estão atentando contra si mesmos."
+    },
+    {
+      "number": 19,
+      "text": "Tal é o destino do ganancioso: a cobiça acaba com o cobiçoso."
+    },
+    {
+      "number": 20,
+      "text": "A Sabedoria grita pelas ruas e levanta a voz nas praças."
+    },
+    {
+      "number": 21,
+      "text": "Ela grita no burburinho da cidade e anuncia nas praças públicas:"
+    },
+    {
+      "number": 22,
+      "text": "“Até quando, ó ingênuos, vocês vão amar a ingenuidade? E vocês, zombadores, até quando se empenharão na zombaria? E vocês, insensatos, até quando odiarão o conhecimento?"
+    },
+    {
+      "number": 23,
+      "text": "Voltem-se para ouvir o meu aviso: eu vou derramar meu espírito sobre vocês, e lhes comunicarei as minhas palavras."
+    },
+    {
+      "number": 24,
+      "text": "Contudo, eu chamei, e vocês recusaram; estendi a mão, e ninguém deu atenção."
+    },
+    {
+      "number": 25,
+      "text": "Vocês recusaram os meus conselhos e não aceitaram o meu aviso."
+    },
+    {
+      "number": 26,
+      "text": "Por isso, eu também vou rir da desgraça de vocês. Vou zombar, quando o terror os assaltar."
+    },
+    {
+      "number": 27,
+      "text": "Quando o terror cair sobre vocês como tempestade, a desgraça chegar como furacão, e a angústia e aflição os alcançar,"
+    },
+    {
+      "number": 28,
+      "text": "então vocês vão me chamar, mas eu não responderei. Vocês vão me procurar, mas não me encontrarão."
+    },
+    {
+      "number": 29,
+      "text": "Vocês recusaram o conhecimento e não escolheram o temor de Javé."
+    },
+    {
+      "number": 30,
+      "text": "Não aceitaram o meu conselho e desprezaram o meu aviso."
+    },
+    {
+      "number": 31,
+      "text": "Ler Proverbios completo"
+    },
+    {
+      "number": 31,
+      "text": "Pois bem! Vocês comerão o fruto do seu comportamento e ficarão fartos de seus próprios conselhos."
+    },
+    {
+      "number": 32,
+      "text": "Sim, a revolta dos ingênuos acabará levando-os à morte, e a despreocupação acabará com os insensatos."
+    },
+    {
+      "number": 33,
+      "text": "Todavia, quem me obedece viverá tranquilo. Estará seguro e não temerá nenhum mal”. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

@@ -3,7 +3,164 @@
   "abbrev": "ed",
   "capitulo": 8,
   "total_capitulos": 10,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 39,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Lista dos chefes de família — cada qual com a sua genealogia — que vol­taram comigo da Babilônia durante o rei­nado de Artaxerxes:"
+    },
+    {
+      "number": 2,
+      "text": "Descendente de Fi­neias: Gersam. Descendente de Itamar: Daniel. Descendente de Davi: Hatus,"
+    },
+    {
+      "number": 3,
+      "text": "filho de Sequenias. Descendente de Faros: Zacarias (com quem estavam registrados cento e cinquenta homens)."
+    },
+    {
+      "number": 4,
+      "text": "Descendente de Faat-Moab: Elioenai, filho de Zaraías, e mais duzentos homens."
+    },
+    {
+      "number": 5,
+      "text": "Descendente de Zetua: Sequenias, filho de Jaaziel, e mais trezentos homens."
+    },
+    {
+      "number": 6,
+      "text": "Descendente de Adin: Abed, filho de Jônatas, e mais cinquenta homens."
+    },
+    {
+      "number": 7,
+      "text": "Descendente de Elam: Isaías, filho de Atalia, e mais setenta homens."
+    },
+    {
+      "number": 8,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Esdras"
+    },
+    {
+      "number": 8,
+      "text": "Descendente de Safatias: Zebedias, fi­lho de Miguel, e mais oitenta homens."
+    },
+    {
+      "number": 9,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 9,
+      "text": "Descendente de Joab: Abdias, filho de Jaiel, e mais duzentos e dezoito homens."
+    },
+    {
+      "number": 10,
+      "text": "Ler Esdras completo"
+    },
+    {
+      "number": 10,
+      "text": "Descendente de Bani: Salomit, filho de Josfias, mais cento e sessenta homens."
+    },
+    {
+      "number": 11,
+      "text": "Descendente de Bebai: Zacarias, filho de Bebai, e mais vinte e oito homens."
+    },
+    {
+      "number": 12,
+      "text": "Descendente de Azgad: Joanã, filho de Ectã, e mais cento e dez homens."
+    },
+    {
+      "number": 13,
+      "text": "Descendentes de Adonicam: os mais novos, cujos nomes são: Elifalet, Jeiel e Semeías, e mais sessenta homens."
+    },
+    {
+      "number": 14,
+      "text": "Descendente de Beguai: Utai, filho de Zabud, e mais setenta homens."
+    },
+    {
+      "number": 15,
+      "text": "Reuni todo esse pessoal à margem do rio que desce para Aava e aí acampamos por três dias. Consegui descobrir gente do povo e sacerdotes, mas não encontrei nenhum levita."
+    },
+    {
+      "number": 16,
+      "text": "Então mandei procurar Eliezer, Ariel, Semeías, Elnatã, Jarib, El­natã, Natã, Za­carias e Mosolam, homens sábios,"
+    },
+    {
+      "number": 17,
+      "text": "e os mandei para Ado, que era chefe do lugar chamado Casfia, dando-lhes um recado que iriam transmitir a Ado e seus irmãos, residentes em Casfia: pedi que nos mandassem ministros para o Templo do nosso Deus."
+    },
+    {
+      "number": 18,
+      "text": "Dado que a mão bondosa de Javé estava conosco, eles nos mandaram Serebias, homem equilibrado, filho de Mooli e descendente de Levi, filho de Israel. Ele com seus filhos e irmãos somavam o total de dezoito homens."
+    },
+    {
+      "number": 19,
+      "text": "Mandaram também Hasabias e Isaías, da família de Merari. Os dois irmãos com seus filhos somavam vinte homens."
+    },
+    {
+      "number": 20,
+      "text": "Mandaram ainda duzentos e vinte doados, daqueles que Davi e os chefes tinham colocado a serviço dos levitas. Todos foram registrados nominalmente."
+    },
+    {
+      "number": 21,
+      "text": "Junto ao rio Aava, proclamei um jejum como penitência diante do nosso Deus, a quem pedimos uma boa viagem para nós, para nossas crianças e todos os nossos bens."
+    },
+    {
+      "number": 22,
+      "text": "Ficamos com vergonha de pedir ao rei uma escolta e cavalaria pa­ra nos proteger de inimigos, durante a viagem. Ao contrário, tínhamos declarado ao rei: “Nosso Deus protege aqueles que o servem, mas o poder e a ira dele recaem sobre todos aqueles que o abandonam”."
+    },
+    {
+      "number": 23,
+      "text": "Então jejuamos e suplicamos ao nosso Deus nessa intenção. E ele nos ouviu."
+    },
+    {
+      "number": 24,
+      "text": "Escolhi doze chefes dos sacerdotes, que eram Serebias e Hasabias, com mais dez de seus irmãos."
+    },
+    {
+      "number": 25,
+      "text": "Pesei diante deles a prata, o ouro e os objetos preciosos que o rei, seus conselheiros, príncipes e todos os israelitas, que lá estavam, tinham oferecido para o Templo do nosso Deus."
+    },
+    {
+      "number": 26,
+      "text": "Pesei e entreguei a eles vinte e dois mil quilos de prata, cem objetos de prata pesando sessenta e oito quilos, três mil e quatrocentos quilos de ouro,"
+    },
+    {
+      "number": 27,
+      "text": "vinte taças de ouro valen­do mil dáricos, e dois vasos de bronze fino dourado, preciosos como se fossem de ou­ro."
+    },
+    {
+      "number": 28,
+      "text": "Depois eu disse a eles: “Vocês são consagrados a Javé. Também os objetos são sagrados. Esta prata e este ouro foram entregues a Javé, o Deus dos antepassados de vocês."
+    },
+    {
+      "number": 29,
+      "text": "Tenham, portanto, muito cuidado e guardem bem todas essas coisas, até poderem pesá-las diante dos chefes dos sacerdotes, dos levitas e dos chefes de fa­mílias de Israel, em Jerusalém, nas salas do Templo de Javé”."
+    },
+    {
+      "number": 30,
+      "text": "Os sacerdotes e levitas assumiram a responsabilidade pela prata, pelo ouro e pelos objetos que lhes foram entregues para serem levados ao Templo do nosso Deus em Jerusalém."
+    },
+    {
+      "number": 31,
+      "text": "No dia doze do primeiro mês, deixamos o rio Aava e partimos para Jerusalém. Nosso Deus nos protegeu durante a viagem e nos livrou de inimigos e assaltantes."
+    },
+    {
+      "number": 32,
+      "text": "Tendo chegado a Jerusalém, descansamos três dias."
+    },
+    {
+      "number": 33,
+      "text": "No quarto dia, a prata, o ouro e os objetos foram pesados no Templo do nosso Deus e entregues ao sacerdote Meremot, filho de Urias, ajudado por Eleazar, filho de Fineias, e pelos levitas Jozabad, filho de Josué, e Noadaías, filho de Benui."
+    },
+    {
+      "number": 34,
+      "text": "A quantidade e o peso estavam certos, e o peso total foi registrado."
+    },
+    {
+      "number": 35,
+      "text": "Os exilados, que tinham voltado do cativeiro, ofereceram holocaustos ao Deus de Israel: doze bezerros por todo o Israel, noventa e seis carneiros, setenta e dois cor­deiros, e doze bodes como sacrifício pelo pecado. Tudo foi queimado sobre o altar em honra de Javé."
+    },
+    {
+      "number": 36,
+      "text": "Mais tarde, entregaram os decretos do rei aos sátrapas e governadores da região do lado ocidental do rio Eufrates. Eles então passaram a dar apoio ao povo e ao Templo de Deus. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

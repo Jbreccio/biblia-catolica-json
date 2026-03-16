@@ -3,7 +3,376 @@
   "abbrev": "nm",
   "capitulo": 7,
   "total_capitulos": 36,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 92,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Quando terminou de construir o san­tuário, Moisés o ungiu e consagrou com todos os utensílios, junto com o altar e todos os utensílios. Quando acabou de ungir e consagrar todas as coisas,"
+    },
+    {
+      "number": 2,
+      "text": "os chefes de Israel fizeram uma oferta. Eram os chefes de famílias e tribos, que tinham colaborado no recenseamento."
+    },
+    {
+      "number": 3,
+      "text": "Levaram sua oferta diante de Javé: seis carros cobertos e doze bois, um carro para cada dois chefes e um boi para cada um deles. E apresentaram essas ofertas diante do santuário."
+    },
+    {
+      "number": 4,
+      "text": "Javé falou a Moisés:"
+    },
+    {
+      "number": 5,
+      "text": "“Receba as ofertas deles para o serviço da tenda da reunião e as entregue aos levitas, a cada um conforme sua função”."
+    },
+    {
+      "number": 6,
+      "text": "Moisés recebeu os carros e bois e os en­tregou aos levitas."
+    },
+    {
+      "number": 7,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Números"
+    },
+    {
+      "number": 7,
+      "text": "Deu dois carros e quatro bois aos filhos de Gérson para suas tarefas."
+    },
+    {
+      "number": 8,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 8,
+      "text": "Aos filhos de Merari deu quatro carros e oito bois para as tarefas que de­viam realizar sob a direção de Itamar, filho do sacerdote Aarão."
+    },
+    {
+      "number": 9,
+      "text": "Aos filhos de Caat, porém, não deu nada, pois eles deviam carregar no ombro os objetos sagrados."
+    },
+    {
+      "number": 10,
+      "text": "Os chefes apresentaram a oferta para a dedicação do altar, quando foi ungido, levando-a diante do altar."
+    },
+    {
+      "number": 11,
+      "text": "Então Javé disse a Moisés: “Cada dia, um chefe trará a sua oferta para a dedicação do altar”."
+    },
+    {
+      "number": 12,
+      "text": "No primeiro dia, Naasson, filho de Ami­nadab, da tribo de Judá, levou a sua oferta:"
+    },
+    {
+      "number": 13,
+      "text": "uma bandeja de prata de mil e trezentos gramas, uma bacia de prata para aspersão de setecentos gramas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 14,
+      "text": "Levou também uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 15,
+      "text": "um bezerro, um carneiro, um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 16,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 17,
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Naasson, filho de Aminadab."
+    },
+    {
+      "number": 18,
+      "text": "No segundo dia, Natanael, filho de Suar, chefe de Issacar, levou a sua oferta:"
+    },
+    {
+      "number": 19,
+      "text": "uma bandeja de prata de mil e trezentos gramas, uma bacia de prata para aspersão de setecentos gramas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 20,
+      "text": "Levou também uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 21,
+      "text": "um bezerro, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 22,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 23,
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Natanael, filho de Suar."
+    },
+    {
+      "number": 24,
+      "text": "No terceiro dia, Eliab, filho de Helon, chefe dos filhos de Zabulon, levou a sua oferta:"
+    },
+    {
+      "number": 25,
+      "text": "uma bandeja de prata de mil e trezentos gramas, uma bacia de prata para aspersão de setecentos gramas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 26,
+      "text": "Levou também uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 27,
+      "text": "um bezerro, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 28,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 29,
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Eliab, filho de Helon."
+    },
+    {
+      "number": 30,
+      "text": "No quarto dia, Elisur, filho de Sedeur, chefe dos filhos de Rúben, levou a sua oferta:"
+    },
+    {
+      "number": 31,
+      "text": "uma bandeja de prata de mil e trezentos gramas, uma bacia de prata para aspersão de setecentos gramas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 32,
+      "text": "Levou também uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 33,
+      "text": "um bezerro, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 34,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 35,
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Elisur, filho de Sedeur."
+    },
+    {
+      "number": 36,
+      "text": "Ler Numeros completo"
+    },
+    {
+      "number": 36,
+      "text": "No quinto dia, Salamiel, filho de Su­risadai, chefe dos filhos de Simeão, levou a sua oferta:"
+    },
+    {
+      "number": 37,
+      "text": "uma bandeja de prata de mil e trezentos gramas, uma bacia de prata para aspersão de setecentos gramas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 38,
+      "text": "Levou também uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 39,
+      "text": "um bezerro, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 40,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 41,
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Salamiel, filho de Surisadai."
+    },
+    {
+      "number": 42,
+      "text": "No sexto dia, Eliasaf, filho de Reuel, chefe dos filhos de Gad, levou a sua oferta:"
+    },
+    {
+      "number": 43,
+      "text": "uma bandeja de prata de mil e trezentos gramas, uma bacia de prata para aspersão de setecentos gramas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 44,
+      "text": "Levou também uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 45,
+      "text": "um bezerro, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 46,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 47,
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Eliasaf, filho de Reuel."
+    },
+    {
+      "number": 48,
+      "text": "No sétimo dia, Elisama, filho de Amiud, chefe dos filhos de Efraim, levou a sua oferta:"
+    },
+    {
+      "number": 49,
+      "text": "uma bandeja de prata de mil e trezentos gramas; uma bacia de prata para aspersão de setecentos gramas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 50,
+      "text": "Levou também uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 51,
+      "text": "um bezerro, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 52,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 53,
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Elisama, filho de Efraim."
+    },
+    {
+      "number": 54,
+      "text": "No oitavo dia, Gamaliel, filho de Fa­das­sur, chefe dos filhos de Manassés, levou a sua oferta:"
+    },
+    {
+      "number": 55,
+      "text": "uma bandeja de prata de mil e trezentos gramas, uma bacia de prata para aspersão de setecentos gra­­mas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 56,
+      "text": "Levou tam­bém uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 57,
+      "text": "um bezerro, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 58,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 59,
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Gamaliel, filho de Fadassur."
+    },
+    {
+      "number": 60,
+      "text": "No nono dia, Abidã, filho de Gedeão, chefe dos filhos de Benjamim, levou a sua oferta:"
+    },
+    {
+      "number": 61,
+      "text": "uma bandeja de prata de mil e trezentos gramas, uma bacia de prata para aspersão de setecentos gramas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 62,
+      "text": "Levou também uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 63,
+      "text": "um bezerro, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 64,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 65,
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Abidã, fi­lho de Gedeão."
+    },
+    {
+      "number": 66,
+      "text": "No décimo dia, Aiezer, filho de Amisa­dai, chefe dos filhos de Dã, levou a sua oferta:"
+    },
+    {
+      "number": 67,
+      "text": "uma bandeja de prata de mil e trezentos gramas, uma bacia de prata para aspersão de setecentos gramas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 68,
+      "text": "Levou também uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 69,
+      "text": "um bezerro, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 70,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 71,
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Aiezer, filho de Amisadai."
+    },
+    {
+      "number": 72,
+      "text": "No décimo primeiro dia, Fegiel, filho de Ocrã, chefe dos filhos de Aser, levou a sua oferta:"
+    },
+    {
+      "number": 73,
+      "text": "uma bandeja de prata de mil e trezentos gramas, uma bacia de prata para aspersão de setecentos gramas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 74,
+      "text": "Levou também uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 75,
+      "text": "um bezerro, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 76,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 77,
+      "text": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Fegiel, filho de Ocrã."
+    },
+    {
+      "number": 78,
+      "text": "No décimo segundo dia, Aíra, filho de Enã, chefe dos filhos de Neftali, levou a sua oferta:"
+    },
+    {
+      "number": 79,
+      "text": "uma bandeja de prata de mil e trezentos gramas, uma bacia de prata para aspersão de setecentos gramas, conforme o peso padrão do santuário, ambas cheias de flor de farinha amassada com azeite para a oferta."
+    },
+    {
+      "number": 80,
+      "text": "Levou também uma vasilha de ouro, de cem gramas, cheia de incenso;"
+    },
+    {
+      "number": 81,
+      "text": "um bezerro, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "number": 82,
+      "text": "um bode para o sacrifício pelo pecado;"
+    },
+    {
+      "number": 83,
+      "text": "e, para o sa­crifício de comunhão, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano. Essa foi a oferta de Aíra, filho de Enã."
+    },
+    {
+      "number": 84,
+      "text": "Esta foi a oferta dos chefes de Israel para a dedicação do altar, no dia em que foi ungido: doze bandejas de prata, doze bacias de prata para aspersão, doze vasilhas de ouro."
+    },
+    {
+      "number": 85,
+      "text": "Cada bandeja de prata pesava mil e trezentos gramas, e cada bacia de aspersão setecentos gramas, sendo que o total foi de vinte e quatro mil gramas de prata, conforme o peso padrão do santuário."
+    },
+    {
+      "number": 86,
+      "text": "Doze vasilhas de ouro de cem gramas cada uma, conforme o peso padrão do santuário, cheias de incenso, dando um total de mil e duzentos gramas de ouro."
+    },
+    {
+      "number": 87,
+      "text": "O total dos animais para o holocausto foi de doze bezerros, doze carneiros e doze cordeiros de um ano, com as ofertas que os acompanhavam, e doze bodes para o sacrifício pelo pecado."
+    },
+    {
+      "number": 88,
+      "text": "Para o sacrifício de comunhão, o total dos animais foi de vinte e quatro bois, sessenta carneiros, sessenta bodes e sessenta cordeiros de um ano. Essa foi a oferta para a dedicação do altar, quando foi ungido."
+    },
+    {
+      "number": 89,
+      "text": "Quando Moisés entrou na tenda da reunião para falar com Deus, ouviu a voz que lhe falava da placa de ouro que cobre a arca da aliança, entre os dois querubins. E Deus falava com Moisés. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

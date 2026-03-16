@@ -3,7 +3,160 @@
   "abbrev": "pv",
   "capitulo": 14,
   "total_capitulos": 31,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 38,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "A mulher sábia constrói o seu lar; a insensata o destrói com as próprias mãos."
+    },
+    {
+      "number": 2,
+      "text": "Quem se comporta corretamente teme a Javé; quem perverte a própria conduta o despreza."
+    },
+    {
+      "number": 3,
+      "text": "Da boca do tolo brota a soberba; mas a boca dos sábios os protege."
+    },
+    {
+      "number": 4,
+      "text": "Onde não há bois falta cereal, mas a força do touro traz grande colheita."
+    },
+    {
+      "number": 5,
+      "text": "A testemunha verdadeira não mente; a testemunha falsa respira mentiras."
+    },
+    {
+      "number": 6,
+      "text": "O zombador busca a sabedoria e não a encontra, mas o conhecimento é fácil para o inteligente."
+    },
+    {
+      "number": 7,
+      "text": "Deixe a companhia do homem insensato, porque junto dele você não achará conhecimento."
+    },
+    {
+      "number": 8,
+      "text": "A sabedoria do homem sagaz é discernir seu próprio caminho, mas a estupidez do insensato é loucura."
+    },
+    {
+      "number": 9,
+      "text": "Os insensatos zombam da culpa, mas os retos alcançam favor."
+    },
+    {
+      "number": 10,
+      "text": "O coração conhece sua própria amargura, e o estranho não participa da sua alegria."
+    },
+    {
+      "number": 11,
+      "text": "A casa dos injustos se arruína, mas a tenda dos retos prospera."
+    },
+    {
+      "number": 12,
+      "text": "Às vezes um caminho parece reto para alguém, mas acaba levando para a morte."
+    },
+    {
+      "number": 13,
+      "text": "Também entre risos o coração chora, e a alegria termina em tristeza."
+    },
+    {
+      "number": 14,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Provérbios"
+    },
+    {
+      "number": 14,
+      "text": "O extraviado ficará farto de sua própria conduta, mas o homem bom se saciará com as próprias obras."
+    },
+    {
+      "number": 15,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 15,
+      "text": "O ingênuo acredita em tudo o que lhe dizem, mas o homem esperto olha onde pisa."
+    },
+    {
+      "number": 16,
+      "text": "O sábio é precavido e se afasta do mal; o insensato vai em frente sem pensar."
+    },
+    {
+      "number": 17,
+      "text": "O homem colérico comete estupidez, e o homem intrigante torna-se odiado."
+    },
+    {
+      "number": 18,
+      "text": "Os ingênuos se enfeitam com estupidez, mas os espertos se coroam de conhecimento."
+    },
+    {
+      "number": 19,
+      "text": "Os maus se inclinarão diante dos bons, e os injustos diante da porta do justo."
+    },
+    {
+      "number": 20,
+      "text": "O pobre é desprezado até mesmo por seu parente, mas o rico tem muitos amigos."
+    },
+    {
+      "number": 21,
+      "text": "Quem despreza o seu próximo fracassa, mas quem tem compaixão do pobre é feliz."
+    },
+    {
+      "number": 22,
+      "text": "Quem planeja o mal acaba se extraviando, mas os que realizam o bem gozam de amor e fidelidade."
+    },
+    {
+      "number": 23,
+      "text": "Todo trabalho traz seu proveito, mas o muito falar só produz miséria."
+    },
+    {
+      "number": 24,
+      "text": "Os sábios são coroados de riquezas, e os insensatos de estupidez."
+    },
+    {
+      "number": 25,
+      "text": "A testemunha verdadeira salva as vidas, mas quem diz mentiras é impostor."
+    },
+    {
+      "number": 26,
+      "text": "A confiança do forte é temer a Javé, que é um refúgio para seus filhos."
+    },
+    {
+      "number": 27,
+      "text": "O temor de Javé é fonte de vida, para evitar os laços da morte."
+    },
+    {
+      "number": 28,
+      "text": "Povo numeroso é honra para o rei, mas a falta de gente é ruína para o príncipe."
+    },
+    {
+      "number": 29,
+      "text": "O homem paciente é cheio de inteligência, mas o impulsivo exalta sua própria ignorância."
+    },
+    {
+      "number": 30,
+      "text": "Coração tranquilo é vida para o corpo, mas a inveja é cárie nos ossos."
+    },
+    {
+      "number": 31,
+      "text": "Ler Proverbios completo"
+    },
+    {
+      "number": 31,
+      "text": "Quem oprime o fraco ofende a Deus, mas quem se compadece do indigente honra o Criador."
+    },
+    {
+      "number": 32,
+      "text": "O injusto tropeça na sua própria maldade, mas o justo se refugia na sua própria integridade."
+    },
+    {
+      "number": 33,
+      "text": "No coração prudente mora a sabedoria, e ela se manifesta até no meio dos insensatos."
+    },
+    {
+      "number": 34,
+      "text": "A justiça faz uma nação prosperar, mas o pecado empobrece os povos."
+    },
+    {
+      "number": 35,
+      "text": "O rei favorece o ministro hábil, mas descarrega sua ira sobre o indigno. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

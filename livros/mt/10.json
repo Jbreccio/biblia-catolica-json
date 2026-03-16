@@ -3,7 +3,188 @@
   "abbrev": "mt",
   "capitulo": 10,
   "total_capitulos": 28,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 45,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Então Jesus chamou seus discípulos e deu-lhes poder para expulsar os espíritos impuros, e para curar qualquer tipo de doença e enfermidade."
+    },
+    {
+      "number": 2,
+      "text": "São estes os nomes dos Doze Apóstolos: primeiro Simão, chamado Pedro, e seu irmão André; Tiago e seu irmão João, filhos de Zebedeu;"
+    },
+    {
+      "number": 3,
+      "text": "Filipe e Bartolomeu; Tomé e Mateus, o cobrador de impostos; Tiago, filho de Alfeu, e Tadeu;"
+    },
+    {
+      "number": 4,
+      "text": "Simão, o Cananeu, e Judas Iscariotes, que foi o traidor de Jesus."
+    },
+    {
+      "number": 5,
+      "text": "Jesus enviou os Doze com estas recomendações: “Não tomem o caminho dos pagãos, e não entrem nas cidades dos samaritanos."
+    },
+    {
+      "number": 6,
+      "text": "Vão primeiro às ovelhas perdidas da casa de Israel."
+    },
+    {
+      "number": 7,
+      "text": "Vão e anunciem: ‘O Reino do Céu está próximo’."
+    },
+    {
+      "number": 8,
+      "text": "Curem os doentes, ressuscitem os mortos, purifiquem os leprosos, expulsem os demônios. Vocês receberam de graça, deem também de graça!"
+    },
+    {
+      "number": 9,
+      "text": "Não levem nos cintos moedas de ouro, de prata ou de cobre;"
+    },
+    {
+      "number": 10,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Mateus"
+    },
+    {
+      "number": 10,
+      "text": "nem sacola para o caminho, nem duas túnicas, nem calçados, nem bastão, porque o operário tem direito ao seu alimento."
+    },
+    {
+      "number": 11,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
+    },
+    {
+      "number": 11,
+      "text": "Em qualquer cidade ou povoado onde vocês entrarem, informem-se para saber se há alguém que é digno. E aí permaneçam até vocês se retirarem."
+    },
+    {
+      "number": 12,
+      "text": "Ao entrarem na casa, façam a saudação."
+    },
+    {
+      "number": 13,
+      "text": "Se a casa for digna, desça sobre ela a paz de vocês; se ela não for digna, que a paz volte para vocês."
+    },
+    {
+      "number": 14,
+      "text": "Se alguém não os receber bem, e não escutar a palavra de vocês, ao sair dessa casa e dessa cidade, sacudam a poeira dos pés."
+    },
+    {
+      "number": 15,
+      "text": "Eu garanto a vocês: no dia do julgamento as cidades de Sodoma e Gomorra serão tratadas com menos rigor do que essa cidade.”"
+    },
+    {
+      "number": 16,
+      "text": "‘‘Eis que eu envio vocês como ovelhas no meio de lobos. Portanto, sejam prudentes como as serpentes e simples como as pombas."
+    },
+    {
+      "number": 17,
+      "text": "Tenham cuidado com os homens, porque eles entregarão vocês aos tribunais e açoitarão vocês nas sinagogas deles."
+    },
+    {
+      "number": 18,
+      "text": "Vocês vão ser levados diante de governadores e reis, por minha causa, a fim de serem testemunhas para eles e para as nações."
+    },
+    {
+      "number": 19,
+      "text": "Quando entregarem vocês, não fiquem preocupados como ou com aquilo que vocês vão falar, porque, nessa hora, será sugerido a vocês o que vocês devem dizer."
+    },
+    {
+      "number": 20,
+      "text": "Com efeito, não serão vocês que irão falar, e sim o Espírito do Pai de vocês é quem falará através de vocês."
+    },
+    {
+      "number": 21,
+      "text": "O irmão entregará à morte o próprio irmão; o pai entregará o filho; os filhos se levantarão contra seus pais, e os matarão."
+    },
+    {
+      "number": 22,
+      "text": "Vocês serão odiados de todos, por causa do meu nome. Mas aquele que perseverar até o fim, esse será salvo."
+    },
+    {
+      "number": 23,
+      "text": "Quando perseguirem vocês numa cidade, fujam para outra. Eu garanto que vocês não acabarão de percorrer as cidades de Israel, antes que venha o Filho do Homem."
+    },
+    {
+      "number": 24,
+      "text": "O discípulo não está acima do mestre, nem o servo acima do seu senhor."
+    },
+    {
+      "number": 25,
+      "text": "Para o discípulo basta ser como o seu mestre, e para o servo ser como o seu senhor. Se chamaram de Belzebu o dono da casa, quanto mais os que são da casa dele!”"
+    },
+    {
+      "number": 26,
+      "text": "‘‘Não tenham medo deles, pois não há nada de escondido que não venha a ser revelado, e não existe nada de oculto que não venha a ser conhecido."
+    },
+    {
+      "number": 27,
+      "text": "O que digo a vocês na escuridão, repitam à luz do dia, e o que vocês escutam em segredo, proclamem sobre os telhados."
+    },
+    {
+      "number": 28,
+      "text": "Ler Sao Mateus completo"
+    },
+    {
+      "number": 28,
+      "text": "Não tenham medo daqueles que matam o corpo, mas não podem matar a alma. Pelo contrário, tenham medo daquele que pode arruinar a alma e o corpo no inferno!"
+    },
+    {
+      "number": 29,
+      "text": "Não se vendem dois pardais por alguns trocados? No entanto, nenhum deles cai no chão sem o consentimento do Pai de vocês."
+    },
+    {
+      "number": 30,
+      "text": "Quanto a vocês, até os cabelos da cabeça estão todos contados."
+    },
+    {
+      "number": 31,
+      "text": "Não tenham medo! Vocês valem mais do que muitos pardais."
+    },
+    {
+      "number": 32,
+      "text": "Portanto, todo aquele que der testemunho de mim diante dos homens, também eu darei testemunho dele diante do meu Pai que está no céu."
+    },
+    {
+      "number": 33,
+      "text": "Aquele, porém, que me renegar diante dos homens, eu também o renegarei diante do meu Pai que está no céu.”"
+    },
+    {
+      "number": 34,
+      "text": "‘‘Não pensem que eu vim trazer paz à terra; eu não vim trazer a paz, e sim a espada."
+    },
+    {
+      "number": 35,
+      "text": "De fato, eu vim separar o filho de seu pai, a filha de sua mãe, a nora de sua sogra."
+    },
+    {
+      "number": 36,
+      "text": "E os inimigos do homem serão os seus próprios familiares."
+    },
+    {
+      "number": 37,
+      "text": "Quem ama seu pai ou mãe mais do que a mim, não é digno de mim. Quem ama seu filho ou sua filha mais do que a mim, não é digno de mim."
+    },
+    {
+      "number": 38,
+      "text": "Quem não toma a sua cruz e não me segue, não é digno de mim."
+    },
+    {
+      "number": 39,
+      "text": "Quem procura conservar a própria vida, vai perdê-la. E quem perde a sua vida por causa de mim, vai encontrá-la.”"
+    },
+    {
+      "number": 40,
+      "text": "‘‘Quem recebe a vocês, recebe a mim; e quem me recebe, recebe aquele que me enviou."
+    },
+    {
+      "number": 41,
+      "text": "Quem recebe um profeta, por ser profeta, receberá a recompensa de profeta. E quem recebe um justo, por ser justo, receberá a recompensa de justo."
+    },
+    {
+      "number": 42,
+      "text": "Quem der ainda que seja apenas um copo de água fria a um desses pequeninos, por ser meu discípulo, eu garanto a vocês: não perderá a sua recompensa.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Tex"
+    }
+  ]
 }

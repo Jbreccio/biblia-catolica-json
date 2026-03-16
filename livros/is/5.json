@@ -3,7 +3,140 @@
   "abbrev": "is",
   "capitulo": 5,
   "total_capitulos": 66,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 33,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Cantarei em nome do meu amigo um canto de amor para a sua vinha. O meu amigo possuía uma vinha em fértil colina."
+    },
+    {
+      "number": 2,
+      "text": "Capinou a terra, tirou as pedras e plantou nela videiras de uvas vermelhas. No meio, construiu uma guarita e fez um tanque de pisar uvas. Esperava que produzisse uvas boas, mas ela produziu uvas azedas."
+    },
+    {
+      "number": 3,
+      "text": "E agora, moradores de Jerusalém e homens de Judá, eu lhes peço: julguem entre mim e a minha vinha."
+    },
+    {
+      "number": 4,
+      "text": "O que mais eu deveria ter feito pela minha vinha, que não fiz? Por que esperei que desse uvas boas, e ela me deu uvas azedas?"
+    },
+    {
+      "number": 5,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Isaías"
+    },
+    {
+      "number": 5,
+      "text": "Pois agora, vou dizer-lhes o que farei com minha vinha: vou arrancar a sua cerca para que sirva de pasto; derrubarei o seu muro para que seja pisada."
+    },
+    {
+      "number": 6,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 6,
+      "text": "Vou fazer dela um matagal: ficará sem podar e sem capinar; só mato e espinhos crescerão nela; e às próprias nuvens eu mandarei que não chovam sobre ela."
+    },
+    {
+      "number": 7,
+      "text": "A vinha de Javé dos exércitos é a casa de Israel, e sua plantação preferida são os homens de Judá. Eu esperava deles o direito, e produziram injustiça; esperava justiça, e aí estão gritos de desespero!"
+    },
+    {
+      "number": 8,
+      "text": "Ai daqueles que juntam casa com casa e emendam campo a campo, até que não sobre mais espaço e sejam os únicos a habitarem no meio do país."
+    },
+    {
+      "number": 9,
+      "text": "Javé dos exércitos jurou no meu ouvido: Suas muitas casas serão arrasadas, seus palácios luxuosos ficarão desabitados;"
+    },
+    {
+      "number": 10,
+      "text": "um alqueire de videiras dará apenas um barril, e dez medidas de semente produzirão uma só."
+    },
+    {
+      "number": 11,
+      "text": "Ai daqueles que madrugam procurando bebidas fortes e se esquentam com o vinho até o anoitecer."
+    },
+    {
+      "number": 12,
+      "text": "Em seus banquetes, eles têm harpas e liras, tambores e flautas, e vinho para suas bebedeiras; e ninguém presta atenção na atividade de Deus, e ninguém vê o que a mão dele faz."
+    },
+    {
+      "number": 13,
+      "text": "É por falta de conhecimento que o meu povo foi exilado; seus nobres morrem de fome e seus plebeus ardem de sede."
+    },
+    {
+      "number": 14,
+      "text": "É por isso que a mansão dos mortos alarga sua garganta e abre sua boca desmedida: para lá descem seus nobres e sua plebe, o tumulto e a alegria da cidade."
+    },
+    {
+      "number": 15,
+      "text": "O ser humano será abatido, o homem será humilhado; os olhos dos soberbos serão abaixados."
+    },
+    {
+      "number": 16,
+      "text": "No julgamento, Javé dos exércitos será exaltado, o Deus santo mostrará sua santidade através da justiça."
+    },
+    {
+      "number": 17,
+      "text": "Os cordeiros vão pastar em seus pastos e os cabritos comerão o resto dos pastos que os cevados devastaram."
+    },
+    {
+      "number": 18,
+      "text": "Ai dos que arrastam a culpa com cordas de bois, e o pecado com tirantes de uma carroça,"
+    },
+    {
+      "number": 19,
+      "text": "e dizem: “Que ele ande depressa e faça logo a sua obra, para que a gente possa ver; apareça e se realize o conselho do Santo de Israel, para que o conheçamos!”"
+    },
+    {
+      "number": 20,
+      "text": "Ai dos que dizem que o mal é bem, e o bem é mal, dos que transformam as trevas em luz e a luz em trevas, dos que mudam o amargo em doce e o doce em amargo!"
+    },
+    {
+      "number": 21,
+      "text": "Ai dos que são sábios a seus próprios olhos e inteligentes diante de si mesmos!"
+    },
+    {
+      "number": 22,
+      "text": "Ai dos que são fortes para beber vinho e valentes para misturar bebidas,"
+    },
+    {
+      "number": 23,
+      "text": "dos que absolvem o injusto a troco de suborno e negam fazer justiça ao justo!"
+    },
+    {
+      "number": 24,
+      "text": "Por isso, como a chama devora a palha, e o capim seco se incendeia e se consome, assim a raiz dessa gente apodrecerá, e seus brotos voarão como poeira, pois eles rejeitaram a lei de Javé dos exércitos e desprezaram a palavra do Santo de Israel."
+    },
+    {
+      "number": 25,
+      "text": "Por isso, a ira de Javé se inflamou contra o seu povo, e ele estendeu a mão para castigá-lo; as montanhas tremeram e seus cadáveres estão pelas ruas como lixo. Apesar de tudo isso, a ira dele não se acalmou, e sua mão continua estendida."
+    },
+    {
+      "number": 26,
+      "text": "Javé dará um sinal para um povo distante, assobiará para ele do extremo da terra. Vejam! Esse povo chega veloz e ligeiro."
+    },
+    {
+      "number": 27,
+      "text": "No meio dele, ninguém se cansa, ninguém tropeça; ninguém tem sono, ninguém cochila; ninguém desaperta o cinturão, ninguém desamarra a correia das sandálias."
+    },
+    {
+      "number": 28,
+      "text": "Suas flechas estão afiadas e todos os arcos bem esticados; os cascos de seus cavalos parecem de pedra, e as rodas de seus carros são como furacão."
+    },
+    {
+      "number": 29,
+      "text": "Seu rugido é como da leoa, ruge como leão novo: ruge enquanto agarra a sua presa: segura, e ninguém a toma dele."
+    },
+    {
+      "number": 30,
+      "text": "Nesse dia, ele vai rugir contra Judá, como o barulho das ondas do mar. Olhe para a terra: tudo é escuridão e angústia, a luz se transformou em trevas por causa das nuvens. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 66,
+      "text": "Ler Isaias completo"
+    }
+  ]
 }

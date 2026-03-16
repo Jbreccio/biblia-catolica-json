@@ -2,8 +2,421 @@
   "livro": "Daniel",
   "abbrev": "dn",
   "capitulo": 3,
-  "total_capitulos": 12,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_capitulos": 14,
+  "total_versiculos": 103,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "O rei Nabucodonosor mandou fazer uma estátua de ouro com trinta metros de altura por três metros de diâmetro; e colocou-a na planície de Dura, província da Babilônia."
+    },
+    {
+      "number": 2,
+      "text": "Depois, mandou reunir os governadores, ministros, prefeitos, conselheiros, tesoureiros, letrados, magistrados e autoridades das províncias para assistirem à inauguração da estátua que o rei Nabucodonosor havia erguido."
+    },
+    {
+      "number": 3,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Daniel"
+    },
+    {
+      "number": 3,
+      "text": "Reuniram-se os governadores, ministros, prefeitos, conselheiros, tesoureiros, letrados, magistrados e autoridades das províncias para a inauguração da estátua construída pelo rei Nabucodonosor. Todos estavam de pé em frente à estátua."
+    },
+    {
+      "number": 4,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 4,
+      "text": "Então o porta-voz do rei gritou forte: “Esta é a mensagem para todos os povos, nações e línguas:"
+    },
+    {
+      "number": 5,
+      "text": "quando ouvirem o som da corneta, flauta, cítara, harpa, saltério, gaita e outros instrumentos musicais, devem todos cair de joelhos para adorar a estátua de ouro erguida pelo rei Nabucodonosor."
+    },
+    {
+      "number": 6,
+      "text": "Quem não fizer isso, na mesma hora será jogado dentro da fornalha ardente”."
+    },
+    {
+      "number": 7,
+      "text": "Quando todo o mundo ouviu o som da corneta, flauta, cítara, harpa, saltério, gaita e outros instrumentos musicais, todos os povos, nações e línguas caíram de joelhos, adorando a estátua de ouro erguida pelo rei Nabucodonosor."
+    },
+    {
+      "number": 8,
+      "text": "Alguns caldeus foram denunciar os judeus."
+    },
+    {
+      "number": 9,
+      "text": "Procuraram o rei Nabucodonosor e disseram: “Viva o rei para sempre!"
+    },
+    {
+      "number": 10,
+      "text": "Vossa Majestade decretou que todo indivíduo que ouvisse o som da corneta, flauta, cítara, harpa, saltério, gaita e outros instrumentos musicais, deveria imediatamente cair de joelhos, adorando a estátua de ouro."
+    },
+    {
+      "number": 11,
+      "text": "E quem não se ajoelhasse para adorar, seria jogado na fornalha ardente."
+    },
+    {
+      "number": 12,
+      "text": "Pois bem! Alguns judeus que Vossa Majestade nomeou administradores das províncias da Babilônia — e são eles: Sidrac, Misac e Abdênago — não obedecem à ordem do rei. Eles não veneram os deuses nem adoram a estátua de ouro erguida por Vossa Majestade”."
+    },
+    {
+      "number": 13,
+      "text": "Nabucodonosor, com raiva e ódio, mandou buscar Sidrac, Misac e Abdênago. Eles chegaram à presença do rei;"
+    },
+    {
+      "number": 14,
+      "text": "Ler Daniel completo"
+    },
+    {
+      "number": 14,
+      "text": "e este lhes perguntou: “Sidrac, Misac e Abdênago, é verdade que vocês não veneram os meus deuses nem adoram a estátua de ouro que eu ergui?"
+    },
+    {
+      "number": 15,
+      "text": "Então, fiquem preparados, e quando ouvirem o som da corneta, flauta, cítara, harpa, saltério, gaita e outros instrumentos musicais, vocês cairão de joelhos para adorar a estátua de ouro que eu fiz. Se não adorarem, na mesma hora serão jogados na fornalha ardente; e quero ver qual é o deus que livrará vocês de minha mão”."
+    },
+    {
+      "number": 16,
+      "text": "Sidrac, Misac e Abdênago responderam ao rei: “Não precisamos responder nada a essa ordem."
+    },
+    {
+      "number": 17,
+      "text": "Existe o nosso Deus, a quem adoramos, e que nos pode livrar da fornalha ardente, libertando-nos da mão de Vossa Majestade."
+    },
+    {
+      "number": 18,
+      "text": "Mesmo que isso não aconteça, fique Vossa Majestade sabendo que nós não adoraremos o seu deus, nem adoraremos a estátua de ouro construída por Vossa Majestade”."
+    },
+    {
+      "number": 19,
+      "text": "Nabucodonosor ficou tão furioso contra Sidrac, Misac e Abdênago que seu rosto empalideceu. Então mandou acender na fornalha um fogo sete vezes mais forte que o de costume,"
+    },
+    {
+      "number": 20,
+      "text": "e depois mandou que os soldados mais fortes do seu exército amarrassem Sidrac, Misac e Abdênago e os jogassem na fornalha ardente."
+    },
+    {
+      "number": 21,
+      "text": "Então os amarraram, vestidos com suas túnicas, calções, gorros e outras roupas, e os atiraram na fornalha ardente."
+    },
+    {
+      "number": 22,
+      "text": "Como a ordem do rei era rigorosa e o fogo da fornalha era extremamente forte, aconteceu que as labaredas de fogo mataram aqueles que foram jogar aí Sidrac, Misac e Abdênago."
+    },
+    {
+      "number": 23,
+      "text": "Os três rapazes, porém, foram cair, amarrados, dentro da fornalha ardente."
+    },
+    {
+      "number": 24,
+      "text": "Sidrac, Misac e Abdênago ficaram passeando no meio das labaredas, cantando hinos a Deus e louvando o Senhor."
+    },
+    {
+      "number": 25,
+      "text": "Azarias, de pé, soltando a voz no meio do fogo, rezou:"
+    },
+    {
+      "number": 26,
+      "text": "“Bendito sejas tu, Senhor, Deus de nossos pais, tu és digno de louvor e o teu nome é glorificado para sempre!"
+    },
+    {
+      "number": 27,
+      "text": "Porque tu és justo em tudo o que nos fizeste, e todas as tuas obras são verdadeiras; os teus caminhos são retos, e todos os teus julgamentos são justos."
+    },
+    {
+      "number": 28,
+      "text": "Foi justa a sentença que decretaste, todo o sofrimento que mandaste para nós e para Jerusalém, a cidade santa dos nossos antepassados. Pois é segundo a verdade e o direito que fizeste acontecer para nós todas essas coisas, por causa de nossos pecados."
+    },
+    {
+      "number": 29,
+      "text": "Sim! Pecamos, cometendo um crime ao nos afastarmos de ti; sim, pecamos gravemente em tudo. Não obedecemos aos teus mandamentos,"
+    },
+    {
+      "number": 30,
+      "text": "nem os observamos, nem agimos conforme nos ordenavas, para que tudo nos corresse bem."
+    },
+    {
+      "number": 31,
+      "text": "Por isso, o que nos fizeste acontecer, tudo o que tu mesmo nos fizeste, foi com julgamento justo que o fizeste."
+    },
+    {
+      "number": 32,
+      "text": "Tu nos entregaste em mãos de nossos inimigos, a uma gente sem lei, aos piores dos ímpios, a um rei injusto, o mais malvado de toda a terra."
+    },
+    {
+      "number": 33,
+      "text": "Nesta hora, não nos deixam nem abrir a boca; a decepção e a vergonha chegaram sobre os teus servos e sobre os que te adoram."
+    },
+    {
+      "number": 34,
+      "text": "Não nos entregues para sempre, não rejeites a tua aliança, por causa do teu nome."
+    },
+    {
+      "number": 35,
+      "text": "Não retires de nós a tua misericórdia, por amor a Abraão, o teu amigo, por amor a Isaac, o teu servo, e a Israel, o teu santo."
+    },
+    {
+      "number": 36,
+      "text": "A eles tu falaste, prometendo que a descendência deles seria tão numerosa como as estrelas do céu e como a areia que existe à beira-mar."
+    },
+    {
+      "number": 37,
+      "text": "No entanto, Senhor, nós estamos diminuídos no meio de todas as nações; estamos hoje humilhados na terra inteira, por causa dos nossos pecados."
+    },
+    {
+      "number": 38,
+      "text": "Neste nosso tempo, não há chefe, profeta ou dirigente, nem holocausto, sacrifício, oferenda ou incenso; não existe lugar onde te oferecer os primeiros frutos e alcançar misericórdia."
+    },
+    {
+      "number": 39,
+      "text": "Mas, com alma despedaçada e espírito humilhado, sejamos aceitos como se viéssemos com holocaustos de carneiros, touros e milhares de gordos carneiros."
+    },
+    {
+      "number": 40,
+      "text": "Seja esse o sacrifício que te oferecemos, e, diante de ti, que ele seja completo, pois jamais haverá decepção para os que confiam em ti."
+    },
+    {
+      "number": 41,
+      "text": "Mas agora nós vamos seguir-te de todo o coração; nós vamos temer-te e procurar a tua face."
+    },
+    {
+      "number": 42,
+      "text": "Ah! Não nos deixes decepcionados, mas age conosco com toda a tua bondade e conforme a abundância de tua misericórdia."
+    },
+    {
+      "number": 43,
+      "text": "Liberta-nos, segundo as tuas maravilhas, e glorifica o teu nome, Senhor."
+    },
+    {
+      "number": 44,
+      "text": "Fiquem envergonhados aqueles que prejudicam os teus servos; que fiquem cobertos de vergonha, privados de todo o seu poder, e que a força deles seja esmagada."
+    },
+    {
+      "number": 45,
+      "text": "Fiquem eles sabendo, Senhor, que tu és o único Deus, glorioso sobre toda a terra”."
+    },
+    {
+      "number": 46,
+      "text": "Contudo, os funcionários do rei que tinham jogado os três jovens na fornalha não paravam de alimentar o fogo com óleo combustível, piche, estopa e gravetos,"
+    },
+    {
+      "number": 47,
+      "text": "tanto que as labaredas subiam uns vinte e dois metros acima da fornalha,"
+    },
+    {
+      "number": 48,
+      "text": "alcançando e queimando os caldeus que estavam por perto."
+    },
+    {
+      "number": 49,
+      "text": "O Anjo do Senhor, porém, desceu na fornalha para perto de Azarias e seus companheiros. Tocou para fora da fornalha as labaredas de fogo"
+    },
+    {
+      "number": 50,
+      "text": "e formou no meio da fornalha um vento úmido refrescante. O fogo nem tocou neles, nem lhes causou sofrimento algum ou incômodo."
+    },
+    {
+      "number": 51,
+      "text": "Os três cantavam hinos, glorificavam e louvavam a Deus, a uma só voz, dentro da fornalha:"
+    },
+    {
+      "number": 52,
+      "text": "“Bendito és tu, Senhor, Deus de nossos pais; a ti, glória e louvor para sempre. Bendito é o teu nome santo e glorioso; a ele, glória e louvor para sempre."
+    },
+    {
+      "number": 53,
+      "text": "Bendito é s tu em teu Templo santo e glorioso; a ti, glória e louvor para sempre."
+    },
+    {
+      "number": 54,
+      "text": "Bendito és tu no trono do teu reino; a ti, glória e louvor para sempre."
+    },
+    {
+      "number": 55,
+      "text": "Bendito és tu, que sondas os abismos, sentado sobre os querubins; a ti, glória e louvor para sempre."
+    },
+    {
+      "number": 56,
+      "text": "Bendito és tu, no firmamento do cé u; a ti, glória e louvor para sempre."
+    },
+    {
+      "number": 57,
+      "text": "Bendigam o Senhor, todas as obras do Senhor; exaltem o Senhor com hinos para sempre."
+    },
+    {
+      "number": 58,
+      "text": "Anjos do Senhor, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 59,
+      "text": "Céus, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 60,
+      "text": "Águas todas acima do céu, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 61,
+      "text": "Todas as potê ncias, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 62,
+      "text": "Sol e lua, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 63,
+      "text": "Estrelas do céu, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 64,
+      "text": "Chuva e orvalho, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 65,
+      "text": "Ventos todos, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 66,
+      "text": "Fogo e calor, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 67,
+      "text": "Frio e ardor, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 68,
+      "text": "Orvalhos e aguaceiros, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 69,
+      "text": "Gelo e frio, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 70,
+      "text": "Geada e neve, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 71,
+      "text": "Noites e dias, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 72,
+      "text": "Luz e trevas, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 73,
+      "text": "Relâmpagos e nuvens, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 74,
+      "text": "Terra, bendiga o Senhor; louve e exalte o Senhor para sempre."
+    },
+    {
+      "number": 75,
+      "text": "Montanhas e colinas, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 76,
+      "text": "Tudo o que brota do chão, bendiga o Senhor; louve e exalte o Senhor para sempre."
+    },
+    {
+      "number": 77,
+      "text": "Fontes, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 78,
+      "text": "Mares e rios, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 79,
+      "text": "Baleias e peixes, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 80,
+      "text": "Aves do céu, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 81,
+      "text": "Animais selvagens e domésticos, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 82,
+      "text": "Criaturas humanas, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 83,
+      "text": "Israelitas, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 84,
+      "text": "Sacerdotes do Senhor, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 85,
+      "text": "Servos do Senhor, bendigam o Senhor; louve m e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 86,
+      "text": "Espíritos e almas dos justos, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 87,
+      "text": "Santos e humildes de coração, bendigam o Senhor; louvem e exaltem o Senhor para sempre."
+    },
+    {
+      "number": 88,
+      "text": "Ananias, Azarias e Misael, bendigam o Senhor; louvem e exaltem o Senhor para sempre. Porque ele nos tirou da mansão dos mortos e nos salvou do poder da morte; livrou-nos da chama da fornalha ardente e retirou-nos do meio do fogo."
+    },
+    {
+      "number": 89,
+      "text": "Deem graças ao Senhor, porque ele é bom, porque a sua misericórdia é para sempre”."
+    },
+    {
+      "number": 90,
+      "text": "Todos os que adoram o Senhor, Deus dos deuses, bendigam o Senhor: louvem e deem graças ao Senhor, porque a sua misericórdia é para sempre”."
+    },
+    {
+      "number": 91,
+      "text": "Nabucodonosor ficou muito admirado. Levantou-se depressa e disse a seus ministros: “Não foram três os jovens que jogamos amarrados na fornalha?” Eles responderam ao rei: “Sem dúvida, Majestade”."
+    },
+    {
+      "number": 92,
+      "text": "Então ele disse: “Como é que estou vendo quatro jovens soltos e andando dentro da fornalha ardente, sem qualquer incômodo, e a aparência do quarto é de um filho de deuses?”"
+    },
+    {
+      "number": 93,
+      "text": "Nabucodonosor chegou à boca da fornalha ardente e disse: “Sidrac, Misac e Abdênago, servos do Deus altíssimo, saiam daí”. Imediatamente os três jovens saíram da fornalha."
+    },
+    {
+      "number": 94,
+      "text": "Reuniram-se os governadores, ministros, prefeitos e conselheiros para ver os jovens. A fornalha não teve força nenhuma sobre os corpos deles, nem os cabelos de suas cabeças ficaram queimados, nem suas roupas sofreram coisa alguma e nem mesmo o cheiro da fumaça os atingiu."
+    },
+    {
+      "number": 95,
+      "text": "Nabucodonosor disse então: “Bendito seja o Deus de Sidrac, Misac e Abdênago, que mandou o seu anjo libertar os seus servos que nele confiaram. Eles não fizeram caso do decreto do rei e entregaram o próprio corpo, pois não cultuam nem adoram nenhum outro deus que não seja o Deus deles."
+    },
+    {
+      "number": 96,
+      "text": "Faço, pois, um decreto, mandando que qualquer povo, raça ou língua que disser uma blasfêmia contra o Deus de Sidrac, Misac e Abdênago, seja feito em pedaços e sua casa seja totalmente destruída, pois deus igual a este, capaz de salvar, não existe outro”."
+    },
+    {
+      "number": 97,
+      "text": "E promoveu Sidrac, Misac e Abdênago a cargos públicos na província da Babilônia."
+    },
+    {
+      "number": 98,
+      "text": "“O rei Nabucodonosor a todos os povos, nações e línguas que existem na terra: paz e prosperidade."
+    },
+    {
+      "number": 99,
+      "text": "Tantos sinais e prodígios fez comigo o Deus altíssimo, que me pareceu bom publicá-los."
+    },
+    {
+      "number": 100,
+      "text": "Como são grandiosos os seus sinais, quanta força em seus prodígios! O seu reino é eterno e o seu poder atravessa as gerações! Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

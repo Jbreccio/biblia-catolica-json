@@ -3,7 +3,108 @@
   "abbrev": "ex",
   "capitulo": 3,
   "total_capitulos": 40,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 25,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Moisés estava pastoreando o rebanho do seu sogro Jetro, sacerdote de Madiã. Levou as ovelhas além do deserto e chegou ao Horeb, a montanha de Deus."
+    },
+    {
+      "number": 2,
+      "text": "O anjo de Javé apareceu a Moisés numa chama de fogo do meio de uma sarça. Moisés prestou atenção: a sarça ardia no fogo, mas não se consumia."
+    },
+    {
+      "number": 3,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Êxodo"
+    },
+    {
+      "number": 3,
+      "text": "Então Moisés pensou: “Vou chegar mais perto e ver essa coisa estranha: por que será que a sarça não se consome?”"
+    },
+    {
+      "number": 4,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 4,
+      "text": "Javé viu Moisés que se aproximava para olhar. E do meio da sarça Deus o chamou: “Moisés, Moisés!” Ele respondeu: “Aqui estou”."
+    },
+    {
+      "number": 5,
+      "text": "Deus disse: “Não se aproxime. Tire as sandálias dos pés, porque o lugar onde você está pisando é um lugar sagrado”."
+    },
+    {
+      "number": 6,
+      "text": "E continuou: “Eu sou o Deus de seus antepassados, o Deus de Abraão, o Deus de Isaac, o Deus de Jacó”. Então Moisés cobriu o rosto, pois tinha medo de olhar para Deus."
+    },
+    {
+      "number": 7,
+      "text": "Javé disse: “Eu vi muito bem a miséria do meu povo que está no Egito. Ouvi o seu clamor contra seus opressores, e conheço os seus sofrimentos."
+    },
+    {
+      "number": 8,
+      "text": "Por isso, desci para libertá-lo do poder dos egípcios e para fazê-lo subir dessa terra para uma terra fértil e espaçosa, terra onde corre leite e mel, o território dos ca­naneus, heteus, amorreus, ferezeus, heveus e jebu­seus."
+    },
+    {
+      "number": 9,
+      "text": "O clamor dos filhos de Israel chegou até mim, e eu estou vendo a opressão com que os egípcios os atormentam."
+    },
+    {
+      "number": 10,
+      "text": "Por isso, vá. Eu envio você ao Faraó, para tirar do Egito o meu povo, os filhos de Israel”."
+    },
+    {
+      "number": 11,
+      "text": "Então Moisés disse a Deus: “Quem sou eu para ir até o Faraó e tirar os filhos de Israel lá do Egito?”"
+    },
+    {
+      "number": 12,
+      "text": "Deus respondeu: “Eu estou com você, e este é o sinal de que eu o envio: quando você tirar o povo do Egito, vocês vão servir a Deus nesta montanha”."
+    },
+    {
+      "number": 13,
+      "text": "Moisés replicou a Deus: “Quando eu me dirigir aos filhos de Israel, eu direi: ‘O Deus dos antepassados de vocês me enviou até vocês’; e se eles me perguntarem: ‘Qual é o nome dele?’ O que é que eu vou responder?”"
+    },
+    {
+      "number": 14,
+      "text": "Deus disse a Moisés: “Eu sou aquele que sou”. E continuou: “Você falará assim aos filhos de Israel: ‘Eu Sou me enviou até vocês’ ”."
+    },
+    {
+      "number": 15,
+      "text": "Deus disse ainda a Moisés: “Você falará assim aos filhos de Israel: ‘Javé, o Deus dos antepassados de vocês, o Deus de Abraão, o Deus de Isaac, o Deus de Jacó, foi quem me enviou até vocês’. Esse é o meu nome para sempre, e assim eu serei lembrado de geração em geração”."
+    },
+    {
+      "number": 16,
+      "text": "“Vá, reúna os anciãos de Israel e diga a eles: ‘Javé, o Deus dos antepassados de vocês, o Deus de Abraão, o Deus de Isaac, o Deus de Jacó, ele me apareceu e disse: Eu vim ver vocês e como estão tratando vocês aqui no Egito."
+    },
+    {
+      "number": 17,
+      "text": "Então eu disse: Eu decidi tirar vocês da opressão egípcia e levá-los para a terra dos cananeus, heteus, amorreus, ferezeus, heveus e jebuseus, para uma terra onde corre leite e mel’."
+    },
+    {
+      "number": 18,
+      "text": "Os anciãos de Israel darão ouvidos a você. Então você irá com eles até o rei do Egito e lhe dirá: ‘Javé, o Deus dos hebreus, veio ao nosso encontro. Por isso, deixe-nos agora fazer uma viagem de três dias no deserto, para oferecermos sacrifí­cios a Javé nosso Deus’."
+    },
+    {
+      "number": 19,
+      "text": "Entretanto, eu sei que o rei do Egito não os deixará ir, se não for obrigado por mão forte."
+    },
+    {
+      "number": 20,
+      "text": "Portanto, vou estender a mão e ferir o Egito com todas as maravilhas que farei no país. Então ele deixará vocês partir."
+    },
+    {
+      "number": 21,
+      "text": "Farei com que o povo conquiste a simpatia dos egípcios, de modo que, ao partir, não saiam de mãos vazias."
+    },
+    {
+      "number": 22,
+      "text": "As mulheres pedirão a suas vizinhas e às donas de casa, com quem estiverem alojadas, objetos de prata e ouro e roupas para vestir seus filhos e filhas; assim, vocês vão despojar os egípcios”. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 40,
+      "text": "Ler Exodo completo"
+    }
+  ]
 }

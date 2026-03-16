@@ -3,7 +3,144 @@
   "abbrev": "nm",
   "capitulo": 5,
   "total_capitulos": 36,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 34,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Javé falou a Moisés:"
+    },
+    {
+      "number": 2,
+      "text": "“Ordene aos filhos de Is­rael que expulsem do acampamento os leprosos, os que têm gonorreia e os que se contaminaram com cadáveres."
+    },
+    {
+      "number": 3,
+      "text": "Homens ou mulheres, serão todos expulsos do acampamento, para que não fique contaminado o acampamento, no meio do qual eu mo­ro”."
+    },
+    {
+      "number": 4,
+      "text": "Os filhos de Israel fizeram isso e os expulsaram do acampamento. Os israelitas fizeram conforme Javé havia ordenado a Moisés."
+    },
+    {
+      "number": 5,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Números"
+    },
+    {
+      "number": 5,
+      "text": "Javé falou a Moisés:"
+    },
+    {
+      "number": 6,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 6,
+      "text": "“Diga aos filhos de Israel: Quando um homem ou mulher comete um pecado que prejudica o próximo, ofendendo assim a Javé, tal pessoa é culpada:"
+    },
+    {
+      "number": 7,
+      "text": "confessará o seu pecado e restituirá, a quem for prejudicado, vinte por cento além do prejuízo causado."
+    },
+    {
+      "number": 8,
+      "text": "Contudo, se o homem prejudicado não tem parente nenhum para o qual se possa fazer a restituição, esta será feita a Javé através do sacerdote, além do cordeiro com que o sacerdote fará o rito de expiação pelo culpado."
+    },
+    {
+      "number": 9,
+      "text": "Tudo aquilo que os filhos de Israel consagrarem será levado ao sacerdote e a ele pertencerá."
+    },
+    {
+      "number": 10,
+      "text": "As coisas que uma pessoa consagrar serão dele; aquilo que alguém der ao sacerdote, ao sacerdote pertencerá”."
+    },
+    {
+      "number": 11,
+      "text": "Javé falou a Moisés:"
+    },
+    {
+      "number": 12,
+      "text": "“Diga aos filhos de Israel: Se alguém supõe que sua mulher se desviou e se tornou infiel,"
+    },
+    {
+      "number": 13,
+      "text": "e que outro homem teve relações com ela, tornando-se impura em segredo, pois não havia testemunhas nem foi surpreendida em flagrante,"
+    },
+    {
+      "number": 14,
+      "text": "se o marido suspeitar e tiver ciúmes, esteja a mulher contaminada ou não,"
+    },
+    {
+      "number": 15,
+      "text": "ele deverá levar sua mulher ao sacerdote. Levará uma oferta de quatro quilos e meio de farinha de cevada, sem misturar azeite ou incenso, pois é uma oferta de ciúme, para denunciar uma culpa."
+    },
+    {
+      "number": 16,
+      "text": "O sacerdote se aproximará e colocará a mulher diante de Javé."
+    },
+    {
+      "number": 17,
+      "text": "Depois pegará água santa numa vasilha de barro e jo­gará pó do chão do santuário na água;"
+    },
+    {
+      "number": 18,
+      "text": "colocará a mulher diante de Javé, soltará os cabelos dela e lhe colocará nas mãos a oferta pelo ciúme, enquanto o sacer­dote ficará segurando a água amarga da maldição."
+    },
+    {
+      "number": 19,
+      "text": "Em seguida o sacerdote dirá, fazendo a mulher jurar: ‘Se você não dormiu com um estranho e não se contaminou enquanto estava sob o domínio do seu marido, que esta água amarga da maldição não faça mal a você."
+    },
+    {
+      "number": 20,
+      "text": "Mas, se você enganou seu marido enquanto estava sob o domínio dele e se contaminou, deitando-se com outro homem...’"
+    },
+    {
+      "number": 21,
+      "text": "E o sacerdote dirá, fazendo que a mulher preste juramento: ‘...que Javé entregue você à maldição entre os seus, fazendo com que seu sexo fique murcho e seu ventre inchado."
+    },
+    {
+      "number": 22,
+      "text": "Que esta água da maldição en­tre nas suas entranhas para inchar seu ventre e murchar seu sexo’. E a mulher responderá: ‘Amém! Amém!’"
+    },
+    {
+      "number": 23,
+      "text": "Depois o sacerdote escreverá essa mal­­dição num documento e o lavará na água amarga."
+    },
+    {
+      "number": 24,
+      "text": "Em seguida fará a mulher beber a água amarga da maldição, de modo que a água da maldição entre nela."
+    },
+    {
+      "number": 25,
+      "text": "Em seguida, o sacerdote pegará das mãos da mulher a oferta pelo ciúme, apresentará diante de Javé e a colocará sobre o altar."
+    },
+    {
+      "number": 26,
+      "text": "Pegará um punhado da oferta pelo ciúme e o queimará sobre o altar, como memorial. Em seguida, fará a mulher beber a água da maldição."
+    },
+    {
+      "number": 27,
+      "text": "Se ela se contaminou e foi infiel a seu marido, logo que a água amarga da maldição entrar nela, seu ventre ficará inchado, seu sexo murchará, e a mulher ficará maldita entre os seus."
+    },
+    {
+      "number": 28,
+      "text": "Se a mulher não se contaminou, se estiver pura, não sofrerá dano e poderá conceber”."
+    },
+    {
+      "number": 29,
+      "text": "Esse é o ritual para o caso de ciúme, quando uma mulher se desvia e se torna impura, enquanto está sob o poder do marido;"
+    },
+    {
+      "number": 30,
+      "text": "ou no caso em que um homem fica com ciúme de sua mulher. O marido levará a mulher diante de Javé, e o sacerdote fará esse ritual com ela."
+    },
+    {
+      "number": 31,
+      "text": "O marido estará livre de culpa, mas a mulher receberá a punição da própria culpa. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 36,
+      "text": "Ler Numeros completo"
+    }
+  ]
 }

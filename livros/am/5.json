@@ -3,7 +3,128 @@
   "abbrev": "am",
   "capitulo": 5,
   "total_capitulos": 9,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 30,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Escutem esta palavra que vou pronunciar contra vocês; é uma lamentação por você, casa de Israel:"
+    },
+    {
+      "number": 2,
+      "text": "Caiu para nunca mais se levantar, a jovem Israel! Está prostrada no seu próprio chão, não há quem a levante!"
+    },
+    {
+      "number": 3,
+      "text": "Pois assim diz o Senhor Javé à casa de Israel: A cidade que punha em campo mil guerreiros, ficará apenas com cem; aquela que saía com cem, ficará apenas com dez."
+    },
+    {
+      "number": 4,
+      "text": "Assim diz Javé à casa de Israel: Procurem a mim, e vocês viverão."
+    },
+    {
+      "number": 5,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Amós"
+    },
+    {
+      "number": 5,
+      "text": "Não procurem Betel, não façam romarias a Guilgal, nem corram para Bersabeia. Pois Guilgal irá toda para o exílio e Betel será reduzida a nada."
+    },
+    {
+      "number": 6,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 6,
+      "text": "Procurem a Javé, e vocês viverão. Senão, ele virá como um fogo sobre a casa de José e a queimará, e em Betel não haverá quem o apague."
+    },
+    {
+      "number": 7,
+      "text": "Ai dos que transformam o direito em veneno e atiram a justiça por terra."
+    },
+    {
+      "number": 8,
+      "text": "É ele quem fez as Plêiades e o Órion, é ele quem transforma as trevas em aurora e o dia em noite escura. Ele convoca as águas do mar para inundar a face da terra. Seu nome é Javé."
+    },
+    {
+      "number": 9,
+      "text": "Ler Amos completo"
+    },
+    {
+      "number": 9,
+      "text": "É ele quem determina a invasão da fortaleza e comanda a destruição da praça forte."
+    },
+    {
+      "number": 10,
+      "text": "Eles odeiam os que defendem o justo no tribunal e têm horror de quem fala a verdade."
+    },
+    {
+      "number": 11,
+      "text": "Porque esmagam o fraco, cobrando dele o imposto do trigo, eles poderão construir casas de pedras lavradas, mas nelas jamais irão morar; poderão plantar vinhas de ótima qualidade, mas do seu vinho não beberão."
+    },
+    {
+      "number": 12,
+      "text": "Pois eu sei como são numerosos os seus crimes e graves os seus pecados: exploram o justo, aceitam subornos e enganam os necessitados no tribunal!"
+    },
+    {
+      "number": 13,
+      "text": "É por isso que nesse tempo o prudente se cala, pois o tempo é de desgraça."
+    },
+    {
+      "number": 14,
+      "text": "Procurem o bem e não o mal; então vocês viverão. Quem sabe, assim — como vocês dizem — Javé, Deus dos exércitos, estará com vocês."
+    },
+    {
+      "number": 15,
+      "text": "Odeiem o mal e amem o bem; restabeleçam o direito no tribunal. Quem sabe, assim, Javé, Deus dos exércitos, terá misericórdia do resto de José."
+    },
+    {
+      "number": 16,
+      "text": "Assim diz Javé, o Senhor Deus dos exércitos: Em todas as ruas haverá gemidos, em todas as vielas dirão: “Ai, ai!” Chamarão para o luto o lavrador, e para o choro aqueles que sabem lamentar."
+    },
+    {
+      "number": 17,
+      "text": "Em todos os vinhedos haverá gemidos, porque eu passarei no meio de você — diz Javé."
+    },
+    {
+      "number": 18,
+      "text": "Ai dos que vivem suspirando pelo Dia de Javé! Como será para vocês o Dia de Javé? Será trevas, e não luz."
+    },
+    {
+      "number": 19,
+      "text": "Será como o indivíduo que foge do leão e topa com o urso; ou como a pessoa que, entrando em casa, apoia a mão na parede e é mordido pela cobra."
+    },
+    {
+      "number": 20,
+      "text": "Pois o Dia de Javé, por acaso não será trevas, ao invés de luz, escuridão sem claridade alguma?"
+    },
+    {
+      "number": 21,
+      "text": "Eu detesto e desprezo as festas de vocês; tenho horror dessas reuniões."
+    },
+    {
+      "number": 22,
+      "text": "Ainda que vocês me ofereçam sacrifícios, suas ofertas não me agradarão, nem olharei para as oferendas gordas."
+    },
+    {
+      "number": 23,
+      "text": "Longe de mim o barulho de seus cânticos, nem quero ouvir a música de suas liras."
+    },
+    {
+      "number": 24,
+      "text": "Eu quero, isto sim, é ver brotar o direito como água e correr a justiça como riacho que não seca."
+    },
+    {
+      "number": 25,
+      "text": "Vocês por acaso fizeram ofertas ou me ofereceram sacrifícios durante os quarenta anos de deserto, ó casa de Israel?"
+    },
+    {
+      "number": 26,
+      "text": "Vocês terão que carregar o seu próprio rei Sacut, e o ídolo Caivã, imagens de deuses que vocês fizeram para vocês próprios usarem."
+    },
+    {
+      "number": 27,
+      "text": "Porque eu vou levar vocês para o exílio, para muito além de Damasco — diz Javé, que se chama Deus dos exércitos. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

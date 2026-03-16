@@ -3,7 +3,284 @@
   "abbrev": "lm",
   "capitulo": 3,
   "total_capitulos": 5,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 69,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Eu sou alguém que provou a miséria, sob a vara da sua ira."
+    },
+    {
+      "number": 2,
+      "text": "Ele me conduziu e me fez andar nas trevas e não na luz."
+    },
+    {
+      "number": 3,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Lamentações"
+    },
+    {
+      "number": 3,
+      "text": "Ele volve e revolve contra mim a sua mão, o dia todo."
+    },
+    {
+      "number": 4,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 4,
+      "text": "Consumiu minha carne e minha pele, e quebrou os meus ossos."
+    },
+    {
+      "number": 5,
+      "text": "Ler Lamentacoes completo"
+    },
+    {
+      "number": 5,
+      "text": "À minha volta, armou um cerco de veneno e amargura,"
+    },
+    {
+      "number": 6,
+      "text": "me fez morar nas trevas como os que morreram há muito tempo."
+    },
+    {
+      "number": 7,
+      "text": "Cercou-me qual muro sem saída e, acorrentado, me prendeu."
+    },
+    {
+      "number": 8,
+      "text": "Clamar ou gritar de nada vale, ele está surdo à minha súplica."
+    },
+    {
+      "number": 9,
+      "text": "Com pedra cercou a minha estrada, distorceu o meu caminho."
+    },
+    {
+      "number": 10,
+      "text": "Ele foi para mim como urso de tocaia, um leão de emboscada."
+    },
+    {
+      "number": 11,
+      "text": "Desviou-me do caminho, me despedaçou e deixou inerte."
+    },
+    {
+      "number": 12,
+      "text": "Disparou seu arco, fez de mim o alvo de suas flechas."
+    },
+    {
+      "number": 13,
+      "text": "Em meus rins ele cravou suas flechas, tiradas de sua aljava."
+    },
+    {
+      "number": 14,
+      "text": "Eu me tornei uma piada para todos os povos, a gozação de todo o dia."
+    },
+    {
+      "number": 15,
+      "text": "Encheu meu estômago de amargura, embriagou-me de fel."
+    },
+    {
+      "number": 16,
+      "text": "Fez-me dar com os dentes numa pedra, estendeu-me na poeira."
+    },
+    {
+      "number": 17,
+      "text": "Fugiu a paz do meu espírito, a felicidade acabou."
+    },
+    {
+      "number": 18,
+      "text": "Eu digo: “Acabaram minhas forças e minha esperança em Javé”."
+    },
+    {
+      "number": 19,
+      "text": "Lembra-te de minha miséria e sofrimento, o fel que me envenena."
+    },
+    {
+      "number": 20,
+      "text": "Guardo triste essa lembrança e me sinto abatido."
+    },
+    {
+      "number": 21,
+      "text": "Mas existe alguma coisa que eu lembro e me dá esperança:"
+    },
+    {
+      "number": 22,
+      "text": "o amor de Javé não acaba jamais e sua compaixão não tem fim."
+    },
+    {
+      "number": 23,
+      "text": "Pelo contrário, renovam-se a cada manhã: “Como é grande a tua fidelidade!”"
+    },
+    {
+      "number": 24,
+      "text": "Digo a mim mesmo: “Javé é minha herança”, por isso nele espero."
+    },
+    {
+      "number": 25,
+      "text": "Javé é bom para os que nele esperam e o procuram."
+    },
+    {
+      "number": 26,
+      "text": "É bom esperar em silêncio a salvação de Javé."
+    },
+    {
+      "number": 27,
+      "text": "É bom para o homem suportar o jugo desde a juventude."
+    },
+    {
+      "number": 28,
+      "text": "Que esteja sozinho e calado, quando cai sobre ele a desgraça;"
+    },
+    {
+      "number": 29,
+      "text": "que ponha sua boca no pó: talvez haja esperança;"
+    },
+    {
+      "number": 30,
+      "text": "que entregue a face a quem o fere até fartar-se de insultos,"
+    },
+    {
+      "number": 31,
+      "text": "porque o Senhor não rejeita para sempre."
+    },
+    {
+      "number": 32,
+      "text": "Embora ele castigue, se compadecerá com grande amor,"
+    },
+    {
+      "number": 33,
+      "text": "porque é contra o seu desejo humilhar e castigar os homens,"
+    },
+    {
+      "number": 34,
+      "text": "esmagar sob os pés os prisioneiros todos da terra,"
+    },
+    {
+      "number": 35,
+      "text": "negar o direito do homem diante do Altíssimo,"
+    },
+    {
+      "number": 36,
+      "text": "lesar um homem no processo: o Senhor não aprova essas coisas."
+    },
+    {
+      "number": 37,
+      "text": "Quem mandou que acontecesse, se não foi o Senhor que ordenou?"
+    },
+    {
+      "number": 38,
+      "text": "Não é da boca do Altíssimo que vêm o mal e o bem?"
+    },
+    {
+      "number": 39,
+      "text": "Por que se queixa um ser vivo, um homem, pelo castigo do seu pecado?"
+    },
+    {
+      "number": 40,
+      "text": "Observemos e olhemos nosso caminho e voltemos para Javé."
+    },
+    {
+      "number": 41,
+      "text": "Levantemos, com nossas mãos, o coração para o Deus do céu."
+    },
+    {
+      "number": 42,
+      "text": "Nós pecamos, fomos rebeldes, e tu não nos perdoaste."
+    },
+    {
+      "number": 43,
+      "text": "Envolto em ira, tu nos perseguiste e mataste sem piedade."
+    },
+    {
+      "number": 44,
+      "text": "Tu te cercaste de uma nuvem para que nossas súplicas não te alcancem."
+    },
+    {
+      "number": 45,
+      "text": "Fizeste de nós o desprezo e o lixo das nações."
+    },
+    {
+      "number": 46,
+      "text": "Todos os nossos inimigos riem de nós."
+    },
+    {
+      "number": 47,
+      "text": "Assaltam-nos terrores e espantos, desgraças e fracassos."
+    },
+    {
+      "number": 48,
+      "text": "Derramo rios de lágrimas pela destruição da capital do meu povo."
+    },
+    {
+      "number": 49,
+      "text": "Meus olhos se diluem sem trégua nem descanso,"
+    },
+    {
+      "number": 50,
+      "text": "até que Javé apareça e me veja lá do céu."
+    },
+    {
+      "number": 51,
+      "text": "Meus olhos estão doendo por causa das jovens da minha cidade."
+    },
+    {
+      "number": 52,
+      "text": "Caçaram-me como pássaro os que me odeiam sem motivo."
+    },
+    {
+      "number": 53,
+      "text": "Jogaram-me vivo na fossa e puseram uma pedra em cima."
+    },
+    {
+      "number": 54,
+      "text": "Subiu água até meu pescoço, e eu pensei: “Estou perdido!”"
+    },
+    {
+      "number": 55,
+      "text": "Do fundo da fossa invoquei teu nome, ó Javé."
+    },
+    {
+      "number": 56,
+      "text": "Ouve a minha voz, não feches o ouvido ao meu apelo."
+    },
+    {
+      "number": 57,
+      "text": "Tu vieste na hora em que eu chamei, e respondeste: “Não tenha medo”."
+    },
+    {
+      "number": 58,
+      "text": "Tu te encarregaste de defender a minha causa e resgatar a minha vida."
+    },
+    {
+      "number": 59,
+      "text": "Tu viste, Javé, que sofro injustiça: julga a minha causa."
+    },
+    {
+      "number": 60,
+      "text": "Viste a vingança que tramam contra mim;"
+    },
+    {
+      "number": 61,
+      "text": "ouviste, Javé, os insultos, o que tramam contra mim,"
+    },
+    {
+      "number": 62,
+      "text": "o que dizem e tramam contra mim continuamente."
+    },
+    {
+      "number": 63,
+      "text": "Vigia todos os movimentos deles: eu sou objeto de suas piadas."
+    },
+    {
+      "number": 64,
+      "text": "Tu lhes pagarás, Javé, como suas obras merecem."
+    },
+    {
+      "number": 65,
+      "text": "Dá-lhes um coração endurecido e sobre eles caia a tua maldição."
+    },
+    {
+      "number": 66,
+      "text": "Persegue-os com ira e arrasa-os debaixo do céu. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

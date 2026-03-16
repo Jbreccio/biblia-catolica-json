@@ -3,7 +3,84 @@
   "abbrev": "hc",
   "capitulo": 3,
   "total_capitulos": 3,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 19,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Oração do profeta Habacuc, em tom de lamentação."
+    },
+    {
+      "number": 2,
+      "text": "Javé, ouvi falar da tua fama;"
+    },
+    {
+      "number": 3,
+      "text": "Deus vem lá de Temã,"
+    },
+    {
+      "number": 4,
+      "text": "Seu brilho é como o sol,"
+    },
+    {
+      "number": 5,
+      "text": "À frente dele vai a peste,"
+    },
+    {
+      "number": 6,
+      "text": "Ele pára, e a terra treme;"
+    },
+    {
+      "number": 7,
+      "text": "Vejo as tendas de Cusã apavoradas,"
+    },
+    {
+      "number": 8,
+      "text": "É contra os rios, Javé, é contra os rios"
+    },
+    {
+      "number": 9,
+      "text": "Levantas o teu arco"
+    },
+    {
+      "number": 10,
+      "text": "Ao ver-te, as montanhas estremecem;"
+    },
+    {
+      "number": 11,
+      "text": "O sol e a lua ficam em casa,"
+    },
+    {
+      "number": 12,
+      "text": "Caminhas furioso pela terra,"
+    },
+    {
+      "number": 13,
+      "text": "Tu sais para salvar o teu povo,"
+    },
+    {
+      "number": 14,
+      "text": "Com teus dardos atravessas o chefe,"
+    },
+    {
+      "number": 15,
+      "text": "Pisas o mar com teus cavalos,"
+    },
+    {
+      "number": 16,
+      "text": "Eu escutei. Minhas entranhas tremeram;"
+    },
+    {
+      "number": 17,
+      "text": "Ainda que a figueira não brote"
+    },
+    {
+      "number": 18,
+      "text": "eu me alegrarei em Javé"
+    },
+    {
+      "number": 19,
+      "text": "Meu Senhor Javé é a minha força,"
+    }
+  ]
 }

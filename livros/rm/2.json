@@ -3,7 +3,136 @@
   "abbrev": "rm",
   "capitulo": 2,
   "total_capitulos": 16,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 32,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Homem, você julga os outros? Seja quem for, você não tem desculpa. Pois, se julga os outros e faz o mesmo que eles fazem, você está condenando a si próprio."
+    },
+    {
+      "number": 2,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Romanos"
+    },
+    {
+      "number": 2,
+      "text": "Sabemos, porém, que Deus é justo quando condena os que praticam tais coisas."
+    },
+    {
+      "number": 3,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 3,
+      "text": "Mas você, que faz as mesmas coisas que condena nos outros, pensa que escapará do julgamento de Deus?"
+    },
+    {
+      "number": 4,
+      "text": "Ou será que você despreza a riqueza da bondade de Deus, da sua paciência e generosidade, desconhecendo que a bondade dele convida você à conversão?"
+    },
+    {
+      "number": 5,
+      "text": "Pela teimosia e dureza de coração, você está amontoando ira contra si mesmo para o dia da ira, quando o justo julgamento de Deus vai se revelar,"
+    },
+    {
+      "number": 6,
+      "text": "retribuindo a cada um conforme as suas próprias ações:"
+    },
+    {
+      "number": 7,
+      "text": "a vida eterna para aqueles que perseveram na prática do bem, buscando a glória, a honra e a imortalidade;"
+    },
+    {
+      "number": 8,
+      "text": "pelo contrário, ira e indignação para aqueles que se revoltam e rejeitam a verdade, para obedecerem à injustiça."
+    },
+    {
+      "number": 9,
+      "text": "Haverá tribulação e angústia para todo aquele que pratica o mal, primeiro para o judeu, depois para o grego."
+    },
+    {
+      "number": 10,
+      "text": "Mas haverá glória, honra e paz para todo aquele que pratica o bem, primeiro para o judeu, depois para o grego."
+    },
+    {
+      "number": 11,
+      "text": "Pois Deus não faz distinção de pessoas."
+    },
+    {
+      "number": 12,
+      "text": "Todos os que pecaram sem a Lei, sem a Lei também perecerão. Todos os que pecaram sob o regime da Lei, pela Lei serão julgados."
+    },
+    {
+      "number": 13,
+      "text": "Pois não são aqueles que ouvem a Lei que são justos diante de Deus, e sim aqueles que praticam o que a Lei manda."
+    },
+    {
+      "number": 14,
+      "text": "Os pagãos não têm a Lei. Mas, embora não a tenham, se eles fazem espontaneamente o que a Lei manda, eles próprios são Lei para si mesmos."
+    },
+    {
+      "number": 15,
+      "text": "Eles assim mostram que os preceitos da Lei estão escritos em seus corações; a consciência deles também testemunha isso, assim como os julgamentos interiores, que ora os condenam, ora os aprovam."
+    },
+    {
+      "number": 16,
+      "text": "Ler Romanos completo"
+    },
+    {
+      "number": 16,
+      "text": "É o que vai acontecer no dia em que Deus, segundo o meu Evangelho, for julgar, por meio de Jesus Cristo, o comportamento secreto dos homens."
+    },
+    {
+      "number": 17,
+      "text": "Você, que se diz judeu, que se apoia sobre a Lei e que coloca seu orgulho em Deus;"
+    },
+    {
+      "number": 18,
+      "text": "você, que conhece a vontade de Deus e que, instruído pela Lei, sabe distinguir o que é melhor;"
+    },
+    {
+      "number": 19,
+      "text": "você, que está convencido de ser o guia dos cegos, a luz daqueles que estão nas trevas,"
+    },
+    {
+      "number": 20,
+      "text": "o educador dos ignorantes, o mestre das pessoas simples, porque você possui na Lei a própria expressão do conhecimento e da verdade..."
+    },
+    {
+      "number": 21,
+      "text": "Muito bem! Você ensina aos outros e não ensina a si próprio! Você prega que não se deve roubar, e você mesmo rouba!"
+    },
+    {
+      "number": 22,
+      "text": "Você proíbe o adultério, e você mesmo o comete! Você odeia os ídolos, mas rouba os objetos dos templos!"
+    },
+    {
+      "number": 23,
+      "text": "Você se gloria da Lei, mas desonra a Deus, transgredindo a Lei!"
+    },
+    {
+      "number": 24,
+      "text": "Assim diz a Escritura: “Por causa de vocês, o nome de Deus é blasfemado entre os pagãos.”"
+    },
+    {
+      "number": 25,
+      "text": "A circuncisão é útil quando você pratica a Lei; mas, se você desobedece à Lei, é como se não estivesse circuncidado."
+    },
+    {
+      "number": 26,
+      "text": "Se um pagão não circuncidado observa os preceitos da Lei, não será tido como circuncidado, ainda que não o seja?"
+    },
+    {
+      "number": 27,
+      "text": "E o pagão que cumpre a Lei, embora não circuncidado fisicamente, julgará você que desobedece à Lei, embora você tenha a Lei escrita e a circuncisão."
+    },
+    {
+      "number": 28,
+      "text": "De fato, aquilo que faz o judeu não é o que se vê, nem é a marca visível na carne que faz a circuncisão."
+    },
+    {
+      "number": 29,
+      "text": "Pelo contrário, o que faz o judeu é aquilo que está escondido, e circuncisão é a do coração; e isso vem do espírito e não da letra da Lei. Tal homem recebe aprovação, não dos homens, mas de Deus. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

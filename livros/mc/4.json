@@ -3,7 +3,184 @@
   "abbrev": "mc",
   "capitulo": 4,
   "total_capitulos": 16,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 44,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Jesus começou a ensinar de novo às margens do mar da Galileia. Uma multidão se reuniu em volta dele. Por isso, Jesus entrou numa barca e sentou-se. A barca estava no mar, enquanto a multidão estava junto ao mar, na praia."
+    },
+    {
+      "number": 2,
+      "text": "Jesus ensinava-lhes muitas coisas com parábolas. No seu ensinamento dizia para eles:"
+    },
+    {
+      "number": 3,
+      "text": "“Escutem. Um homem saiu para semear."
+    },
+    {
+      "number": 4,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico São Marcos"
+    },
+    {
+      "number": 4,
+      "text": "Enquanto semeava, uma parte caiu à beira do caminho; os passarinhos foram e comeram tudo."
+    },
+    {
+      "number": 5,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Corí"
+    },
+    {
+      "number": 5,
+      "text": "Outra parte caiu em terreno pedregoso, onde não havia muita terra; brotou logo, porque a terra não era profunda."
+    },
+    {
+      "number": 6,
+      "text": "Porém, quando saiu o sol, os brotos se queimaram e secaram, porque não tinham raiz."
+    },
+    {
+      "number": 7,
+      "text": "Outra parte caiu no meio dos espinhos. Os espinhos cresceram, a sufocaram, e ela não deu fruto."
+    },
+    {
+      "number": 8,
+      "text": "Outra parte caiu em terra boa e deu fruto, brotando e crescendo: rendeu trinta, sessenta e até cem por um.”"
+    },
+    {
+      "number": 9,
+      "text": "E Jesus dizia: “Quem tem ouvidos para ouvir, ouça!”"
+    },
+    {
+      "number": 10,
+      "text": "Quando jesus ficou sozinho, os que estavam com ele, junto com os Doze, perguntaram o que significavam as parábolas."
+    },
+    {
+      "number": 11,
+      "text": "Jesus disse para eles: “Para vocês foi dado o mistério do Reino de Deus; para os que estão fora tudo acontece em parábolas,"
+    },
+    {
+      "number": 12,
+      "text": "para que olhem, mas não vejam, escutem, mas não compreendam, para que não se convertam e não sejam perdoados.”"
+    },
+    {
+      "number": 13,
+      "text": "Jesus lhes perguntou: “Vocês não compreendem essa parábola? Como então vão compreender todas as outras parábolas?"
+    },
+    {
+      "number": 14,
+      "text": "O semeador semeia a Palavra."
+    },
+    {
+      "number": 15,
+      "text": "Os que estão à beira do caminho são aqueles nos quais a Palavra foi semeada; logo que a ouvem, chega Satanás e tira a Palavra que foi semeada neles."
+    },
+    {
+      "number": 16,
+      "text": "Ler Sao Marcos completo"
+    },
+    {
+      "number": 16,
+      "text": "Do mesmo modo, os que recebem a semente em terreno pedregoso são aqueles que ouvem a Palavra e a recebem com alegria;"
+    },
+    {
+      "number": 17,
+      "text": "mas eles não têm raiz em si mesmos: são inconstantes, e, quando chega uma tribulação ou perseguição por causa da Palavra, eles logo desistem."
+    },
+    {
+      "number": 18,
+      "text": "Outros recebem a semente entre os espinhos: são aqueles que ouvem a Palavra;"
+    },
+    {
+      "number": 19,
+      "text": "mas surgem as preocupações do mundo, a ilusão da riqueza e todos os outros desejos, que sufocam a Palavra, e ela fica sem dar fruto."
+    },
+    {
+      "number": 20,
+      "text": "Por fim, aqueles que receberam a semente em terreno bom são os que ouvem a Palavra, a recebem e dão fruto; um dá trinta, outro sessenta e outro cem por um.”"
+    },
+    {
+      "number": 21,
+      "text": "Jesus continuou: “Quem é que traz uma lâmpada para colocá-la debaixo de uma vasilha ou debaixo da cama? Não a coloca no candeeiro?"
+    },
+    {
+      "number": 22,
+      "text": "Com efeito, tudo o que está escondido deverá tornar-se manifesto, e tudo o que está em segredo deverá ser descoberto."
+    },
+    {
+      "number": 23,
+      "text": "Se alguém tem ouvidos para ouvir, ouça.”"
+    },
+    {
+      "number": 24,
+      "text": "E Jesus dizia ainda: “Prestem atenção no que vocês ouvem: com a mesma medida com que vocês medirem, também vocês serão medidos; e será dado ainda mais para vocês."
+    },
+    {
+      "number": 25,
+      "text": "Para aquele que tem alguma coisa, será dado ainda mais; para aquele que não tem, será tirado até mesmo o que ele tem.”"
+    },
+    {
+      "number": 26,
+      "text": "E Jesus continuou dizendo: “O Reino de Deus é como um homem que espalha a semente na terra."
+    },
+    {
+      "number": 27,
+      "text": "Depois ele dorme e acorda, noite e dia, e a semente vai brotando e crescendo, mas o homem não sabe como isso acontece."
+    },
+    {
+      "number": 28,
+      "text": "A terra produz fruto por si mesma: primeiro aparecem as folhas, depois a espiga e, por fim, os grãos enchem a espiga."
+    },
+    {
+      "number": 29,
+      "text": "Quando as espigas estão maduras, o homem corta com a foice, porque o tempo da colheita chegou.”"
+    },
+    {
+      "number": 30,
+      "text": "Jesus dizia ainda: “Com que coisa podemos comparar o Reino de Deus? Que parábola podemos usar?"
+    },
+    {
+      "number": 31,
+      "text": "O Reino é como uma semente de mostarda, que é a menor de todas as sementes da terra."
+    },
+    {
+      "number": 32,
+      "text": "Mas, quando é semeada, a mostarda cresce e torna-se maior que todas as plantas; ela dá ramos grandes, de modo que os pássaros do céu podem fazer ninhos em sua sombra.”"
+    },
+    {
+      "number": 33,
+      "text": "Jesus anunciava a Palavra usando muitas outras parábolas como essa, conforme eles podiam compreender."
+    },
+    {
+      "number": 34,
+      "text": "Para a multidão Jesus só falava com parábolas, mas, quando estava sozinho com os discípulos, ele explicava tudo."
+    },
+    {
+      "number": 35,
+      "text": "Nesse dia, quando chegou a tarde, Jesus disse a seus discípulos: “Vamos para o outro lado do mar.”"
+    },
+    {
+      "number": 36,
+      "text": "Então os discípulos deixaram a multidão e o levaram na barca, onde Jesus já se encontrava. E outras barcas estavam com ele."
+    },
+    {
+      "number": 37,
+      "text": "Começou a soprar um vento muito forte, e as ondas se lançavam dentro da barca, de modo que a barca já estava se enchendo de água."
+    },
+    {
+      "number": 38,
+      "text": "Jesus estava na parte de trás da barca, dormindo com a cabeça num travesseiro. Os discípulos o acordaram e disseram: “Mestre, não te importa que nós morramos?”"
+    },
+    {
+      "number": 39,
+      "text": "Então Jesus se levantou e ameaçou o vento e disse ao mar: “Cale-se! Acalme-se!” O vento parou e tudo ficou calmo."
+    },
+    {
+      "number": 40,
+      "text": "Depois Jesus perguntou aos discípulos: “Por que vocês são tão medrosos? Vocês ainda não têm fé?”"
+    },
+    {
+      "number": 41,
+      "text": "Os discípulos ficaram muito cheios de medo e diziam uns aos outros: “Quem é esse homem, a quem até o vento e o mar obedecem?” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB G"
+    }
+  ]
 }

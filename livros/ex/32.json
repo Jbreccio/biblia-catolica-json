@@ -3,7 +3,160 @@
   "abbrev": "ex",
   "capitulo": 32,
   "total_capitulos": 40,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 38,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Quando o povo notou que Moisés estava demorando para descer da montanha, reuniu-se em torno de Aarão, e lhe disse: “Vamos! Faça para nós um deus que caminhe à nossa frente, porque não sabemos o que aconteceu com esse Moisés que nos tirou do Egito”."
+    },
+    {
+      "number": 2,
+      "text": "Aarão respondeu-lhes: “Tirem os brincos de ouro de suas mulheres, filhos e filhas, e tragam aqui”."
+    },
+    {
+      "number": 3,
+      "text": "Então todo o povo tirou os brincos e os levou para Aarão."
+    },
+    {
+      "number": 4,
+      "text": "Este recebeu o ouro, fundiu-o num molde e fez a estátua de um bezerro. Então eles disseram: “Israel, este é o seu deus, que tirou você do Egito”."
+    },
+    {
+      "number": 5,
+      "text": "Quando Aarão viu isso, construiu um altar diante da estátua, e proclamou: “Amanhã será festa em honra de Javé”."
+    },
+    {
+      "number": 6,
+      "text": "No dia seguinte, levantaram-se bem cedo, ofereceram holocaustos e levaram sacrifícios de comunhão. O povo sentou-se para comer e beber, e depois se levantou para se divertir."
+    },
+    {
+      "number": 7,
+      "text": "Javé disse a Moisés: “Vá! Desça, porque seu povo, que você tirou do Egito, se perverteu."
+    },
+    {
+      "number": 8,
+      "text": "Desviaram-se logo do caminho que eu lhes havia ordenado. Fizeram para si um bezerro de metal fundido, e o adoraram, oferecendo a ele sacrifícios e dizendo: ‘Israel, este é o seu deus que tirou você do Egito’ ”."
+    },
+    {
+      "number": 9,
+      "text": "E Javé continuou: “Vejo que esse povo é um povo de cabeça dura."
+    },
+    {
+      "number": 10,
+      "text": "Agora, portanto, deixe-me, porque minha ira vai se acender contra eles, até consumi-los. E de você, eu farei uma grande nação”."
+    },
+    {
+      "number": 11,
+      "text": "Então Moisés suplicou a Javé, seu Deus, dizendo: “Javé, por que a tua ira se acende contra o teu povo, que tiraste do Egito com grande poder e mão forte?"
+    },
+    {
+      "number": 12,
+      "text": "Por que os egípcios haveriam de dizer: ‘Ele os tirou com má intenção, para matá-los entre as montanhas e exterminá-los da face da terra’? Desiste do incêndio de tua ira e volta atrás do castigo que pretendias impor ao teu povo."
+    },
+    {
+      "number": 13,
+      "text": "Lembra-te dos teus servos Abraão, Isaac e Israel, aos quais juraste por ti mesmo, dizendo: ‘Eu multiplicarei a descendência de vocês como as estrelas do céu, e toda a terra que lhes prometi, eu a darei aos filhos de vocês, para que a possuam para sempre’ ”."
+    },
+    {
+      "number": 14,
+      "text": "Então Javé se arrependeu do castigo com o qual havia amea­çado o seu povo."
+    },
+    {
+      "number": 15,
+      "text": "Moisés voltou e desceu da montanha, com as duas tábuas da aliança na mão, tábuas es­critas nos dois lados, na frente e no ver­so."
+    },
+    {
+      "number": 16,
+      "text": "As tábuas eram obra de Deus, e a escritura era feita por Deus, gravada nas tábuas."
+    },
+    {
+      "number": 17,
+      "text": "Josué ouviu o barulho do povo, que dava gritos, e disse a Moisés: “Há um grito de guerra no acampamento!”"
+    },
+    {
+      "number": 18,
+      "text": "Moisés respondeu: “Não é grito de vitória, nem grito de derrota: estou ouvindo cantos al­ternados”."
+    },
+    {
+      "number": 19,
+      "text": "Quando se aproximou do acampamento e viu o bezerro e as danças, Moisés ficou enfurecido, jogou as tábuas e as quebrou no pé da montanha."
+    },
+    {
+      "number": 20,
+      "text": "Pegou o bezerro que haviam feito, o queimou e o moeu até reduzi-lo a pó. Depois espalhou o pó na água e fez os filhos de Israel beberem."
+    },
+    {
+      "number": 21,
+      "text": "Moisés perguntou a Aarão: “O que foi que este povo fez a você, para que você o arrastasse a um pecado tão grande?”"
+    },
+    {
+      "number": 22,
+      "text": "Aarão respondeu: “Não fique irritado, senhor. Você sabe o quanto este povo é inclinado para o mal."
+    },
+    {
+      "number": 23,
+      "text": "Eles me pediram: ‘Faça para nós um deus que caminhe à nossa frente, porque não sabemos o que aconteceu com esse Moisés, que nos tirou do Egito’."
+    },
+    {
+      "number": 24,
+      "text": "Eu disse então: ‘Quem tiver ouro, que o traga’. Eles me trouxeram, eu joguei no fogo, e saiu esse bezerro”."
+    },
+    {
+      "number": 25,
+      "text": "Moisés viu que o povo estava desenfreado, porque Aarão os havia abandonado à zombaria dos inimigos."
+    },
+    {
+      "number": 26,
+      "text": "Então Moisés ficou de pé no meio do acampamento, e gritou: “Quem estiver do lado de Javé, venha até mim”. E todos os filhos de Levi se reuniram em torno dele."
+    },
+    {
+      "number": 27,
+      "text": "Moisés então lhes disse: “Assim diz Javé, o Deus de Israel: ‘Cada um coloque a espada na cintura. Passem e repassem o acampamento, de porta em porta, matando até mesmo o seu irmão, companheiro e parente’.”"
+    },
+    {
+      "number": 28,
+      "text": "Os filhos de Levi fizeram o que Moisés havia mandado. E nesse dia morreram uns três mil homens do povo."
+    },
+    {
+      "number": 29,
+      "text": "Então Moisés disse: “Hoje vocês se consagraram a Javé, à custa do filho ou do irmão, a fim de que ele hoje conceda a bênção a vocês”."
+    },
+    {
+      "number": 30,
+      "text": "No dia seguinte, Moisés disse ao povo: “Vocês cometeram um pecado gravíssimo, mas agora eu vou subir até Javé, para ver se posso expiar o pecado de vocês”."
+    },
+    {
+      "number": 31,
+      "text": "Então Moisés voltou para Javé, e disse: “Esse povo cometeu um pecado gravíssimo, fabricando um deus de ouro."
+    },
+    {
+      "number": 32,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Êxodo"
+    },
+    {
+      "number": 32,
+      "text": "Agora, porém, ou perdoas o pecado deles ou me riscas do teu livro”."
+    },
+    {
+      "number": 33,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 33,
+      "text": "Javé respondeu a Moi­sés: “Riscarei do meu livro todo aquele que pecou contra mim."
+    },
+    {
+      "number": 34,
+      "text": "Agora vá e conduza o povo para onde eu lhe disse: meu anjo irá na frente. Mas quando chegar o dia das contas, eu punirei o pecado deles”."
+    },
+    {
+      "number": 35,
+      "text": "E Javé castigou o povo por adorar o bezerro que Aarão tinha feito. Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 40,
+      "text": "Ler Exodo completo"
+    }
+  ]
 }

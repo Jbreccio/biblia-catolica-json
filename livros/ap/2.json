@@ -3,7 +3,136 @@
   "abbrev": "ap",
   "capitulo": 2,
   "total_capitulos": 22,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 32,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "“Escreva ao Anjo da igreja de Éfeso. Assim diz aquele que tem na mão direita as sete estrelas, aquele que está andando no meio dos sete candelabros de ouro:"
+    },
+    {
+      "number": 2,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Apocalipse"
+    },
+    {
+      "number": 2,
+      "text": "Conheço a conduta de você, seu esforço e sua perseverança. Sei que você não suporta os maus. Apareceram alguns dizendo que eram apóstolos. Você os provou e descobriu que não eram. Eram mentirosos."
+    },
+    {
+      "number": 3,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 3,
+      "text": "Você é perseverante. Sofreu por causa do meu nome, e não desanimou."
+    },
+    {
+      "number": 4,
+      "text": "Mas há uma coisa que eu reprovo: você abandonou seu primeiro amor."
+    },
+    {
+      "number": 5,
+      "text": "Preste atenção: repare onde você caiu, converta-se e retome o caminho de antes. Caso contrário, se não se converter, eu chego e arranco da posição em que está o candelabro que você tem."
+    },
+    {
+      "number": 6,
+      "text": "Ainda uma coisa boa você tem: detesta a conduta dos nicolaítas. Também eu detesto."
+    },
+    {
+      "number": 7,
+      "text": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor eu darei como prêmio comer da árvore da vida que está no paraíso de Deus.”"
+    },
+    {
+      "number": 8,
+      "text": "“Escreva ao Anjo da igreja de Esmirna. Assim diz o Primeiro e o Último, aquele que esteve morto, mas voltou à vida:"
+    },
+    {
+      "number": 9,
+      "text": "Conheço sua tribulação e sua pobreza. Mas você é rico. Alguns que se dizem judeus andaram blasfemando. Mas eles de fato não são judeus. Eles formam, sim, uma sinagoga de Satanás."
+    },
+    {
+      "number": 10,
+      "text": "Não tenha medo do sofrimento que vai chegar. O diabo vai levar alguns de vocês para a cadeia. Será para vocês uma provação. Mas a tribulação não vai durar mais que dez dias. Seja fiel até à morte. Eu lhe darei em prêmio a coroa da vida."
+    },
+    {
+      "number": 11,
+      "text": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. O vencedor ficará livre da segunda morte.”"
+    },
+    {
+      "number": 12,
+      "text": "“Escreva ao Anjo da igreja de Pérgamo. Assim diz aquele que tem a espada afiada, de dois cortes:"
+    },
+    {
+      "number": 13,
+      "text": "Conheço o lugar onde você mora: é aí onde fica o trono de Satanás. Mas você mantém firme o meu nome. Você não renegou a fé, nem mesmo no tempo de Antipas. Ele era minha testemunha fiel, e foi morto no meio de vocês, aí onde mora Satanás."
+    },
+    {
+      "number": 14,
+      "text": "Mas você tem umas coisas que eu reprovo: muita gente por aí segue a doutrina de Balaão, aquele que ensinava Balac a colocar pedra de tropeço no caminho do povo de Israel. Ele queria que os filhos de Israel comessem da carne oferecida aos ídolos. Queria que se prostituíssem."
+    },
+    {
+      "number": 15,
+      "text": "Muita gente por aí também vai atrás da doutrina dos nicolaítas."
+    },
+    {
+      "number": 16,
+      "text": "Vamos! Converta-se! Caso contrário, logo, eu venho combater vocês com a espada da minha boca."
+    },
+    {
+      "number": 17,
+      "text": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor darei um prêmio: o maná escondido. Darei também uma pedrinha branca a cada um. Nela está escrito um nome novo, que ninguém conhece; só quem recebeu.”"
+    },
+    {
+      "number": 18,
+      "text": "“Escreva ao Anjo da igreja de Tiatira. Assim diz o Filho de Deus, que tem os olhos como chamas de fogo e os pés como bronze:"
+    },
+    {
+      "number": 19,
+      "text": "Conheço sua conduta: o amor, a fé, a dedicação, a perseverança e as suas obras mais recentes, ainda mais numerosas que as primeiras."
+    },
+    {
+      "number": 20,
+      "text": "Mas há uma coisa que eu reprovo: você nem sequer se incomoda com Jezabel, essa mulher que se diz profetisa. Ela ensina e seduz meus servos a se prostituírem, comendo carne oferecida aos ídolos."
+    },
+    {
+      "number": 21,
+      "text": "Já dei um prazo para ela se converter. Mas ela não quer largar a sua prostituição."
+    },
+    {
+      "number": 22,
+      "text": "Ler Apocalipse completo"
+    },
+    {
+      "number": 22,
+      "text": "Vou lançá-la num leito de doença, e os que cometem adultério com ela vou lançá-los numa grande tribulação, a menos que se convertam de sua conduta."
+    },
+    {
+      "number": 23,
+      "text": "Farei também morrer os filhos dela, para que as igrejas fiquem sabendo quem eu sou: conheço bem dentro de cada um, os rins e o coração; vou retribuir de acordo com a conduta de cada um."
+    },
+    {
+      "number": 24,
+      "text": "Sei que muitos de vocês em Tiatira não seguem essa doutrina, não conhecem as ‘profundezas de Satanás’, como dizem eles. Sobre vocês eu não coloco outro peso."
+    },
+    {
+      "number": 25,
+      "text": "Mas fiquem firmes naquilo que já têm, até que eu venha."
+    },
+    {
+      "number": 26,
+      "text": "Ao vencedor, ao que praticar a minha conduta até o fim, eu lhe darei autoridade sobre as nações;"
+    },
+    {
+      "number": 27,
+      "text": "o vencedor governará com cetro de ferro, podendo quebrar as nações como vasos de barro."
+    },
+    {
+      "number": 28,
+      "text": "Pois também eu recebi do Pai esse poder. Vou dar ao vencedor também a Estrela da manhã."
+    },
+    {
+      "number": 29,
+      "text": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas.” Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    }
+  ]
 }

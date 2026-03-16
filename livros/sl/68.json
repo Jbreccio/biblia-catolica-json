@@ -3,7 +3,164 @@
   "abbrev": "sl",
   "capitulo": 68,
   "total_capitulos": 150,
-  "total_versiculos": 0,
-  "versiculos": [],
-  "status": "pendente"
+  "total_versiculos": 39,
+  "fonte": "Biblia Pastoral — Ed. Paulus",
+  "versiculos": [
+    {
+      "number": 1,
+      "text": "Do mestre de canto. De Davi. Salmo. Cântico."
+    },
+    {
+      "number": 2,
+      "text": "Deus se levanta: seus inimigos debandam, seus adversários fogem de sua frente."
+    },
+    {
+      "number": 3,
+      "text": "Tu os dissipas como a fumaça se dissipa; como a cera se derrete diante do fogo, assim perecem os injustos diante de Deus."
+    },
+    {
+      "number": 4,
+      "text": "Os justos ao contrário se alegram, exultam na presença de Deus e dançam de alegria."
+    },
+    {
+      "number": 5,
+      "text": "Cantem a Deus, toquem ao seu nome, atapetem o caminho daquele que avança pelo deserto. O nome dele é Javé: alegrem-se na presença dele."
+    },
+    {
+      "number": 6,
+      "text": "Pai dos órfãos, protetor das viúvas, assim é Deus em sua morada santa."
+    },
+    {
+      "number": 7,
+      "text": "Deus dá aos marginalizados uma casa, liberta os cativos e os enriquece. Somente os rebeldes permanecem na terra seca."
+    },
+    {
+      "number": 8,
+      "text": "Ó Deus, quando saías à frente do teu povo, e avançavas pelo deserto,"
+    },
+    {
+      "number": 9,
+      "text": "a terra tremeu, o céu se dissolveu diante de Deus, o Deus do Sinai; diante de Deus, o Deus de Israel."
+    },
+    {
+      "number": 10,
+      "text": "Derramaste sobre tua herança, ó Deus, uma chuva copiosa, aliviando a terra esgotada,"
+    },
+    {
+      "number": 11,
+      "text": "e o teu rebanho habitou na terra que tua bondade, ó Deus, preparou para o pobre."
+    },
+    {
+      "number": 12,
+      "text": "O Senhor deu uma ordem, o anúncio de um exército numeroso:"
+    },
+    {
+      "number": 13,
+      "text": "“Reis e exércitos fogem correndo, e as mulheres repartem os despojos."
+    },
+    {
+      "number": 14,
+      "text": "Enquanto vocês repousavam nos apriscos, as pombas batiam suas asas prateadas destilando ouro de suas plumas."
+    },
+    {
+      "number": 15,
+      "text": "Enquanto o Todo-poderoso dispersava os reis, a neve caía sobre o monte Sombrio”."
+    },
+    {
+      "number": 16,
+      "text": "As montanhas de Basã são altíssimas, as montanhas de Basã são escarpadas."
+    },
+    {
+      "number": 17,
+      "text": "Ó montanhas escarpadas, por que vocês invejam a montanha que Deus escolheu para habitar, a moradia perpétua de Javé?"
+    },
+    {
+      "number": 18,
+      "text": "Milhares e milhares são os carros de Deus. O Senhor marcha do Sinai para o santuário."
+    },
+    {
+      "number": 19,
+      "text": "Subiste ao topo, levando cativos, e a ti deram homens como tributo, até mesmo os que resistiam, para que Javé Deus tivesse a sua casa."
+    },
+    {
+      "number": 20,
+      "text": "Bendito seja o Senhor a cada dia! Deus leva nossas cargas: ele é o nosso salvador!"
+    },
+    {
+      "number": 21,
+      "text": "Nosso Deus é um Deus que liberta, ao Senhor Javé pertencem as portas da morte."
+    },
+    {
+      "number": 22,
+      "text": "Sim, Deus esmaga a cabeça de seus inimigos, e o crânio cabeludo do criminoso contumaz."
+    },
+    {
+      "number": 23,
+      "text": "O Senhor disse: “Eu os farei voltar de Basã, eu os farei voltar do fundo do mar."
+    },
+    {
+      "number": 24,
+      "text": "Você banhará seus pés no sangue do inimigo, sangue que os cães lamberão com suas línguas”."
+    },
+    {
+      "number": 25,
+      "text": "O teu cortejo aparece, ó Deus, o cortejo do meu Deus, do meu rei, a caminho do santuário."
+    },
+    {
+      "number": 26,
+      "text": "Na frente marcham os cantores, atrás os tocadores de harpa, no meio as jovens, tocando pandeiros."
+    },
+    {
+      "number": 27,
+      "text": "“Bendigam a Deus nas assembleias, bendigam a Javé na comunidade de Israel”."
+    },
+    {
+      "number": 28,
+      "text": "Na frente vai Benjamim, o mais novo; os príncipes de Judá, com seu tropel; os príncipes de Zabulon, os príncipes de Neftali."
+    },
+    {
+      "number": 29,
+      "text": "Desfralda, ó Deus, o teu poder, o teu poder, ó Deus, que age em nosso favor."
+    },
+    {
+      "number": 30,
+      "text": "Que os reis tragam o seu tributo ao teu Templo, em Jerusalém."
+    },
+    {
+      "number": 31,
+      "text": "Reprime a Fera dos caniços, a tropa dos Touros e os Novilhos dos povos. Que se rendam a ti com barras de prata. Dispersa os povos que gostam de guerras!"
+    },
+    {
+      "number": 32,
+      "text": "Do Egito venham os grandes, e a Etiópia estenda as mãos para Deus."
+    },
+    {
+      "number": 33,
+      "text": "Cantem a Deus, reis da terra, toquem para o Senhor,"
+    },
+    {
+      "number": 34,
+      "text": "que avança pelos céus, os céus antigos. Ele ergue sua voz, sua voz poderosa:"
+    },
+    {
+      "number": 35,
+      "text": "“Reconheçam a força de Deus!” Sua majestade resplandece sobre Israel, e por sobre as nuvens o seu poder."
+    },
+    {
+      "number": 36,
+      "text": "Desde o santuário Deus impõe reverência: ele é o Deus de Israel, que dá força e poder ao seu povo. Bendito seja Deus! Gerar Imagem Gerador de imagem Católica &times; Texto selecionado: Nenhum texto selecionado Configuração da Fonte: Tamanho Tipo Cor Tamanho da Fonte: 50px 20px 100px Escolha o Tipo de Fonte: Georgia Times New Roman Palatino Linotype Garamond Book Antiqua Baskerville Hoefler Text Bodoni MT Didot Cambria Playfair Display Merriweather Lora Crimson Text Libre Baskerville EB Garamond Cormorant Garamond Spectral Roboto Open Sans Lato Montserrat Poppins Raleway Nunito Work Sans Inter Quicksand Josefin Sans Arial Helvetica Trebuchet MS Verdana Tahoma Lucida Sans Calibri Century Gothic Futura Dancing Script Pacifico Great Vibes Satisfy Caveat Brush Script MT Comic Sans MS Courier New Lucida Console Monaco Consolas Source Code Pro Impact Bebas Neue Righteous Abril Fatface Cinzel Escolha entre diferentes estilos de fontes Escolha a Cor do Texto: #FFFFFF Branco Cores Rápidas Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Dimensões da Imagem: Padrão (800x600) Instagram Quadrado (1080x1080) Instagram Story (1080x1350) Facebook/Twitter (1200x630) Full HD (1920x1080) Tipo de Background: Imagens Gradientes Cor Sólida Uma imagem aleatória será selecionada automaticamente Escolha um Gradiente: Roxo Profundo Índigo → Roxo Gradientes Vibrantes Gradientes Suaves Gradientes Quentes Clique no seletor acima para escolher um gradiente Escolha uma Cor Sólida: #3949AB Azul Índigo Cores Vibrantes Cores Suaves Cor Personalizada Tons de Cinza Clique no seletor acima para escolher uma cor Ou Envie sua Imagem: Escolher Arquivo Baixar Imagem Compartilhar"
+    },
+    {
+      "number": 68,
+      "text": "- Bíblia Católica Pastoral - Ed. Paulus | Lírio Católico Salmos"
+    },
+    {
+      "number": 69,
+      "text": "Início da Bíblia Selecionar livro... Gênesis Êxodo Levítico Números Deuteronômio Josué Juízes Rute I Samuel II Samuel I Reis II Reis I Crônicas II Crônicas Esdras Neemias Tobias Judite Ester I Macabeus II Macabeus Jó Salmos Provérbios Eclesiastes Cântico dos Cânticos Sabedoria Eclesiástico Isaías Jeremias Lamentações Baruc Ezequiel Daniel Oséias Joel Amós Abdias Jonas Miquéias Naum Habacuc Sofonias Ageu Zacarias Malaquias São Mateus São Marcos São Lucas São João Atos dos Apóstolos Romanos I Coríntios II Coríntios Gálatas Efésios Filipenses Colossenses I Tessalonicenses II Tessalonicenses I Timóteo II Timóteo Tito Filêmon Hebreus São Tiago I São Pedro II São Pedro I São João II São João III São João São Judas Apocalipse Selecionar capítulo... Capítulo"
+    },
+    {
+      "number": 150,
+      "text": "Ler Salmos completo"
+    }
+  ]
 }
